@@ -1,0 +1,13 @@
+"Metric","Pakistani Parliament
+(Giant Component)","Erdős.Rényi..Random.","Watts.Strogatz..Small.World.","Barabási.Albert..Scale.Free."
+"Number of Nodes (n)",282,282,282,282
+"Number of Edges (m)",2350,2350,2538,2220
+"Average Degree",16.667,16.667,18,15.745
+"Average Path Length",5.942,2.293,2.501,2.303
+"Clustering Coefficient",0.5461,0.0604,0.3741,0.1249
+"Diameter",67,3,4,4
+"Power-Law α (gamma)",4.338,10.336,11.245,2.76
+"Power-Law xmin",25,20,18,8
+"Power-Law KS Statistic",NA,NA,NA,NA
+"Number of Communities (Fast Greedy)",14,6,4,6
+"Modularity",0.6968,0.1999,0.5069,0.194

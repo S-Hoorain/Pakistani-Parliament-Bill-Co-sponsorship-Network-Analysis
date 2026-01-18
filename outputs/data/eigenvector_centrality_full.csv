@@ -1,0 +1,399 @@
+"Legislator","Party","Eigenvector"
+"Riaz Fatyana","PTI",1
+"Syed Fakhar Imam","PTI",0.956692
+"Amjid Ali Khan","PTI",0.735459
+"Mian Najibuddin Awaisi","PML-N",0.431925
+"Nafeesa Inayatullah Khan Khattak","PTI",0.011554
+"Mohsin Javed","IND",0.007631
+"Syed Naveed Qamar","PPPP",0.005591
+"Mohsin Shah Nawaz Ranjha","PML-N",0.005482
+"Ali Nawaz Awan","PTI",0.00506
+"Uzma Riaz","PTI",0.00459
+"Sadaqat Ali Khan","PTI",0.004555
+"Raja Khurram Shahzad Nawaz","PTI",0.004255
+"Haider Ali","PTI",0.003975
+"Mehnaz Akber Aziz","PML-N",0.003017
+"Noor Alam Khan","PTI",0.002454
+"Asad Umar","PTI",0.002219
+"Imran Khattak","PTI",0.001905
+"Muhammad Sana Ullah Khan Masti Khel","PTI",0.001686
+"Nooreen Farooq Khan","PTI",0.00166
+"Rana Iradat Sharif Khan","PML-N",0.001619
+"Muhammad Ibrahim Khan","PTI",0.001604
+"Sardar Muhammad Irfan Dogar","PML-N",0.001594
+"Rai Muhammad Murtaza Iqbal","PTI",0.001593
+"Dr. Muhammad Afzal Khan Dhandla","PTI",0.001584
+"Syed Sajid Mehdi","PML-N",0.001581
+"Ch. Muhammad Ashraf","PML-N",0.00158
+"Malik Nawab Sher Waseer","PTI",0.001573
+"Makhdoom Syed Sami-ul-Hassan Gillani","PTI",0.001572
+"Ch. Iftikhar Nazir","PML-N",0.001572
+"Haji Imtiaz Ahmed Choudhary","PTI",0.001572
+"Malik Karamat Ali","PTI",0.001572
+"Moulana Abdul Akbar Chitrali","MMA",0.001272
+"Asma Hadeed","PTI",0.000984
+"James Iqbal","MMA",0.000918
+"Shazia Marri","PPPP",0.000872
+"Marriyum Aurangzeb","PML-N",0.000851
+"Romina Khurshid Alam","PML-N",0.000823
+"Sher Akbar Khan","JI",0.00082
+"Sher Ali Arbab","PTI",0.000817
+"Aamer Mehmood Kiyani","PTI",0.000812
+"Naz Baloch","PPPP",0.000802
+"Rana Tanveer Hussain","PML-N",0.000732
+"Ahsan Iqbal","PML-N",0.000716
+"Murtaza Javed Abbasi","PML-N",0.000712
+"Afreen Khan","MMA",0.000702
+"Muhammad Sajjad","PML-N",7e-04
+"Imran Khan","PTI",0.00062
+"Abdul Qadir Patel","PPPP",0.000596
+"Rana Sana Ullah Khan","PML-N",0.000513
+"Abdul Rehman Khan Kanju","PML-N",0.00035
+"Kishwer Zehra","MQM",0.000335
+"Iqbal Muhammad Ali Khan","MQM",0.000311
+"Usama Qadri","MQM",0.000294
+"Raja Pervez Ashraf","PPPP",0.000271
+"Salah-ud-Din","MQM",0.000217
+"Khurram Dastgir Khan","PML-N",0.000172
+"Ali Khan Jadoon","PTI",0.000167
+"Engineer Sabir Hussain","MQM",0.00016
+"Khawaja Muhammad Asif","PML-N",0.000137
+"Shahid Khaqan Abbasi","PML-N",0.000136
+"Khawaja Saad Rafique","PML-N",0.00013
+"Shandana Gulzar Khan","PTI",0.00013
+"Farrukh Khan","PML",0.000122
+"Muhammad Akram","PTI",0.000116
+"Raja Riaz Ahmad","PTI",0.000116
+"Tahira Aurangzeb","PML-N",0.000111
+"Rana Muhammad Qasim Noon","PTI",0.000106
+"Syed Amin ul Haque","MQM",0.000103
+"Ms. Nafisa Shah","PPPP",1e-04
+"Shaista Pervaiz","PML-N",9.1e-05
+"Saleh Muhammad","PTI",8.8e-05
+"Malik Muhammad Aamir Dogar","IND",8.7e-05
+"Khalid Hussain Magsi","BAP",8.7e-05
+"Aftab Jehangir","PTI",8.5e-05
+"Salah Ud Din Ayubi","MMA",7.8e-05
+"Mrs. Aliya Kamran","MMA",7.7e-05
+"Prince Muhammad Nawaz Allai","PTI",7.3e-05
+"Shahida Akhtar Ali","JUI",7e-05
+"Shaza Fatima Khawaja","PML-N",6.8e-05
+"Zille Huma","PTI",5.4e-05
+"Sardar Ayaz Sadiq","PML-N",4.9e-05
+"Faheem Khan","PTI",4.6e-05
+"Atta Ullah","PTI",4.6e-05
+"Dr. Seemin Abdul Rehman Bokhari","PTI",4.5e-05
+"Munaza Hassan","PTI",3.8e-05
+"Fauzia Behram","PTI",3.8e-05
+"Dr. Shireen Mehrunnisa Mazari","PTI",3.7e-05
+"Dr. Arif Alvi","PTI",3.6e-05
+"Nuzhat Pathan","PTI",3.4e-05
+"Dr. Nikhat Shakeel Khan","MQM",3.1e-05
+"Agha Hassan Baloch","BNP-M",3.1e-05
+"Sardar Akhter Jan Mengal","BNP-M",3e-05
+"Samina Matloob","PML-N",2.9e-05
+"Seema Mohiuddin Jameeli","PML-N",2.9e-05
+"Zahra Wadood Fatemi","PML-N",2.8e-05
+"Syed Iftikhar Ul Hassan","PML-N",2.7e-05
+"Rana Mubashir lqbal","PML-N",2.7e-05
+"Shunila Ruth","PTI",2.7e-05
+"Rahat Aman Ullah Bhatti","PTI",2.6e-05
+"Shaheen Naz Saifullah","PTI",2.6e-05
+"Muhammad Muzammil Qureshi","MQM",2.4e-05
+"Shaikh Salahuddin","MQM",2.3e-05
+"Amirullah","PTI",2.3e-05
+"Rai Hasan Nawaz Khan","PTI",2.3e-05
+"Saman Sultana Jafri","MQM",2.2e-05
+"Sahibzada Tariq Ullah","JI",2.2e-05
+"S. A. Iqbal Qadri","MQM",2.1e-05
+"Ali Muhammad Khan","PTI",2.1e-05
+"Dr. Khalid Maqbool Siddiqui","MQM",2.1e-05
+"Aisha Syed","JI",2.1e-05
+"Sahib Zada Muhammad Yaqub","JI",2.1e-05
+"Choudhary Faqir Ahmad","PML-N",2.1e-05
+"Qaisar Jamal","PTI",2.1e-05
+"Aqibullah","PTI",2e-05
+"Mrs. Shahida Rehmani","PPPP",1.9e-05
+"Kiran Imran","PML-N",1.9e-05
+"Rao Muhammad Ajmal Khan","PML-N",1.9e-05
+"Shahid Ahmad","PTI",1.9e-05
+"Dr. Fouzia Hameed","MQM",1.7e-05
+"Sardar Riaz Mehmood Khan Mazari","PTI",1.7e-05
+"Abdul Waseem","MQM",1.6e-05
+"Mujahid Ali","PTI",1.5e-05
+"Sanjay Perwani","MQM",1.4e-05
+"Syed Rafiullah","PPPP",1.3e-05
+"Sajid Ahmed","MQM",1.2e-05
+"Syed Ali Raza Abidi","MQM",1.2e-05
+"Mehboob Alam","MQM",1.2e-05
+"Syed Waseem Hussain","MQM",1.2e-05
+"Siraj Muhammad Khan","PTI",1.1e-05
+"Ghulam Sarwar Khan","PTI",1.1e-05
+"Usman Khan Tarrakai","PTI",1.1e-05
+"Dr. Muhammad Azhar Khan Jadoon","PTI",1.1e-05
+"Syed Javed Hassnain","PML-N",1e-05
+"Jai Parkash","PTI",1e-05
+"Sufyan Yousuf","MQM",9e-06
+"Mohammad Salman Khan Baloch","MQM",9e-06
+"Dr. Muhammad Farooq Sattar","MQM",8e-06
+"Gul Zafar Khan","PTI",8e-06
+"Gul Dad Khan","PTI",8e-06
+"Munir Khan Orakzai","MMA",8e-06
+"Zulfiqar Ali Khan","PTI",8e-06
+"Muhammad Jamal Ud Din","MMA",7e-06
+"Asiya Azeem","PTI",7e-06
+"Naveed Aamir","PPPP",6e-06
+"Ijaz Ahmad Shah","PTI",6e-06
+"Jam Abdul Karim Bijar","PPPP",6e-06
+"Makhdoom Shah Mahmood Qureshi","PTI",6e-06
+"Syed Asif Hasnain","MQM",6e-06
+"Muhammad Rehan Hashmi","MQM",6e-06
+"Muhammad Azam Khan Swati","PTI",6e-06
+"Muhammad Kamal Malik","MQM",6e-06
+"Abdul Shakoor","MMA",6e-06
+"Syed Mehmood Shah","MMA",6e-06
+"Zahid Akram Durani","MMA",6e-06
+"Maulvi Asmatullah","MMA",6e-06
+"Dr. Azra Fazal Pecheho","PPPP",5e-06
+"Nusrat Wahid","PTI",5e-06
+"Abdul Rashid Godil","MQM",5e-06
+"Junaid Akbar","PTI",4e-06
+"Bilal Azhar Kayani","PML-N",4e-06
+"Mehboob Shah","PTI",4e-06
+"Jamshed Thomas","PTI",4e-06
+"Hamid Ul Haq","PTI",4e-06
+"Syed Amin-ul-Haque","MQM",4e-06
+"Sajid Khan","PTI",4e-06
+"Syed Abrar Ali Shah","PPPP",4e-06
+"Dr. Ramesh Kumar Vankwani","PTI",3e-06
+"Naeema Kishwar Khan","JUI",3e-06
+"Aasiya Nasir","JUI",3e-06
+"Parveen Masood Bhatti","PML-N",3e-06
+"Phyllis Azeem","PML-N",3e-06
+"Qadir Khan Mandokhail","PPPP",2e-06
+"Jamshaid Ahmad Dasti","IND",2e-06
+"Qaisar Ahmad Sheikh","PML-N",2e-06
+"Ameer Zaman","JUI",2e-06
+"Kanwar Naveed Jamil","MQM",2e-06
+"Agha Muhammad","JUI",2e-06
+"Aaisha Gulalai","PTI",2e-06
+"Shahnaz Saleem Malik","PML-N",2e-06
+"Muhammad Gohar Shah","JUI",2e-06
+"Murad Saeed","PTI",2e-06
+"Imran Zafar Leghari","PPPP",2e-06
+"Qari Muhammad Yousaf","JUI",2e-06
+"Aslam Bodla","PML-N",2e-06
+"Dr. Hafeez Ur Rehman Khan","PML-N",2e-06
+"Reeta Ishwar","PML-F",2e-06
+"Muhammad Abubakar","MQMP",2e-06
+"Kamal Uddin","MMA",2e-06
+"Dawar Khan Kundi","PTI",2e-06
+"Shafqat Mehmood","PTI",1e-06
+"Sajida Begum","PTI",1e-06
+"Kesoo Mal Kheeal Das","PML-N",1e-06
+"Dr. Zulfiqar Ali Bhatti","PML-N",1e-06
+"Asiya Naz Tanoli","PML-N",1e-06
+"Nawab Muhammad Yousuf Talpur","PPPP",1e-06
+"Umar Ayub Khan","PTI",1e-06
+"Muhammad Raza Hayat Hiraj","PML-N",1e-06
+"Mohammad Khan Sherani","JUI",1e-06
+"Ghous Bux Khan Mahar","GDA",1e-06
+"Bhawan Das","PML-N",1e-06
+"Farhana Qamar","PML-N",1e-06
+"Muhammad Safdar","PML-N",1e-06
+"Mussarat Ahmadzeb","PTI",1e-06
+"Kiran Haider","PML-N",1e-06
+"Begum Tahira Bukhari","PML-N",1e-06
+"Khawaja Sohail Mansoor","MQM",1e-06
+"Shah Jee Gul Afridi","IND",1e-06
+"Shehryar Afridi","PTI",1e-06
+"Shakila Khalid Chaudhary","PML-N",1e-06
+"Mehmood Khan Achakzai","PKMAP",1e-06
+"Syed Qazim Ali Shah","PML-F",1e-06
+"Syed Imran Ahmad Shah","PML-N",1e-06
+"Muhammad Ali Rashid","MQM",1e-06
+"Tariq Christopher Qaiser","PML-N",1e-06
+"Ch. Asad Ur Rehman","PML-N",1e-06
+"Malik Abdul Ghaffar Dogar","PML-N",1e-06
+"Bilal Rehman","IND",1e-06
+"Abdul Kareem","PML-N",1e-06
+"Qamar Ud Din","JUI",1e-06
+"Tahira Asif","MQM",1e-06
+"Syed Ayaz Ali Shah Sheerazi","PML-N",1e-06
+"Engineer Mohammad Usman Badaini","IND",1e-06
+"Zahoor Hussain Qureshi","PTI",1e-06
+"Sardar Nasrullah Khan Drishak","PTI",1e-06
+"Khalil George","PML-N",1e-06
+"Sardar Kamal Khan Bangulzai","NP",1e-06
+"Zulfiqar Ahmad","PML-N",1e-06
+"Mohammad Ishaq Dar","IND",0
+"Zaheer-ud-Din Babar Awan","PTI",0
+"Zahid Hamid Khan","PML-N",0
+"Muhammad Farogh Nasim","MQM",0
+"Sheikh Aftab Ahmed","PML-N",0
+"Dr. Abdul Hafeez Sheikh","Minister",0
+"Azam Nazeer Tarar","PML-N",0
+"Pervaiz Rashid","PML-N",0
+"Shaukat Fayaz Ahmed Tarin","PTI",0
+"Surriya Asghar","PML-N",0
+"Pervaiz Khattak","PTI",0
+"Ch. Nisar Ali Khan","PML-N",0
+"Sheikh Rasheed Ahmad","AMLP",0
+"Syed Naveed Qammar","PPPP",0
+"Muhammad Baleegh-ur-Rehman","PML-N",0
+"Muhammad Hammad Azhar","PTI",0
+"Marvi Memon","PML-N",0
+"Mohammad Ayaz Soomro","PPPP",0
+"Noor-ul-Haq Qadri","PTI",0
+"Syed Mohsin Raza Naqvi","IND",0
+"Wajiha Akram","PTI",0
+"Muhammad Aslam Khan","PTI",0
+"Ali Gohar Khan","PML-N",0
+"Mohammad Aslam Bhootani","IND",0
+"Faiz Ullah","PTI",0
+"Mrs. Mahreen Razaque Bhutto","PPPP",0
+"Rana Muhammad Afzal Khan","PML-N",0
+"Sharmila Sahiba Faruqui Hashaam","PPPP",0
+"Shahadat Awan","PPPP",0
+"Musadik Masood Malik","IND",0
+"Maj. Retd. Tahir Iqbal","PML-N",0
+"Mrs. Belum Hasnain","PPPP",0
+"Dr. Shazia Sobia","PPPP",0
+"Sajid Hussain Turi","PPPP",0
+"Naveed Amir","PPPP",0
+"Mr. Kamran Michael","PML-N",0
+"Muhammad Mian Soomro","PTI",0
+"Zubaida Jalal","BAP",0
+"Mumtaz Ahmad Tarar","PML-N",0
+"Sohail Sultan","SIC",0
+"Muhammad Talha Mehmood","JUI-F",0
+"Abdul Qadir Baloch","PML-N",0
+"Ch. Tariq Bashir Cheema","PML",0
+"Syed Hussain Tariq","PPPP",0
+"Saira Afzal Tarar","PML-N",0
+"Babar Nawaz Khan","PML-N",0
+"Anusha Rahman Ahmad Khan","PML-N",0
+"Ramesh Lal","PPPP",0
+"Zartaj Gull","PTI",0
+"Asad Mehmood","MMA",0
+"Muhammad Pervaiz Malik","PML-N",0
+"Fawad Ahmed","PTI",0
+"Sahibzada Sibghatullah","SIC",0
+"Shahida Rehmani","PPPP",0
+"Syed Ali Haider Zaidi","PTI",0
+"Ch. Mahmood Bashir Virk","PML-N",0
+"Miftah Ismail","PML-N",0
+"Ghulam Bibi Bharwana","PTI",0
+"Syed Khursheed Ahmed Shah","PPPP",0
+"Awais Ahmad Khan Leghari","PML-N",0
+"Muhammad Aurangzeb","PML-N",0
+"Isphanyar M. Bhandara","PML-N",0
+"Nausheen Hamid","PTI",0
+"Shahab-ud-Din Khan","PML-N",0
+"Zeb Jaffar","PML-N",0
+"Asia Naz Tanoli","PML-N",0
+"Makhdoom Khusro Bakhtiar","PTI",0
+"Noor Ul Hassan Tanvir","PML-N",0
+"Sofia Saeed Shah","MQM",0
+"Shakila Luqman","PML-N",0
+"Nafisa Shah","PPPP",0
+"Dr. Darshan","PML-N",0
+"Nasir Khan Khattak","PTI",0
+"Kesoo Mal Kheal Das","PML-N",0
+"Ghulam Muhammad Lali","PTI",0
+"Danyal Chaudhry","PML-N",0
+"Sikandar Hayat Khan Bosan","PML-N",0
+"Abdul Aleem Khan","IPP",0
+"Anjum Aqeel Khan","PML-N",0
+"Syed Shibli Faraz","PTI",0
+"Usama Ahmed Mela","SIC",0
+"Khalida Mansoor","PML-N",0
+"Sehar Kamran","PPPP",0
+"Lal Chand Malhi","PTI",0
+"Muhammad Mobeen Arif","SIC",0
+"Ahmad Hussain","PTI",0
+"Nighat Parveen","PML-N",0
+"Bilawal Bhutto Zardari","PPPP",0
+"Leila Khan","PML-N",0
+"Munawara Bibi Baloch","PTI",0
+"Tariq Fazal Chaudhry","PML-N",0
+"Abdul Shakoor Shad","PTI",0
+"Maiza Hameed","PML-N",0
+"Zahira Wadood Fatemi","PML-N",0
+"Mian Abdul Manan","PML-N",0
+"Javairia Zafar","PTI",0
+"Ch. Armaghan Subhani","PML-N",0
+"Usman Ibrahim","PML-N",0
+"Mian Riaz Hussain Pirzada","PML-N",0
+"Dr. Tariq Fazal Ch.","PML-N",0
+"Abid Sher Ali","PML-N",0
+"Muhammad Alamgir Khan","PTI",0
+"Ibadullah","PML-N",0
+"Raja Osama Sarwar","PML-N",0
+"Ch. Muhammad Hamid Hameed","PML-N",0
+"Nelson Azeem","PML-N",0
+"Ahad Khan Cheema","PMLN",0
+"Syeda Nosheen Iftikhar","PML-N",0
+"Pir Syed Saddaruddin Shah Rashdi","PML-F",0
+"Ms Shagufta Jumani","PPPP",0
+"Syed Ghulam Mustafa Shah","PPPP",0
+"Mir Ghulam Ali Talpur","PPPP",0
+"Khurshed Ahmed Junejo","PPPP",0
+"Mahreen Razzaq Bhutto","PPPP",0
+"Shahzada Muhammad Gushtasap Khan","SIC",0
+"Asad Qaiser","SIC",0
+"Changaze Ahmed Khan","SIC",0
+"Aliya Kamran","JUIP",0
+"Sana Ullah Khan Mastikhel","SIC",0
+"Mahesh Kumar Malani","PPPP",0
+"Bismillah Khan","IND",0
+"Ehsanullah Reki","BAP",0
+"Ihsan ul Haq Bajwa","PML-N",0
+"Nawabzada Shah Zain Bugti","JWP",0
+"Chaudhry Riaz-ul-Haq","PML-N",0
+"Syed Ali Musa Gilani","PPPP",0
+"Mrs. Musarat Rafique Mahesar","PPPP",0
+"Salman Hanif","PML-N",0
+"Iffat Liaqat","PML-N",0
+"Nuzhat Sadiq","PML-N",0
+"Malik Shakir Bashir Awan","PML-N",0
+"Abdul Majeed Khan Khanan Khel","PML-N",0
+"Rana Afzaal Hussain","PML-N",0
+"Farooq Hamid Naek","PPPP",0
+"Musarrat Rafique Mahesar","PPPP",0
+"Muhammad Hanif Abbasi","PML-N",0
+"Amra Khan","PML-N",0
+"Aftab Ahmad Khan Sherpao","QWP",0
+"Samina Khalid Ghurki","PPPP",0
+"Ihsan Ur Rahman Mazari","PPPP",0
+"Ahmed Raza Maneka","PML-N",0
+"Ali Pervaiz","PML-N",0
+"Mir Aijaz Hussain Jakhrani","PPPP",0
+"Muhammad Ayub","PTI",0
+"Chaudhry Salik Hussain","PML",0
+"Dr. Amjad Ali Khan","SIC",0
+"Muhammad Javed Hanif Khan","MQM",0
+"Syed Mustafa Kamal","MQM",0
+"Syed Hafeezuddin","MQM",0
+"Shafqat Abbas","SIC",0
+"Sajid Nawaz","PTI",0
+"Sherry Rehman","PPPP",0
+"Ali Amin Khan","PTI",0
+"Muhammad Ijaz Ahmed Ch.","PML-N",0
+"Makhdoom Syed Ali Hassan Gillani","PML-N",0
+"Dr. Nisar Ahmad","PML-N",0
+"Nasiba Channa","PPPP",0
+"Khwaja Ghulam Rasool Koreja","PPPP",0
+"Asghar Ali Shah","PPPP",0
+"Mirza Ikhtiar Baig","PPPP",0
+"Shazia Sobia Aslam Soomro","PPPP",0
+"Syed Ali Qasim Gillani","PPPP",0
+"Aurangzeb Khan","IND",0
+"Nawabzada Iftikhar Ahmed Khan Babar","PPPP",0
+"Rana Shamim Ahmed Khan","PML-N",0
+"Mohammad Riaz Khan","SIC",0
+"Khawaja Izhar-ul-Hassan","MQM",0
+"Nisar Ahmad Cheema","PML-N",0
+"Ch. Abid Raza","PML-N",0
+"Mir Dostain Khan Domki","PML-N",0
+"Zulfiqar Ali Bhatti","PML-N",0

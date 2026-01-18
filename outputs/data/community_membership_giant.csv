@@ -1,0 +1,283 @@
+"Community_Label","Community_ID","Legislator","Party","Degree"
+"C01",1,"Sardar Ayaz Sadiq","PML-N",22
+"C01",1,"Rana Tanveer Hussain","PML-N",10
+"C01",1,"Azam Nazeer Tarar","PML-N",4
+"C01",1,"Khawaja Muhammad Asif","PML-N",13
+"C01",1,"Shaza Fatima Khawaja","PML-N",18
+"C01",1,"Khurram Dastgir Khan","PML-N",13
+"C01",1,"Marriyum Aurangzeb","PML-N",19
+"C01",1,"Mohsin Shah Nawaz Ranjha","PML-N",18
+"C01",1,"Rana Sana Ullah Khan","PML-N",19
+"C01",1,"Murtaza Javed Abbasi","PML-N",10
+"C01",1,"Khawaja Saad Rafique","PML-N",12
+"C01",1,"Ahsan Iqbal","PML-N",10
+"C01",1,"Shahid Khaqan Abbasi","PML-N",12
+"C01",1,"Sardar Muhammad Irfan Dogar","PML-N",20
+"C01",1,"Syed Iftikhar Ul Hassan","PML-N",5
+"C01",1,"Rana Mubashir lqbal","PML-N",5
+"C01",1,"Muhammad Sajjad","PML-N",10
+"C01",1,"Abdul Rehman Khan Kanju","PML-N",8
+"C01",1,"Shahadat Awan","PPPP",1
+"C01",1,"Ijaz Ahmad Shah","PTI",11
+"C01",1,"Muhammad Azam Khan Swati","PTI",9
+"C02",2,"Dr. Abdul Hafeez Sheikh","Minister",3
+"C02",2,"Zaheer-ud-Din Babar Awan","PTI",4
+"C02",2,"Muhammad Hammad Azhar","PTI",4
+"C03",3,"Farrukh Khan","PML",8
+"C03",3,"Kesoo Mal Kheeal Das","PML-N",14
+"C03",3,"Zahra Wadood Fatemi","PML-N",26
+"C03",3,"Dr. Zulfiqar Ali Bhatti","PML-N",11
+"C03",3,"Mehnaz Akber Aziz","PML-N",29
+"C03",3,"Romina Khurshid Alam","PML-N",34
+"C03",3,"Samina Matloob","PML-N",26
+"C03",3,"Choudhary Faqir Ahmad","PML-N",13
+"C03",3,"Rana Iradat Sharif Khan","PML-N",19
+"C03",3,"Kiran Imran","PML-N",11
+"C03",3,"Rao Muhammad Ajmal Khan","PML-N",11
+"C03",3,"Ch. Muhammad Ashraf","PML-N",17
+"C03",3,"Dr. Darshan","PML-N",15
+"C03",3,"Kesoo Mal Kheal Das","PML-N",5
+"C03",3,"Syed Sajid Mehdi","PML-N",18
+"C03",3,"Shakila Khalid Chaudhary","PML-N",6
+"C03",3,"Syed Imran Ahmad Shah","PML-N",7
+"C03",3,"Nelson Azeem","PML-N",3
+"C03",3,"Ihsan ul Haq Bajwa","PML-N",4
+"C03",3,"Ch. Iftikhar Nazir","PML-N",15
+"C03",3,"Zulfiqar Ahmad","PML-N",4
+"C03",3,"Mrs. Shahida Rehmani","PPPP",14
+"C03",3,"Naveed Amir","PPPP",10
+"C03",3,"Ramesh Lal","PPPP",21
+"C03",3,"Mahesh Kumar Malani","PPPP",6
+"C03",3,"Naz Baloch","PPPP",7
+"C03",3,"Mirza Ikhtiar Baig","PPPP",4
+"C03",3,"Shazia Sobia Aslam Soomro","PPPP",4
+"C03",3,"Syed Ali Qasim Gillani","PPPP",4
+"C03",3,"Nawabzada Iftikhar Ahmed Khan Babar","PPPP",2
+"C03",3,"Nusrat Wahid","PTI",4
+"C03",3,"Nooreen Farooq Khan","PTI",31
+"C03",3,"Asma Hadeed","PTI",42
+"C03",3,"Ali Nawaz Awan","PTI",36
+"C03",3,"Sher Ali Arbab","PTI",19
+"C03",3,"Faheem Khan","PTI",25
+"C03",3,"Raja Khurram Shahzad Nawaz","PTI",34
+"C03",3,"Aamer Mehmood Kiyani","PTI",6
+"C03",3,"Rai Muhammad Murtaza Iqbal","PTI",28
+"C03",3,"Fauzia Behram","PTI",21
+"C03",3,"Dr. Seemin Abdul Rehman Bokhari","PTI",27
+"C03",3,"Dr. Muhammad Afzal Khan Dhandla","PTI",20
+"C03",3,"Atta Ullah","PTI",25
+"C03",3,"Mehboob Shah","PTI",7
+"C03",3,"Shunila Ruth","PTI",21
+"C03",3,"Zille Huma","PTI",28
+"C03",3,"Malik Nawab Sher Waseer","PTI",21
+"C03",3,"Muhammad Ibrahim Khan","PTI",42
+"C03",3,"Jamshed Thomas","PTI",7
+"C03",3,"Makhdoom Syed Sami-ul-Hassan Gillani","PTI",17
+"C03",3,"Sajid Khan","PTI",11
+"C03",3,"Shahid Ahmad","PTI",11
+"C03",3,"Sardar Riaz Mehmood Khan Mazari","PTI",3
+"C03",3,"Zahoor Hussain Qureshi","PTI",2
+"C03",3,"Sardar Nasrullah Khan Drishak","PTI",2
+"C03",3,"Haji Imtiaz Ahmed Choudhary","PTI",15
+"C03",3,"Malik Karamat Ali","PTI",15
+"C03",3,"Rahat Aman Ullah Bhatti","PTI",18
+"C03",3,"Shaheen Naz Saifullah","PTI",18
+"C03",3,"Sahibzada Sibghatullah","SIC",6
+"C03",3,"Usama Ahmed Mela","SIC",2
+"C03",3,"Muhammad Mobeen Arif","SIC",2
+"C04",4,"Qaisar Ahmad Sheikh","PML-N",25
+"C04",4,"Dr. Nisar Ahmad","PML-N",2
+"C04",4,"Shafqat Mehmood","PTI",11
+"C04",4,"Asad Umar","PTI",24
+"C04",4,"Dr. Shireen Mehrunnisa Mazari","PTI",25
+"C04",4,"Sajida Begum","PTI",11
+"C04",4,"Ali Muhammad Khan","PTI",22
+"C04",4,"Noor Alam Khan","PTI",10
+"C04",4,"Makhdoom Shah Mahmood Qureshi","PTI",23
+"C04",4,"Munaza Hassan","PTI",21
+"C04",4,"Imran Khattak","PTI",46
+"C04",4,"Junaid Akbar","PTI",17
+"C04",4,"Dr. Arif Alvi","PTI",25
+"C04",4,"Siraj Muhammad Khan","PTI",5
+"C04",4,"Haider Ali","PTI",29
+"C04",4,"Ghulam Sarwar Khan","PTI",7
+"C04",4,"Sadaqat Ali Khan","PTI",11
+"C04",4,"Amirullah","PTI",16
+"C04",4,"Rai Hasan Nawaz Khan","PTI",16
+"C04",4,"Aaisha Gulalai","PTI",15
+"C04",4,"Imran Khan","PTI",16
+"C04",4,"Murad Saeed","PTI",7
+"C04",4,"Qaisar Jamal","PTI",15
+"C04",4,"Shehryar Afridi","PTI",11
+"C04",4,"Abdul Shakoor Shad","PTI",3
+"C04",4,"Aqibullah","PTI",11
+"C04",4,"Hamid Ul Haq","PTI",10
+"C04",4,"Dr. Muhammad Azhar Khan Jadoon","PTI",3
+"C04",4,"Dawar Khan Kundi","PTI",7
+"C05",5,"Syed Amin-ul-Haque","MQM",7
+"C05",5,"Muhammad Javed Hanif Khan","MQM",4
+"C05",5,"Syed Mustafa Kamal","MQM",4
+"C05",5,"Syed Hafeezuddin","MQM",4
+"C05",5,"Sheikh Aftab Ahmed","PML-N",5
+"C05",5,"Bilal Azhar Kayani","PML-N",9
+"C05",5,"Zeb Jaffar","PML-N",4
+"C05",5,"Tariq Fazal Chaudhry","PML-N",4
+"C05",5,"Usman Ibrahim","PML-N",1
+"C05",5,"Raja Osama Sarwar","PML-N",2
+"C05",5,"Shazia Marri","PPPP",10
+"C05",5,"Syed Naveed Qamar","PPPP",15
+"C05",5,"Syed Rafiullah","PPPP",6
+"C05",5,"Raja Pervez Ashraf","PPPP",4
+"C05",5,"Abdul Qadir Patel","PPPP",8
+"C05",5,"Jam Abdul Karim Bijar","PPPP",4
+"C05",5,"Mrs. Mahreen Razaque Bhutto","PPPP",3
+"C05",5,"Syed Abrar Ali Shah","PPPP",3
+"C06",6,"Syed Javed Hassnain","PML-N",21
+"C06",6,"Ali Gohar Khan","PML-N",4
+"C06",6,"Qadir Khan Mandokhail","PPPP",11
+"C06",6,"Naveed Aamir","PPPP",12
+"C06",6,"Ahmad Hussain","PTI",1
+"C07",7,"Maj. Retd. Tahir Iqbal","PML-N",6
+"C07",7,"Ch. Muhammad Hamid Hameed","PML-N",4
+"C07",7,"Malik Shakir Bashir Awan","PML-N",4
+"C07",7,"Abdul Majeed Khan Khanan Khel","PML-N",4
+"C08",8,"Ghous Bux Khan Mahar","GDA",14
+"C08",8,"Mehmood Khan Achakzai","PKMAP",14
+"C08",8,"Syed Qazim Ali Shah","PML-F",14
+"C08",8,"Muhammad Raza Hayat Hiraj","PML-N",14
+"C08",8,"Dr. Azra Fazal Pecheho","PPPP",18
+"C08",8,"Syed Naveed Qammar","PPPP",4
+"C08",8,"Nawab Muhammad Yousuf Talpur","PPPP",14
+"C08",8,"Imran Zafar Leghari","PPPP",21
+"C08",8,"Khwaja Ghulam Rasool Koreja","PPPP",3
+"C08",8,"Asghar Ali Shah","PPPP",3
+"C08",8,"Umar Ayub Khan","PTI",14
+"C09",9,"Agha Hassan Baloch","BNP-M",4
+"C09",9,"Sardar Akhter Jan Mengal","BNP-M",4
+"C09",9,"Mohsin Javed","IND",11
+"C09",9,"Jamshaid Ahmad Dasti","IND",10
+"C09",9,"Shah Jee Gul Afridi","IND",19
+"C09",9,"Bilal Rehman","IND",16
+"C09",9,"Bismillah Khan","IND",3
+"C09",9,"Engineer Mohammad Usman Badaini","IND",10
+"C09",9,"Sher Akbar Khan","JI",45
+"C09",9,"Aisha Syed","JI",14
+"C09",9,"Sahibzada Tariq Ullah","JI",24
+"C09",9,"Sahib Zada Muhammad Yaqub","JI",14
+"C09",9,"Naeema Kishwar Khan","JUI",38
+"C09",9,"Shahida Akhtar Ali","JUI",43
+"C09",9,"Aasiya Nasir","JUI",24
+"C09",9,"Ameer Zaman","JUI",17
+"C09",9,"Mohammad Khan Sherani","JUI",15
+"C09",9,"Agha Muhammad","JUI",20
+"C09",9,"Muhammad Gohar Shah","JUI",20
+"C09",9,"Qari Muhammad Yousaf","JUI",20
+"C09",9,"Qamar Ud Din","JUI",14
+"C09",9,"Mrs. Aliya Kamran","MMA",35
+"C09",9,"Moulana Abdul Akbar Chitrali","MMA",29
+"C09",9,"Muhammad Jamal Ud Din","MMA",17
+"C09",9,"Salah Ud Din Ayubi","MMA",24
+"C09",9,"Abdul Shakoor","MMA",16
+"C09",9,"Syed Mehmood Shah","MMA",14
+"C09",9,"Zahid Akram Durani","MMA",14
+"C09",9,"Afreen Khan","MMA",21
+"C09",9,"Maulvi Asmatullah","MMA",14
+"C09",9,"Munir Khan Orakzai","MMA",12
+"C09",9,"Kamal Uddin","MMA",11
+"C09",9,"Sardar Kamal Khan Bangulzai","NP",15
+"C09",9,"Reeta Ishwar","PML-F",17
+"C09",9,"Surriya Asghar","PML-N",5
+"C09",9,"Marvi Memon","PML-N",21
+"C09",9,"Asiya Naz Tanoli","PML-N",21
+"C09",9,"Muhammad Pervaiz Malik","PML-N",3
+"C09",9,"Farhana Qamar","PML-N",25
+"C09",9,"Isphanyar M. Bhandara","PML-N",23
+"C09",9,"Muhammad Safdar","PML-N",28
+"C09",9,"Shahab-ud-Din Khan","PML-N",19
+"C09",9,"Kiran Haider","PML-N",28
+"C09",9,"Begum Tahira Bukhari","PML-N",28
+"C09",9,"Phyllis Azeem","PML-N",30
+"C09",9,"Leila Khan","PML-N",13
+"C09",9,"Tariq Christopher Qaiser","PML-N",5
+"C09",9,"Ibadullah","PML-N",9
+"C09",9,"Ch. Asad Ur Rehman","PML-N",16
+"C09",9,"Malik Abdul Ghaffar Dogar","PML-N",16
+"C09",9,"Abdul Kareem","PML-N",16
+"C09",9,"Salman Hanif","PML-N",13
+"C09",9,"Iffat Liaqat","PML-N",13
+"C09",9,"Khalil George","PML-N",5
+"C09",9,"Makhdoom Syed Ali Hassan Gillani","PML-N",9
+"C09",9,"Sajid Hussain Turi","PPPP",5
+"C09",9,"Dr. Ramesh Kumar Vankwani","PTI",47
+"C09",9,"Mussarat Ahmadzeb","PTI",5
+"C09",9,"Makhdoom Khusro Bakhtiar","PTI",18
+"C09",9,"Mujahid Ali","PTI",23
+"C09",9,"Usman Khan Tarrakai","PTI",17
+"C09",9,"Gul Zafar Khan","PTI",10
+"C09",9,"Gul Dad Khan","PTI",10
+"C09",9,"Zulfiqar Ali Khan","PTI",10
+"C10",10,"Khalid Hussain Magsi","BAP",27
+"C10",10,"Malik Muhammad Aamir Dogar","IND",19
+"C10",10,"Kishwer Zehra","MQM",58
+"C10",10,"Iqbal Muhammad Ali Khan","MQM",63
+"C10",10,"Usama Qadri","MQM",30
+"C10",10,"Salah-ud-Din","MQM",19
+"C10",10,"Engineer Sabir Hussain","MQM",21
+"C10",10,"Syed Amin ul Haque","MQM",21
+"C10",10,"Muhammad Abubakar","MQMP",6
+"C10",10,"Tahira Aurangzeb","PML-N",42
+"C10",10,"Shaista Pervaiz","PML-N",23
+"C10",10,"Ms. Nafisa Shah","PPPP",34
+"C10",10,"Nafeesa Inayatullah Khan Khattak","PTI",64
+"C10",10,"Uzma Riaz","PTI",42
+"C10",10,"Rana Muhammad Qasim Noon","PTI",28
+"C10",10,"Muhammad Sana Ullah Khan Masti Khel","PTI",24
+"C10",10,"Ali Khan Jadoon","PTI",36
+"C10",10,"Jai Parkash","PTI",7
+"C10",10,"Shandana Gulzar Khan","PTI",13
+"C10",10,"Aftab Jehangir","PTI",19
+"C10",10,"Saleh Muhammad","PTI",18
+"C10",10,"Muhammad Akram","PTI",9
+"C10",10,"Raja Riaz Ahmad","PTI",9
+"C10",10,"Prince Muhammad Nawaz Allai","PTI",18
+"C10",10,"Nuzhat Pathan","PTI",4
+"C11",11,"Dr. Nikhat Shakeel Khan","MQM",49
+"C11",11,"Muhammad Muzammil Qureshi","MQM",28
+"C11",11,"S. A. Iqbal Qadri","MQM",39
+"C11",11,"Saman Sultana Jafri","MQM",26
+"C11",11,"Shaikh Salahuddin","MQM",48
+"C11",11,"Dr. Fouzia Hameed","MQM",32
+"C11",11,"Sajid Ahmed","MQM",29
+"C11",11,"Abdul Waseem","MQM",39
+"C11",11,"Sanjay Perwani","MQM",39
+"C11",11,"Dr. Khalid Maqbool Siddiqui","MQM",33
+"C11",11,"Sufyan Yousuf","MQM",26
+"C11",11,"Syed Ali Raza Abidi","MQM",31
+"C11",11,"Mehboob Alam","MQM",28
+"C11",11,"Syed Waseem Hussain","MQM",28
+"C11",11,"Mohammad Salman Khan Baloch","MQM",25
+"C11",11,"Dr. Muhammad Farooq Sattar","MQM",32
+"C11",11,"Syed Asif Hasnain","MQM",30
+"C11",11,"Muhammad Rehan Hashmi","MQM",22
+"C11",11,"Abdul Rashid Godil","MQM",20
+"C11",11,"Muhammad Kamal Malik","MQM",24
+"C11",11,"Kanwar Naveed Jamil","MQM",19
+"C11",11,"Khawaja Sohail Mansoor","MQM",22
+"C11",11,"Muhammad Ali Rashid","MQM",16
+"C11",11,"Tahira Asif","MQM",9
+"C11",11,"Seema Mohiuddin Jameeli","PML-N",54
+"C11",11,"Parveen Masood Bhatti","PML-N",26
+"C11",11,"Bhawan Das","PML-N",23
+"C11",11,"Shahnaz Saleem Malik","PML-N",14
+"C11",11,"Nighat Parveen","PML-N",6
+"C11",11,"Aslam Bodla","PML-N",13
+"C11",11,"Dr. Hafeez Ur Rehman Khan","PML-N",13
+"C11",11,"Syed Ayaz Ali Shah Sheerazi","PML-N",16
+"C11",11,"Lal Chand Malhi","PTI",10
+"C12",12,"James Iqbal","MMA",23
+"C12",12,"Asiya Azeem","PTI",3
+"C13",13,"Mian Najibuddin Awaisi","PML-N",16
+"C13",13,"Riaz Fatyana","PTI",35
+"C13",13,"Syed Fakhar Imam","PTI",26
+"C13",13,"Amjid Ali Khan","PTI",20
+"C14",14,"Muhammad Farogh Nasim","MQM",4

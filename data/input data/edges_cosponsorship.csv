@@ -1,0 +1,2410 @@
+Source,Target,Weight,Type,Same_Party_Then,Cross_Party_Then,Same_Party_Now,Government_Bills_Together,Private_Bills_Together,Parliamentary_Years,Terms,Shared_Committees_Count,Shared_Committees
+Riaz Fatyana,Syed Fakhar Imam,627,Undirected,627,0,1,0,627,1;2,15,0,
+Amjid Ali Khan,Riaz Fatyana,437,Undirected,437,0,1,0,437,1;2,15,0,
+Amjid Ali Khan,Syed Fakhar Imam,394,Undirected,394,0,1,0,394,1;2,15,0,
+Mian Najibuddin Awaisi,Riaz Fatyana,259,Undirected,0,259,0,0,259,1;2,15,0,
+Mian Najibuddin Awaisi,Syed Fakhar Imam,259,Undirected,0,259,0,0,259,1;2,15,0,
+Iqbal Muhammad Ali Khan,Kishwer Zehra,140,Undirected,140,0,1,0,140,1;2;3;4;5,14;15,1,"Law, Justice and Human Rights"
+Kishwer Zehra,Salah-ud-Din,125,Undirected,125,0,1,0,125,1;2;5,15,0,
+Kishwer Zehra,Usama Qadri,123,Undirected,123,0,1,0,123,1;2;3;4,15,1,Law and Justice
+Riaz Fatyana,Riaz Fatyana,113,Undirected,113,0,1,0,113,1;2;3;4,15,0,
+Iqbal Muhammad Ali Khan,Salah-ud-Din,111,Undirected,111,0,1,0,111,1;2,15,0,
+Salah-ud-Din,Usama Qadri,109,Undirected,109,0,1,0,109,1;2,15,0,
+Iqbal Muhammad Ali Khan,Usama Qadri,107,Undirected,107,0,1,0,107,1;2;3;4,15,0,
+Syed Fakhar Imam,Syed Fakhar Imam,92,Undirected,92,0,1,0,92,1;2,15,0,
+Zaheer-ud-Din Babar Awan,Zaheer-ud-Din Babar Awan,86,Undirected,86,0,1,86,0,3;4,15,0,
+Engineer Sabir Hussain,Kishwer Zehra,85,Undirected,85,0,1,0,85,1;2;3,15,0,
+Engineer Sabir Hussain,Salah-ud-Din,76,Undirected,76,0,1,0,76,1;2,15,0,
+Amjid Ali Khan,Amjid Ali Khan,74,Undirected,74,0,1,0,74,1;2;3;4,15,0,
+Asad Umar,Asad Umar,71,Undirected,71,0,1,69,2,1;2;3;4;5,14;15,0,
+Engineer Sabir Hussain,Iqbal Muhammad Ali Khan,71,Undirected,71,0,1,0,71,1;2;3,15,0,
+Dr. Nikhat Shakeel Khan,Muhammad Muzammil Qureshi,69,Undirected,69,0,1,0,69,1;2;3;4;5,14,4,"Cabinet Secretariat;Human Rights;Interior and Narcotics Control;Law, Justice and Human Rights"
+Engineer Sabir Hussain,Usama Qadri,68,Undirected,68,0,1,0,68,1;2;3,15,0,
+Dr. Nikhat Shakeel Khan,Kishwer Zehra,68,Undirected,68,0,1,0,68,1;2;3;4;5,14,4,"Cabinet Secretariat;Interior and Narcotics Control;Law and Justice;Law, Justice and Human Rights"
+Shafqat Mehmood,Shafqat Mehmood,66,Undirected,66,0,1,65,1,1;2;3;4,14;15,0,
+Dr. Nikhat Shakeel Khan,Saman Sultana Jafri,66,Undirected,66,0,1,0,66,1;2;3;4;5,14,4,"Human Rights;Interior and Narcotics Control;Law and Justice;Law, Justice and Human Rights"
+James Iqbal,James Iqbal,65,Undirected,65,0,1,0,65,3;4;5,15,0,
+Muhammad Muzammil Qureshi,Saman Sultana Jafri,64,Undirected,64,0,1,0,64,1;2;3;4;5,14,3,"Human Rights;Interior and Narcotics Control;Law, Justice and Human Rights"
+Ms. Nafisa Shah,Ms. Nafisa Shah,59,Undirected,59,0,1,0,59,1;2;3;4;5,14;15,0,
+Kishwer Zehra,Kishwer Zehra,59,Undirected,59,0,1,0,59,1;2;3;4;5,14;15,0,
+Kishwer Zehra,Muhammad Muzammil Qureshi,53,Undirected,53,0,1,0,53,1;2;3;4;5,14,3,"Cabinet Secretariat;Interior and Narcotics Control;Law, Justice and Human Rights"
+Mrs. Aliya Kamran,Muhammad Jamal Ud Din,53,Undirected,53,0,1,0,53,3;5,14;15,1,"Law, Justice and Human Rights"
+Raja Pervez Ashraf,Syed Naveed Qamar,52,Undirected,52,0,1,0,52,1;2,15,0,
+Shazia Marri,Syed Naveed Qamar,52,Undirected,52,0,1,0,52,1;2,15,0,
+Raja Pervez Ashraf,Shazia Marri,52,Undirected,52,0,1,0,52,1;2,15,0,
+Mrs. Aliya Kamran,Salah Ud Din Ayubi,52,Undirected,52,0,1,0,52,1;5,15,0,
+Kishwer Zehra,Saman Sultana Jafri,49,Undirected,49,0,1,0,49,1;2;3;4;5,14,3,"Interior and Narcotics Control;Law and Justice;Law, Justice and Human Rights"
+S. A. Iqbal Qadri,Shaikh Salahuddin,49,Undirected,49,0,1,0,49,1;2;3;4;5,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Muhammad Jamal Ud Din,Muhammad Jamal Ud Din,49,Undirected,49,0,1,0,49,4;5,15,0,
+Dr. Nikhat Shakeel Khan,Shaikh Salahuddin,47,Undirected,47,0,1,0,47,1;2;3;4;5,14,3,"Human Rights;Interior and Narcotics Control;Law, Justice and Human Rights"
+Mohammad Ishaq Dar,Mohammad Ishaq Dar,47,Undirected,47,0,1,47,0,1;2;3;4;5,14;15;16,0,
+Musadik Masood Malik,Musadik Masood Malik,45,Undirected,45,0,1,45,0,5,15,0,
+Iqbal Muhammad Ali Khan,Iqbal Muhammad Ali Khan,43,Undirected,43,0,1,0,43,1;2;3;4;5,14;15,0,
+Muhammad Jamal Ud Din,Salah Ud Din Ayubi,42,Undirected,42,0,1,0,42,5,15,0,
+Sardar Ayaz Sadiq,Sardar Ayaz Sadiq,42,Undirected,42,0,1,6,36,2;3;5,15,0,
+Dr. Nikhat Shakeel Khan,S. A. Iqbal Qadri,41,Undirected,41,0,1,0,41,1;2;3;4;5,14,4,"Cabinet Secretariat;Interior and Narcotics Control;Law, Justice and Human Rights;Parliamentary Affairs"
+Muhammad Muzammil Qureshi,Shaikh Salahuddin,41,Undirected,41,0,1,0,41,1;2;4;5,14,3,"Human Rights;Interior and Narcotics Control;Law, Justice and Human Rights"
+Kishwer Zehra,Shaikh Salahuddin,41,Undirected,41,0,1,0,41,1;2;3;4;5,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Abdul Waseem,Shaikh Salahuddin,40,Undirected,40,0,1,0,40,1;2;3;4;5,14,1,"Law, Justice and Human Rights"
+Mohsin Javed,Mohsin Javed,39,Undirected,39,0,1,0,39,1;3;4;5,15,0,
+Nafeesa Inayatullah Khan Khattak,Nafeesa Inayatullah Khan Khattak,38,Undirected,38,0,1,0,38,1;2;3;4;5,14;15,0,
+Kishwer Zehra,Syed Amin ul Haque,37,Undirected,37,0,1,0,37,1;2,15,0,
+Mian Najibuddin Awaisi,Mian Najibuddin Awaisi,37,Undirected,37,0,1,0,37,1,15,0,
+Mohammad Aslam Bhootani,Mohammad Aslam Bhootani,37,Undirected,37,0,1,0,37,5,15,0,
+Engineer Sabir Hussain,Syed Amin ul Haque,37,Undirected,37,0,1,0,37,1;2,15,0,
+Ijaz Ahmad Shah,Ijaz Ahmad Shah,34,Undirected,34,0,1,34,0,1;2,15,0,
+Dr. Fouzia Hameed,Dr. Nikhat Shakeel Khan,34,Undirected,34,0,1,0,34,3;4;5,14,1,Law and Justice
+Dr. Fouzia Hameed,S. A. Iqbal Qadri,32,Undirected,32,0,1,0,32,3;4;5,14,0,
+Syed Javed Hassnain,Syed Javed Hassnain,32,Undirected,32,0,1,0,32,1;2;3;4;5,15,0,
+Muhammad Muzammil Qureshi,Syed Ali Raza Abidi,31,Undirected,31,0,1,0,31,1;3;4;5,14,1,"Law, Justice and Human Rights"
+Kishwer Zehra,S. A. Iqbal Qadri,31,Undirected,31,0,1,0,31,1;2;3;4;5,14,3,"Cabinet Secretariat;Interior and Narcotics Control;Law, Justice and Human Rights"
+Zahid Hamid Khan,Zahid Hamid Khan,31,Undirected,31,0,1,31,0,3;4;5,14,0,
+Sahibzada Tariq Ullah,Sher Akbar Khan,31,Undirected,31,0,1,0,31,1;2;3;4;5,14,4,"Information, Broadcasting and National Heritage;Interior and Narcotics Control;Law, Justice and Human Rights;Religious Affairs and Inter-faith Harmony"
+Sahib Zada Muhammad Yaqub,Sher Akbar Khan,30,Undirected,30,0,1,0,30,1;2;3;4;5,14,3,"Information, Broadcasting and National Heritage;Interior and Narcotics Control;Religious Affairs and Inter-faith Harmony"
+Sahib Zada Muhammad Yaqub,Sahibzada Tariq Ullah,30,Undirected,30,0,1,0,30,1;2;3;4;5,14,3,"Information, Broadcasting and National Heritage;Interior and Narcotics Control;Religious Affairs and Inter-faith Harmony"
+Khurram Dastgir Khan,Rana Sana Ullah Khan,30,Undirected,30,0,1,0,30,2;3,15,0,
+Khurram Dastgir Khan,Mohsin Shah Nawaz Ranjha,30,Undirected,30,0,1,0,30,2;3,15,0,
+Aisha Syed,Sahib Zada Muhammad Yaqub,30,Undirected,30,0,1,0,30,1;2;3;4;5,14,3,"Information, Broadcasting and National Heritage;Interior and Narcotics Control;Religious Affairs and Inter-faith Harmony"
+Aisha Syed,Sher Akbar Khan,30,Undirected,30,0,1,0,30,1;2;3;4;5,14,3,"Information, Broadcasting and National Heritage;Interior and Narcotics Control;Religious Affairs and Inter-faith Harmony"
+Shazia Marri,Shazia Marri,30,Undirected,30,0,1,1,29,1;2;3;4;5,14;15,0,
+Dr. Fouzia Hameed,Shaikh Salahuddin,30,Undirected,30,0,1,0,30,3;4;5,14,0,
+Mohsin Shah Nawaz Ranjha,Rana Sana Ullah Khan,30,Undirected,30,0,1,0,30,2;3,15,0,
+Salah-ud-Din,Syed Amin ul Haque,30,Undirected,30,0,1,0,30,1;2,15,0,
+Aisha Syed,Sahibzada Tariq Ullah,30,Undirected,30,0,1,0,30,1;2;3;4;5,14,3,"Information, Broadcasting and National Heritage;Interior and Narcotics Control;Religious Affairs and Inter-faith Harmony"
+Iqbal Muhammad Ali Khan,Syed Amin ul Haque,29,Undirected,29,0,1,0,29,1;2,15,0,
+Asiya Azeem,Asiya Azeem,29,Undirected,29,0,1,0,29,5,15,0,
+Dr. Fouzia Hameed,Kishwer Zehra,29,Undirected,29,0,1,0,29,3;4;5,14,1,Law and Justice
+Abdul Waseem,Muhammad Muzammil Qureshi,29,Undirected,29,0,1,0,29,1;2;4;5,14,2,"Cabinet Secretariat;Law, Justice and Human Rights"
+Abdul Waseem,Dr. Nikhat Shakeel Khan,28,Undirected,28,0,1,0,28,1;2;3;4;5,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Rana Tanveer Hussain,Rana Tanveer Hussain,28,Undirected,28,0,1,27,1,1;3;4;5,14;15,0,
+Noor-ul-Haq Qadri,Noor-ul-Haq Qadri,28,Undirected,28,0,1,28,0,3;4,15,0,
+Dr. Nikhat Shakeel Khan,Syed Ali Raza Abidi,28,Undirected,28,0,1,0,28,1;3;4;5,14,1,"Law, Justice and Human Rights"
+Saman Sultana Jafri,Shaikh Salahuddin,28,Undirected,28,0,1,0,28,1;2;3;4;5,14,3,"Human Rights;Interior and Narcotics Control;Law, Justice and Human Rights"
+Salah-ud-Din,Salah-ud-Din,28,Undirected,28,0,1,0,28,1;2,15,0,
+Wajiha Akram,Wajiha Akram,28,Undirected,28,0,1,0,28,5,15,0,
+S. A. Iqbal Qadri,Sajid Ahmed,27,Undirected,27,0,1,0,27,1;2;3;4;5,14,3,"Interior and Narcotics Control;Law, Justice and Human Rights;Parliamentary Affairs"
+Abdul Waseem,Kishwer Zehra,27,Undirected,27,0,1,0,27,1;2;3;4;5,14,3,"Cabinet Secretariat;Interior and Narcotics Control;Law, Justice and Human Rights"
+Abdul Waseem,S. A. Iqbal Qadri,27,Undirected,27,0,1,0,27,1;2;3;4;5,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Muhammad Farogh Nasim,Muhammad Farogh Nasim,27,Undirected,27,0,1,27,0,1;3;4,15,0,
+Dr. Abdul Hafeez Sheikh,Dr. Abdul Hafeez Sheikh,26,Undirected,26,0,1,26,0,1;2;3,15,0,
+Muhammad Muzammil Qureshi,S. A. Iqbal Qadri,26,Undirected,26,0,1,0,26,1;2;3;4;5,14,3,"Cabinet Secretariat;Interior and Narcotics Control;Law, Justice and Human Rights"
+Uzma Riaz,Uzma Riaz,26,Undirected,26,0,1,0,26,1;2;3;4,15,0,
+Marriyum Aurangzeb,Rana Sana Ullah Khan,26,Undirected,26,0,1,0,26,1;2;3,15,0,
+Sajida Begum,Sajida Begum,26,Undirected,26,0,1,0,26,1;2;3;4;5,14;15,0,
+Shaikh Salahuddin,Syed Ali Raza Abidi,25,Undirected,25,0,1,0,25,1;4;5,14,1,"Law, Justice and Human Rights"
+Kishwer Zehra,Sanjay Perwani,25,Undirected,25,0,1,0,25,2;3;4;5,14,1,"Law, Justice and Human Rights"
+Mrs. Aliya Kamran,Mrs. Aliya Kamran,25,Undirected,25,0,1,0,25,1;2;5,15,0,
+Dr. Khalid Maqbool Siddiqui,Kishwer Zehra,25,Undirected,25,0,1,0,25,1;3;4;5,14;15,2,Cabinet Secretariat;Law and Justice
+Usama Qadri,Usama Qadri,25,Undirected,25,0,1,0,25,1;2,15,0,
+Dr. Nikhat Shakeel Khan,Syed Waseem Hussain,24,Undirected,24,0,1,0,24,1;2;3;4;5,14,1,"Law, Justice and Human Rights"
+Rana Sana Ullah Khan,Shahid Khaqan Abbasi,24,Undirected,24,0,1,0,24,2;3,15,0,
+Khawaja Muhammad Asif,Shahid Khaqan Abbasi,24,Undirected,24,0,1,0,24,2;3,15,0,
+Mohsin Shah Nawaz Ranjha,Shahid Khaqan Abbasi,24,Undirected,24,0,1,0,24,2;3,15,0,
+Khurram Dastgir Khan,Marriyum Aurangzeb,24,Undirected,24,0,1,0,24,2;3,15,0,
+Khawaja Muhammad Asif,Rana Sana Ullah Khan,24,Undirected,24,0,1,0,24,2;3,15,0,
+Marriyum Aurangzeb,Mohsin Shah Nawaz Ranjha,24,Undirected,24,0,1,0,24,2;3,15,0,
+Khurram Dastgir Khan,Shahid Khaqan Abbasi,24,Undirected,24,0,1,0,24,2;3,15,0,
+Saman Sultana Jafri,Sanjay Perwani,24,Undirected,24,0,1,0,24,2;3;4;5,14,1,"Law, Justice and Human Rights"
+Khawaja Muhammad Asif,Khurram Dastgir Khan,24,Undirected,24,0,1,0,24,2;3,15,0,
+Khawaja Muhammad Asif,Mohsin Shah Nawaz Ranjha,24,Undirected,24,0,1,0,24,2;3,15,0,
+Iqbal Muhammad Ali Khan,S. A. Iqbal Qadri,24,Undirected,24,0,1,0,24,1;2;3;4;5,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Abdul Waseem,Syed Ali Raza Abidi,24,Undirected,24,0,1,0,24,1;4;5,14,1,"Law, Justice and Human Rights"
+Khawaja Muhammad Asif,Khawaja Saad Rafique,23,Undirected,23,0,1,0,23,2;3,15,0,
+Khawaja Saad Rafique,Rana Sana Ullah Khan,23,Undirected,23,0,1,0,23,2;3,15,0,
+Khawaja Saad Rafique,Mohsin Shah Nawaz Ranjha,23,Undirected,23,0,1,0,23,2;3,15,0,
+Mehboob Alam,S. A. Iqbal Qadri,23,Undirected,23,0,1,0,23,1;2;3;4;5,14,1,"Law, Justice and Human Rights"
+Khawaja Saad Rafique,Shahid Khaqan Abbasi,23,Undirected,23,0,1,0,23,2;3,15,0,
+Shaikh Salahuddin,Syed Waseem Hussain,23,Undirected,23,0,1,0,23,1;2;3;4;5,14,1,"Law, Justice and Human Rights"
+Kishwer Zehra,Syed Ali Raza Abidi,23,Undirected,23,0,1,0,23,4;5,14,0,
+Abdul Waseem,Syed Waseem Hussain,23,Undirected,23,0,1,0,23,1;2;3;4;5,14,2,"Cabinet Secretariat;Law, Justice and Human Rights"
+Khawaja Saad Rafique,Khurram Dastgir Khan,23,Undirected,23,0,1,0,23,2;3,15,0,
+Muhammad Muzammil Qureshi,Syed Waseem Hussain,23,Undirected,23,0,1,0,23,1;2;3;4;5,14,2,"Cabinet Secretariat;Law, Justice and Human Rights"
+Muhammad Muzammil Qureshi,Sajid Ahmed,23,Undirected,23,0,1,0,23,1;2;3;5,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Pervaiz Khattak,Pervaiz Khattak,23,Undirected,23,0,1,23,0,2;3;4,15,0,
+Mehboob Alam,Shaikh Salahuddin,23,Undirected,23,0,1,0,23,1;2;3;4;5,14,1,"Law, Justice and Human Rights"
+Dr. Fouzia Hameed,Muhammad Muzammil Qureshi,23,Undirected,23,0,1,0,23,3;4;5,14,0,
+S. A. Iqbal Qadri,Syed Waseem Hussain,22,Undirected,22,0,1,0,22,1;2;3;4;5,14,1,"Law, Justice and Human Rights"
+Dr. Khalid Maqbool Siddiqui,S. A. Iqbal Qadri,22,Undirected,22,0,1,0,22,1;3;4;5,14,2,Cabinet Secretariat;Interior and Narcotics Control
+Dr. Fouzia Hameed,Syed Ali Raza Abidi,22,Undirected,22,0,1,0,22,3;4;5,14,0,
+Dr. Nikhat Shakeel Khan,Sanjay Perwani,22,Undirected,22,0,1,0,22,2;3;4;5,14,1,"Law, Justice and Human Rights"
+Dr. Nikhat Shakeel Khan,Sajid Ahmed,21,Undirected,21,0,1,0,21,1;2;4;5,14,2,"Law, Justice and Human Rights;Parliamentary Affairs"
+Marriyum Aurangzeb,Marriyum Aurangzeb,21,Undirected,21,0,1,16,5,1;3;5,14;15,0,
+Ali Khan Jadoon,Uzma Riaz,21,Undirected,21,0,1,0,21,1;2;3,15,0,
+Dr. Nikhat Shakeel Khan,Mehboob Alam,21,Undirected,21,0,1,0,21,1;2;3;4;5,14,1,"Law, Justice and Human Rights"
+Dr. Khalid Maqbool Siddiqui,Dr. Nikhat Shakeel Khan,21,Undirected,21,0,1,0,21,1;3;4;5,14,1,Cabinet Secretariat
+Dr. Fouzia Hameed,Mehboob Alam,21,Undirected,21,0,1,0,21,3;4;5,14,0,
+Kishwer Zehra,Mohammad Salman Khan Baloch,21,Undirected,21,0,1,0,21,1;2;4;5,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Syed Amin ul Haque,Usama Qadri,20,Undirected,20,0,1,0,20,1;2,15,0,
+Shaza Fatima Khawaja,Shaza Fatima Khawaja,20,Undirected,20,0,1,0,20,2;3,14;15,0,
+Dr. Fouzia Hameed,Saman Sultana Jafri,20,Undirected,20,0,1,0,20,3;4;5,14,1,Law and Justice
+Mehboob Alam,Syed Waseem Hussain,20,Undirected,20,0,1,0,20,1;2;3;4;5,14,1,"Law, Justice and Human Rights"
+Makhdoom Shah Mahmood Qureshi,Makhdoom Shah Mahmood Qureshi,20,Undirected,20,0,1,16,4,1;2;4,14;15,0,
+Muhammad Muzammil Qureshi,Sanjay Perwani,20,Undirected,20,0,1,0,20,2;3;4;5,14,1,"Law, Justice and Human Rights"
+Sajid Ahmed,Shaikh Salahuddin,20,Undirected,20,0,1,0,20,1;2;3;4;5,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Abdul Waseem,Mehboob Alam,20,Undirected,20,0,1,0,20,1;2;3;4;5,14,1,"Law, Justice and Human Rights"
+Salah Ud Din Ayubi,Salah Ud Din Ayubi,19,Undirected,19,0,1,0,19,1;5,15,0,
+S. A. Iqbal Qadri,Syed Ali Raza Abidi,19,Undirected,19,0,1,0,19,1;3;4;5,14,1,"Law, Justice and Human Rights"
+Dr. Nikhat Shakeel Khan,Iqbal Muhammad Ali Khan,19,Undirected,19,0,1,0,19,1;2;3;4;5,14,1,"Law, Justice and Human Rights"
+Iqbal Muhammad Ali Khan,Shaikh Salahuddin,19,Undirected,19,0,1,0,19,1;2;3;4;5,14,1,"Law, Justice and Human Rights"
+Dr. Khalid Maqbool Siddiqui,Shaikh Salahuddin,19,Undirected,19,0,1,0,19,1;3;4;5,14,1,Interior and Narcotics Control
+Mehboob Alam,Muhammad Muzammil Qureshi,19,Undirected,19,0,1,0,19,1;2;3;5,14,1,"Law, Justice and Human Rights"
+Abdul Qadir Patel,Syed Rafiullah,19,Undirected,19,0,1,0,19,2;3;4,15,0,
+Engineer Sabir Hussain,Engineer Sabir Hussain,19,Undirected,19,0,1,0,19,1;2;4,15,0,
+Dr. Muhammad Farooq Sattar,S. A. Iqbal Qadri,19,Undirected,19,0,1,0,19,1;3;4;5,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Dr. Muhammad Farooq Sattar,Shaikh Salahuddin,19,Undirected,19,0,1,0,19,1;3;4;5,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+S. A. Iqbal Qadri,Saman Sultana Jafri,18,Undirected,18,0,1,0,18,1;2;3;4;5,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Sardar Ayaz Sadiq,Shaza Fatima Khawaja,18,Undirected,18,0,1,0,18,2;3,15,0,
+Abdul Waseem,Saman Sultana Jafri,18,Undirected,18,0,1,0,18,1;2;3;4;5,14,1,"Law, Justice and Human Rights"
+Ali Muhammad Khan,Ali Muhammad Khan,18,Undirected,18,0,1,16,2,1;2,14;15,0,
+Sanjay Perwani,Shaikh Salahuddin,18,Undirected,18,0,1,0,18,1;2;3;5,14,1,"Law, Justice and Human Rights"
+Saman Sultana Jafri,Syed Ali Raza Abidi,18,Undirected,18,0,1,0,18,3;4;5,14,0,
+Shaukat Fayaz Ahmed Tarin,Shaukat Fayaz Ahmed Tarin,18,Undirected,18,0,1,18,0,4,15,0,
+Aftab Jehangir,Engineer Sabir Hussain,18,Undirected,0,18,0,0,18,1,15,0,
+Aftab Jehangir,Syed Amin ul Haque,18,Undirected,0,18,0,0,18,1,15,0,
+Syed Naveed Qamar,Syed Naveed Qamar,18,Undirected,18,0,1,7,11,1;2;4;5,15,0,
+Khawaja Muhammad Asif,Marriyum Aurangzeb,18,Undirected,18,0,1,0,18,2;3,15,0,
+S. A. Iqbal Qadri,Sufyan Yousuf,18,Undirected,18,0,1,0,18,1;2;3;4,14,4,"Cabinet Secretariat;Interior and Narcotics Control;Law, Justice and Human Rights;Parliamentary Affairs"
+Kishwer Zehra,Sajid Ahmed,18,Undirected,18,0,1,0,18,1;2;4;5,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Kishwer Zehra,Sufyan Yousuf,18,Undirected,18,0,1,0,18,1;3;4,14,3,"Cabinet Secretariat;Interior and Narcotics Control;Law, Justice and Human Rights"
+Kishwer Zehra,Tahira Aurangzeb,18,Undirected,0,18,0,0,18,1;3;5,14;15,0,
+Dr. Fouzia Hameed,Sanjay Perwani,18,Undirected,18,0,1,0,18,3;4;5,14,0,
+Dr. Fouzia Hameed,Dr. Khalid Maqbool Siddiqui,18,Undirected,18,0,1,0,18,3;4;5,14,0,
+Aftab Jehangir,Iqbal Muhammad Ali Khan,18,Undirected,0,18,0,0,18,1,15,0,
+Marriyum Aurangzeb,Shahid Khaqan Abbasi,18,Undirected,18,0,1,0,18,2;3,15,0,
+Aftab Jehangir,Kishwer Zehra,18,Undirected,0,18,0,0,18,1,15,0,
+Kishwer Zehra,Syed Waseem Hussain,17,Undirected,17,0,1,0,17,1;2;3;4;5,14,3,"Cabinet Secretariat;Interior and Narcotics Control;Law, Justice and Human Rights"
+Khawaja Saad Rafique,Marriyum Aurangzeb,17,Undirected,17,0,1,0,17,2;3,15,0,
+Muhammad Muzammil Qureshi,Muhammad Muzammil Qureshi,17,Undirected,17,0,1,0,17,2;3;5,14,0,
+Dr. Azra Fazal Pecheho,Ms. Nafisa Shah,17,Undirected,17,0,1,0,17,1;2,14,4,"Cabinet Secretariat;Law, Justice and Human Rights;National Health Services, Regulations and Coordination;Parliamentary Affairs"
+Abdul Waseem,Iqbal Muhammad Ali Khan,17,Undirected,17,0,1,0,17,1;2;3;4;5,14,1,"Law, Justice and Human Rights"
+Abdul Waseem,Dr. Muhammad Farooq Sattar,17,Undirected,17,0,1,0,17,1;3;4;5,14,1,"Law, Justice and Human Rights"
+Mrs. Aliya Kamran,Shahida Akhtar Ali,17,Undirected,17,0,0,0,17,1;2;3,14;15,3,"Defence;Interior and Narcotics Control;Law, Justice and Human Rights"
+Abdul Waseem,Dr. Fouzia Hameed,17,Undirected,17,0,1,0,17,3;4;5,14,0,
+Iqbal Muhammad Ali Khan,Sajid Ahmed,17,Undirected,17,0,1,0,17,2;4;5,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Dr. Muhammad Farooq Sattar,Dr. Nikhat Shakeel Khan,17,Undirected,17,0,1,0,17,1;3;4;5,14,1,"Law, Justice and Human Rights"
+Dr. Fouzia Hameed,Sajid Ahmed,16,Undirected,16,0,1,0,16,3;4;5,14,0,
+S. A. Iqbal Qadri,S. A. Iqbal Qadri,16,Undirected,16,0,1,0,16,1;2;5,14,0,
+Nafeesa Inayatullah Khan Khattak,Usama Qadri,16,Undirected,0,16,0,0,16,1;2;3,15,0,
+Kishwer Zehra,Nafeesa Inayatullah Khan Khattak,16,Undirected,0,16,0,0,16,1;2;3,15,0,
+Abdul Waseem,Sanjay Perwani,16,Undirected,16,0,1,0,16,2;5,14,1,"Law, Justice and Human Rights"
+Dr. Muhammad Farooq Sattar,Muhammad Muzammil Qureshi,16,Undirected,16,0,1,0,16,1;4;5,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Dr. Muhammad Farooq Sattar,Syed Waseem Hussain,16,Undirected,16,0,1,0,16,1;3;4;5,14,1,"Law, Justice and Human Rights"
+Iqbal Muhammad Ali Khan,Nafeesa Inayatullah Khan Khattak,16,Undirected,0,16,0,0,16,1;2;3,15,0,
+S. A. Iqbal Qadri,Sanjay Perwani,16,Undirected,16,0,1,0,16,1;2;3;4;5,14,1,"Law, Justice and Human Rights"
+Sajid Ahmed,Saman Sultana Jafri,16,Undirected,16,0,1,0,16,1;2;3;5,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Iqbal Muhammad Ali Khan,Mehboob Alam,16,Undirected,16,0,1,0,16,1;2;3;4;5,14,1,"Law, Justice and Human Rights"
+Sanjay Perwani,Syed Ali Raza Abidi,16,Undirected,16,0,1,0,16,1;3;4;5,14,1,"Law, Justice and Human Rights"
+Syed Ali Raza Abidi,Syed Waseem Hussain,15,Undirected,15,0,1,0,15,1;3;4;5,14,1,"Law, Justice and Human Rights"
+Dr. Muhammad Farooq Sattar,Syed Ali Raza Abidi,15,Undirected,15,0,1,0,15,1;4;5,14,1,"Law, Justice and Human Rights"
+Dr. Muhammad Farooq Sattar,Mehboob Alam,15,Undirected,15,0,1,0,15,1;3;4;5,14,1,"Law, Justice and Human Rights"
+Dr. Khalid Maqbool Siddiqui,Iqbal Muhammad Ali Khan,15,Undirected,15,0,1,0,15,3;4;5,14;15,0,
+Dr. Arif Alvi,Dr. Shireen Mehrunnisa Mazari,15,Undirected,15,0,1,0,15,1;2;3,14,1,Parliamentary Affairs
+Ahsan Iqbal,Ahsan Iqbal,15,Undirected,15,0,1,14,1,1;4;5,14;15,0,
+Dr. Fouzia Hameed,Syed Waseem Hussain,15,Undirected,15,0,1,0,15,3;4;5,14,0,
+Kishwer Zehra,Mehboob Alam,15,Undirected,15,0,1,0,15,2;3;4;5,14,1,"Law, Justice and Human Rights"
+Dr. Fouzia Hameed,Iqbal Muhammad Ali Khan,15,Undirected,15,0,1,0,15,3;4;5,14,0,
+Ali Nawaz Awan,Nafeesa Inayatullah Khan Khattak,15,Undirected,15,0,1,0,15,2;3;4,15,0,
+Ali Nawaz Awan,Raja Khurram Shahzad Nawaz,15,Undirected,15,0,1,0,15,2;3;4,15,0,
+Dr. Nikhat Shakeel Khan,Mohammad Salman Khan Baloch,15,Undirected,15,0,1,0,15,1;2;4;5,14,1,"Law, Justice and Human Rights"
+Qadir Khan Mandokhail,Qadir Khan Mandokhail,15,Undirected,15,0,1,0,15,4;5,15,0,
+Abdul Waseem,Sajid Ahmed,14,Undirected,14,0,1,0,14,2;4;5,14,1,"Law, Justice and Human Rights"
+Dr. Fouzia Hameed,Dr. Muhammad Farooq Sattar,14,Undirected,14,0,1,0,14,3;4;5,14,0,
+Mohammad Salman Khan Baloch,Saman Sultana Jafri,14,Undirected,14,0,1,0,14,2;4;5,14,1,"Law, Justice and Human Rights"
+Amjid Ali Khan,Nafeesa Inayatullah Khan Khattak,14,Undirected,14,0,1,0,14,2,15,0,
+Mehboob Alam,Syed Ali Raza Abidi,14,Undirected,14,0,1,0,14,1;3;5,14,1,"Law, Justice and Human Rights"
+Sajid Ahmed,Sufyan Yousuf,14,Undirected,14,0,1,0,14,1;2;3;4,14,2,Interior and Narcotics Control;Parliamentary Affairs
+Mehboob Alam,Sajid Ahmed,14,Undirected,14,0,1,0,14,2;4;5,14,1,"Law, Justice and Human Rights"
+Mehboob Alam,Saman Sultana Jafri,14,Undirected,14,0,1,0,14,2;3;4;5,14,1,"Law, Justice and Human Rights"
+Saman Sultana Jafri,Syed Waseem Hussain,14,Undirected,14,0,1,0,14,2;3;4;5,14,1,"Law, Justice and Human Rights"
+Jam Abdul Karim Bijar,Syed Rafiullah,14,Undirected,14,0,1,0,14,2;3;4,15,0,
+Iqbal Muhammad Ali Khan,Syed Waseem Hussain,14,Undirected,14,0,1,0,14,1;2;3;4;5,14,1,"Law, Justice and Human Rights"
+Iqbal Muhammad Ali Khan,Saman Sultana Jafri,14,Undirected,14,0,1,0,14,2;3;4;5,14,1,"Law, Justice and Human Rights"
+Dr. Ramesh Kumar Vankwani,Dr. Ramesh Kumar Vankwani,14,Undirected,14,0,1,0,14,1;2;3,14;15,0,
+Mohammad Salman Khan Baloch,Muhammad Muzammil Qureshi,14,Undirected,14,0,1,0,14,1;2;4;5,14,1,"Law, Justice and Human Rights"
+Dr. Muhammad Farooq Sattar,Muhammad Kamal Malik,13,Undirected,13,0,1,0,13,3;4;5,14,0,
+Muhammad Kamal Malik,Shaikh Salahuddin,13,Undirected,13,0,1,0,13,3;4;5,14,0,
+Muhammad Kamal Malik,Syed Waseem Hussain,13,Undirected,13,0,1,0,13,3;4;5,14,0,
+Abdul Qadir Patel,Jam Abdul Karim Bijar,13,Undirected,13,0,1,0,13,2;3;4,15,0,
+Muhammad Kamal Malik,S. A. Iqbal Qadri,13,Undirected,13,0,1,0,13,3;4;5,14,0,
+Aftab Jehangir,Salah-ud-Din,13,Undirected,0,13,0,0,13,1,15,0,
+Mohammad Salman Khan Baloch,Sanjay Perwani,13,Undirected,13,0,1,0,13,2;4;5,14,1,"Law, Justice and Human Rights"
+Kishwer Zehra,Muhammad Rehan Hashmi,13,Undirected,13,0,1,0,13,1;2,14,3,"Cabinet Secretariat;Interior and Narcotics Control;Law, Justice and Human Rights"
+Dr. Fouzia Hameed,Muhammad Kamal Malik,13,Undirected,13,0,1,0,13,3;4;5,14,0,
+Mehboob Alam,Muhammad Kamal Malik,13,Undirected,13,0,1,0,13,3;4;5,14,0,
+Abdul Rashid Godil,S. A. Iqbal Qadri,13,Undirected,13,0,1,0,13,1;2,14,3,"Cabinet Secretariat;Interior and Narcotics Control;Law, Justice and Human Rights"
+Iqbal Muhammad Ali Khan,Sanjay Perwani,13,Undirected,13,0,1,0,13,2;4;5,14,1,"Law, Justice and Human Rights"
+Dr. Khalid Maqbool Siddiqui,Dr. Muhammad Farooq Sattar,13,Undirected,13,0,1,0,13,1;3;4;5,14,1,Interior and Narcotics Control
+Abdul Waseem,Muhammad Kamal Malik,13,Undirected,13,0,1,0,13,3;4;5,14,0,
+Syed Amin ul Haque,Syed Amin ul Haque,13,Undirected,13,0,1,3,10,1;2;4,15,0,
+Nafeesa Inayatullah Khan Khattak,Shandana Gulzar Khan,13,Undirected,13,0,1,0,13,2;4,15,2,Cabinet Secretariat;Interior and Narcotics Control
+Nafeesa Inayatullah Khan Khattak,Raja Khurram Shahzad Nawaz,13,Undirected,13,0,1,0,13,2;3;4,15,0,
+Dr. Fouzia Hameed,Mohammad Salman Khan Baloch,13,Undirected,13,0,1,0,13,4;5,14,0,
+S. A. Iqbal Qadri,Syed Asif Hasnain,13,Undirected,13,0,1,0,13,1;2;3;4,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Dr. Nikhat Shakeel Khan,Muhammad Kamal Malik,13,Undirected,13,0,1,0,13,3;4;5,14,0,
+Kishwer Zehra,Shaista Pervaiz,12,Undirected,0,12,0,0,12,1;3;5,14;15,0,
+Shaikh Salahuddin,Syed Asif Hasnain,12,Undirected,12,0,1,0,12,1;2;3;4,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Dr. Khalid Maqbool Siddiqui,Muhammad Muzammil Qureshi,12,Undirected,12,0,1,0,12,1;3;4;5,14,2,Cabinet Secretariat;Interior and Narcotics Control
+Muhammad Rehan Hashmi,S. A. Iqbal Qadri,12,Undirected,12,0,1,0,12,1;2,14,3,"Cabinet Secretariat;Interior and Narcotics Control;Law, Justice and Human Rights"
+Shaista Pervaiz,Shaza Fatima Khawaja,12,Undirected,12,0,1,0,12,2,15,0,
+Moulana Abdul Akbar Chitrali,Salah Ud Din Ayubi,12,Undirected,12,0,1,0,12,1;2;3,15,0,
+Sardar Ayaz Sadiq,Shaista Pervaiz,12,Undirected,12,0,1,0,12,2,15,0,
+Syed Rafiullah,Syed Rafiullah,12,Undirected,12,0,1,0,12,1;3;4,15,0,
+James Iqbal,Moulana Abdul Akbar Chitrali,12,Undirected,12,0,1,0,12,3;4,15,1,Interior and Narcotics Control
+Saman Sultana Jafri,Sufyan Yousuf,12,Undirected,12,0,1,0,12,1;3;4,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Sanjay Perwani,Syed Waseem Hussain,12,Undirected,12,0,1,0,12,2;3;5,14,1,"Law, Justice and Human Rights"
+Abdul Rashid Godil,Sajid Ahmed,12,Undirected,12,0,1,0,12,1;2,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Shaista Pervaiz,Tahira Aurangzeb,12,Undirected,12,0,1,0,12,1;3;5,14;15,0,
+Mehboob Alam,Sanjay Perwani,12,Undirected,12,0,1,0,12,2;3;5,14,1,"Law, Justice and Human Rights"
+Iqbal Muhammad Ali Khan,Muhammad Muzammil Qureshi,12,Undirected,12,0,1,0,12,1;2;5,14,1,"Law, Justice and Human Rights"
+Muhammad Kamal Malik,Syed Ali Raza Abidi,11,Undirected,11,0,1,0,11,5,14,0,
+Mohammad Salman Khan Baloch,S. A. Iqbal Qadri,11,Undirected,11,0,1,0,11,1;2;4;5,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Dr. Nikhat Shakeel Khan,Dr. Nikhat Shakeel Khan,11,Undirected,11,0,1,0,11,2;3;5,14,0,
+Shaikh Salahuddin,Sufyan Yousuf,11,Undirected,11,0,1,0,11,1;3;4,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Muhammad Kamal Malik,Muhammad Muzammil Qureshi,11,Undirected,11,0,1,0,11,5,14,0,
+Dr. Shireen Mehrunnisa Mazari,Dr. Shireen Mehrunnisa Mazari,11,Undirected,11,0,1,9,2,2;3;4,14;15,0,
+Dr. Muhammad Farooq Sattar,Saman Sultana Jafri,11,Undirected,11,0,1,0,11,1;3;4;5,14,1,Interior and Narcotics Control
+Khurram Dastgir Khan,Khurram Dastgir Khan,11,Undirected,11,0,1,6,5,3;5,15,0,
+Dr. Khalid Maqbool Siddiqui,Saman Sultana Jafri,11,Undirected,11,0,1,0,11,1;3;4;5,14,1,Interior and Narcotics Control
+Sheikh Rasheed Ahmad,Sheikh Rasheed Ahmad,11,Undirected,11,0,1,10,1,3;4,14;15,0,
+Dr. Khalid Maqbool Siddiqui,Syed Waseem Hussain,11,Undirected,11,0,1,0,11,3;4;5,14,0,
+Dr. Nikhat Shakeel Khan,Muhammad Rehan Hashmi,11,Undirected,11,0,1,0,11,1;2,14,2,"Cabinet Secretariat;Law, Justice and Human Rights"
+Murtaza Javed Abbasi,Murtaza Javed Abbasi,11,Undirected,11,0,1,10,1,1;4,15,0,
+Abdul Waseem,Dr. Khalid Maqbool Siddiqui,11,Undirected,11,0,1,0,11,3;4;5,14,0,
+Muhammad Sana Ullah Khan Masti Khel,Usama Qadri,10,Undirected,0,10,0,0,10,2,15,0,
+Muhammad Sana Ullah Khan Masti Khel,Salah-ud-Din,10,Undirected,0,10,0,0,10,2,15,0,
+Dr. Khalid Maqbool Siddiqui,Syed Ali Raza Abidi,10,Undirected,10,0,1,0,10,3;4;5,14,0,
+Saman Sultana Jafri,Syed Asif Hasnain,10,Undirected,10,0,1,0,10,1;2;3;4,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Asad Mehmood,Asad Mehmood,10,Undirected,10,0,1,10,0,4,15,0,
+Jam Abdul Karim Bijar,Jam Abdul Karim Bijar,10,Undirected,10,0,1,0,10,3;4,15,0,
+Syed Asif Hasnain,Syed Waseem Hussain,10,Undirected,10,0,1,0,10,1;2;3;4,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Asma Hadeed,Dr. Seemin Abdul Rehman Bokhari,10,Undirected,10,0,1,0,10,2;4,15,1,Interior
+Noor Alam Khan,Noor Alam Khan,10,Undirected,10,0,1,0,10,1,15;16,0,
+Muhammad Akram,Usama Qadri,10,Undirected,0,10,0,0,10,2,15,0,
+Sajid Ahmed,Syed Waseem Hussain,10,Undirected,10,0,1,0,10,2;5,14,1,"Law, Justice and Human Rights"
+Iqbal Muhammad Ali Khan,Muhammad Sana Ullah Khan Masti Khel,10,Undirected,0,10,0,0,10,2,15,0,
+Iqbal Muhammad Ali Khan,Muhammad Akram,10,Undirected,0,10,0,0,10,2,15,0,
+Imran Khattak,Nafeesa Inayatullah Khan Khattak,10,Undirected,10,0,1,0,10,1;2;5,14;15,1,Parliamentary Affairs
+Abdul Waseem,Sufyan Yousuf,10,Undirected,10,0,1,0,10,1;3;4,14,3,"Cabinet Secretariat;Interior and Narcotics Control;Law, Justice and Human Rights"
+Moulana Abdul Akbar Chitrali,Mrs. Aliya Kamran,10,Undirected,10,0,1,0,10,1,15,0,
+Dr. Nikhat Shakeel Khan,Sufyan Yousuf,10,Undirected,10,0,1,0,10,1;3;4,14,4,"Cabinet Secretariat;Interior and Narcotics Control;Law, Justice and Human Rights;Parliamentary Affairs"
+Salah Ud Din Ayubi,Shahida Akhtar Ali,10,Undirected,10,0,0,0,10,1,15,0,
+Mohammad Salman Khan Baloch,Shaikh Salahuddin,10,Undirected,10,0,1,0,10,1;2;4;5,14,1,"Law, Justice and Human Rights"
+Kishwer Zehra,Muhammad Sana Ullah Khan Masti Khel,10,Undirected,0,10,0,0,10,2,15,0,
+Kishwer Zehra,Muhammad Akram,10,Undirected,0,10,0,0,10,2,15,0,
+Raja Riaz Ahmad,Usama Qadri,10,Undirected,0,10,0,0,10,2,15,0,
+Raja Riaz Ahmad,Salah-ud-Din,10,Undirected,0,10,0,0,10,2,15,0,
+Moulana Abdul Akbar Chitrali,Shahida Akhtar Ali,10,Undirected,10,0,0,0,10,1,15,0,
+Naveed Aamir,Naveed Aamir,10,Undirected,10,0,1,0,10,2;4;5,15,0,
+Muhammad Akram,Muhammad Sana Ullah Khan Masti Khel,10,Undirected,10,0,1,0,10,2,15,0,
+Muhammad Akram,Salah-ud-Din,10,Undirected,0,10,0,0,10,2,15,0,
+Muhammad Akram,Raja Riaz Ahmad,10,Undirected,10,0,1,0,10,2,15,0,
+Muhammad Akram,Nafeesa Inayatullah Khan Khattak,10,Undirected,10,0,1,0,10,2,15,0,
+Nafeesa Inayatullah Khan Khattak,Raja Riaz Ahmad,10,Undirected,10,0,1,0,10,2,15,0,
+Kishwer Zehra,Raja Riaz Ahmad,10,Undirected,0,10,0,0,10,2,15,0,
+Nafeesa Inayatullah Khan Khattak,Salah-ud-Din,10,Undirected,0,10,0,0,10,2,15,0,
+Dr. Khalid Maqbool Siddiqui,Mehboob Alam,10,Undirected,10,0,1,0,10,3;4;5,14,0,
+Mohammad Salman Khan Baloch,Syed Ali Raza Abidi,10,Undirected,10,0,1,0,10,1;4;5,14,1,"Law, Justice and Human Rights"
+Ali Muhammad Khan,Dr. Shireen Mehrunnisa Mazari,10,Undirected,10,0,1,0,10,2,14,0,
+Ali Muhammad Khan,Dr. Arif Alvi,10,Undirected,10,0,1,0,10,2,14,0,
+Mohsin Shah Nawaz Ranjha,Syed Naveed Qamar,10,Undirected,0,10,0,0,10,2,15,0,
+Abdul Rashid Godil,Iqbal Muhammad Ali Khan,10,Undirected,10,0,1,0,10,2,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Iqbal Muhammad Ali Khan,Raja Riaz Ahmad,10,Undirected,0,10,0,0,10,2,15,0,
+Iqbal Muhammad Ali Khan,Sufyan Yousuf,10,Undirected,10,0,1,0,10,1;2;3;4,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Muhammad Sana Ullah Khan Masti Khel,Nafeesa Inayatullah Khan Khattak,10,Undirected,10,0,1,0,10,2,15,0,
+Muhammad Sana Ullah Khan Masti Khel,Raja Riaz Ahmad,10,Undirected,10,0,1,0,10,2,15,0,
+Syed Naveed Qammar,Syed Naveed Qammar,10,Undirected,10,0,1,0,10,5,14,0,
+Dr. Zulfiqar Ali Bhatti,Samina Matloob,10,Undirected,10,0,1,0,10,5,15,0,
+Shaikh Salahuddin,Shaikh Salahuddin,10,Undirected,10,0,1,0,10,1;2;5,14,0,
+Raja Pervez Ashraf,Raja Pervez Ashraf,10,Undirected,10,0,1,0,10,1;2,15,0,
+Asma Hadeed,Fauzia Behram,10,Undirected,10,0,1,0,10,2;4,15,1,Interior
+Mohsin Shah Nawaz Ranjha,Shaza Fatima Khawaja,10,Undirected,10,0,1,0,10,2;3,15,0,
+Saman Sultana Jafri,Saman Sultana Jafri,10,Undirected,10,0,1,0,10,2;3;5,14,0,
+Dr. Seemin Abdul Rehman Bokhari,Rao Muhammad Ajmal Khan,9,Undirected,0,9,0,0,9,4,15,1,Interior
+Dr. Seemin Abdul Rehman Bokhari,Tahira Aurangzeb,9,Undirected,0,9,0,0,9,4,15,1,Interior
+Dr. Ramesh Kumar Vankwani,Shunila Ruth,9,Undirected,9,0,1,0,9,1,15,0,
+Dr. Seemin Abdul Rehman Bokhari,Fauzia Behram,9,Undirected,9,0,1,0,9,4,15,1,Interior
+Fauzia Behram,Mrs. Shahida Rehmani,9,Undirected,0,9,0,0,9,4,15,1,Interior
+Kiran Imran,Tahira Aurangzeb,9,Undirected,9,0,1,0,9,4,15,1,Interior
+Kiran Imran,Rao Muhammad Ajmal Khan,9,Undirected,9,0,1,0,9,4,15,1,Interior
+Nafeesa Inayatullah Khan Khattak,Syed Naveed Qamar,9,Undirected,0,9,0,0,9,2,15,0,
+Romina Khurshid Alam,Tahira Aurangzeb,9,Undirected,9,0,1,0,9,4,15,1,Interior
+Amjid Ali Khan,Syed Naveed Qamar,9,Undirected,0,9,0,0,9,2,15,0,
+Kiran Imran,Romina Khurshid Alam,9,Undirected,9,0,1,0,9,4,15,1,Interior
+Kiran Imran,Mrs. Shahida Rehmani,9,Undirected,0,9,0,0,9,4,15,1,Interior
+Dr. Seemin Abdul Rehman Bokhari,Kiran Imran,9,Undirected,0,9,0,0,9,4,15,1,Interior
+Dr. Seemin Abdul Rehman Bokhari,Mrs. Shahida Rehmani,9,Undirected,0,9,0,0,9,4,15,1,Interior
+Dr. Seemin Abdul Rehman Bokhari,Romina Khurshid Alam,9,Undirected,0,9,0,0,9,4,15,1,Interior
+Mohsin Javed,Mrs. Aliya Kamran,9,Undirected,0,9,0,0,9,1,15,0,
+Kesoo Mal Kheeal Das,Kesoo Mal Kheeal Das,9,Undirected,9,0,1,0,9,1;2;3;4,15,0,
+Rao Muhammad Ajmal Khan,Romina Khurshid Alam,9,Undirected,9,0,1,0,9,4,15,1,Interior
+Ali Nawaz Awan,Asma Hadeed,9,Undirected,9,0,1,0,9,2;4,15,0,
+Rao Muhammad Ajmal Khan,Tahira Aurangzeb,9,Undirected,9,0,1,0,9,4,15,1,Interior
+Mohsin Javed,Riaz Fatyana,9,Undirected,0,9,0,0,9,1,15,0,
+Mohsin Javed,Salah Ud Din Ayubi,9,Undirected,0,9,0,0,9,1,15,0,
+Mohsin Javed,Shahida Akhtar Ali,9,Undirected,0,9,0,0,9,1,15,0,
+Mohsin Javed,Moulana Abdul Akbar Chitrali,9,Undirected,0,9,0,0,9,1,15,0,
+Dr. Nikhat Shakeel Khan,Syed Asif Hasnain,9,Undirected,9,0,1,0,9,1;2;3;4,14,1,"Law, Justice and Human Rights"
+Moulana Abdul Akbar Chitrali,Moulana Abdul Akbar Chitrali,9,Undirected,9,0,1,0,9,1;3;4;5,15,0,
+Amjid Ali Khan,Mohsin Shah Nawaz Ranjha,9,Undirected,0,9,0,0,9,2,15,0,
+Asiya Azeem,James Iqbal,9,Undirected,0,9,0,0,9,5,15,0,
+Muhammad Muzammil Qureshi,Sufyan Yousuf,9,Undirected,9,0,1,0,9,1;3;4,14,3,"Cabinet Secretariat;Interior and Narcotics Control;Law, Justice and Human Rights"
+Samina Matloob,Zahra Wadood Fatemi,9,Undirected,9,0,1,0,9,2;5,15,0,
+Dr. Muhammad Farooq Sattar,Iqbal Muhammad Ali Khan,9,Undirected,9,0,1,0,9,1;3;4;5,14,1,"Law, Justice and Human Rights"
+Mehboob Alam,Syed Asif Hasnain,9,Undirected,9,0,1,0,9,1;2;3;4,14,1,"Law, Justice and Human Rights"
+Rana Iradat Sharif Khan,Uzma Riaz,9,Undirected,0,9,0,0,9,4,15,1,Parliamentary Affairs
+Ali Khan Jadoon,Saleh Muhammad,9,Undirected,9,0,1,0,9,1,15,0,
+Ali Khan Jadoon,Nuzhat Pathan,9,Undirected,9,0,1,0,9,2,15,0,
+Dr. Khalid Maqbool Siddiqui,Sanjay Perwani,9,Undirected,9,0,1,0,9,3;4;5,14,0,
+Muhammad Muzammil Qureshi,Syed Asif Hasnain,9,Undirected,9,0,1,0,9,1;2;3,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Shaista Pervaiz,Shaista Pervaiz,9,Undirected,9,0,1,0,9,1;2;5,14;15,0,
+Mehboob Alam,Mohammad Salman Khan Baloch,9,Undirected,9,0,1,0,9,1;2;5,14,1,"Law, Justice and Human Rights"
+Fauzia Behram,Tahira Aurangzeb,9,Undirected,0,9,0,0,9,4,15,1,Interior
+Dr. Shireen Mehrunnisa Mazari,Munaza Hassan,9,Undirected,9,0,1,0,9,1;2;3,14,1,Parliamentary Affairs
+Dr. Muhammad Farooq Sattar,Kishwer Zehra,9,Undirected,9,0,1,0,9,3;4;5,14,0,
+Mohsin Shah Nawaz Ranjha,Nafeesa Inayatullah Khan Khattak,9,Undirected,0,9,0,0,9,2,15,0,
+Nuzhat Pathan,Uzma Riaz,9,Undirected,9,0,1,0,9,2,15,0,
+Fauzia Behram,Rao Muhammad Ajmal Khan,9,Undirected,0,9,0,0,9,4,15,1,Interior
+Khurram Dastgir Khan,Shaza Fatima Khawaja,9,Undirected,9,0,1,0,9,2;3;4,15,0,
+Asma Hadeed,Mrs. Shahida Rehmani,9,Undirected,0,9,0,0,9,4,15,1,Interior
+Asma Hadeed,Nafeesa Inayatullah Khan Khattak,9,Undirected,9,0,1,0,9,2;4,15,0,
+Asma Hadeed,Kiran Imran,9,Undirected,0,9,0,0,9,4,15,1,Interior
+Asma Hadeed,Tahira Aurangzeb,9,Undirected,0,9,0,0,9,4,15,1,Interior
+Asma Hadeed,Rao Muhammad Ajmal Khan,9,Undirected,0,9,0,0,9,4,15,1,Interior
+Asma Hadeed,Romina Khurshid Alam,9,Undirected,0,9,0,0,9,4,15,1,Interior
+Fauzia Behram,Romina Khurshid Alam,9,Undirected,0,9,0,0,9,4,15,1,Interior
+Fauzia Behram,Kiran Imran,9,Undirected,0,9,0,0,9,4,15,1,Interior
+Mrs. Shahida Rehmani,Romina Khurshid Alam,9,Undirected,0,9,0,0,9,4,15,1,Interior
+Asma Hadeed,Raja Khurram Shahzad Nawaz,9,Undirected,9,0,1,0,9,2;4,15,0,
+Saleh Muhammad,Uzma Riaz,9,Undirected,9,0,1,0,9,1,15,0,
+Mrs. Shahida Rehmani,Rao Muhammad Ajmal Khan,9,Undirected,0,9,0,0,9,4,15,1,Interior
+Mrs. Shahida Rehmani,Tahira Aurangzeb,9,Undirected,0,9,0,0,9,4,15,1,Interior
+Abdul Qadir Patel,Shazia Marri,9,Undirected,9,0,1,0,9,1;3;4,15;16,0,
+Nusrat Wahid,Nusrat Wahid,8,Undirected,8,0,1,0,8,2;3;4,15,0,
+Abdul Waseem,Syed Asif Hasnain,8,Undirected,8,0,1,0,8,1;2;3;4,14,1,"Law, Justice and Human Rights"
+James Iqbal,Usama Qadri,8,Undirected,0,8,0,0,8,4;5,15,1,Law and Justice
+Dr. Arif Alvi,Munaza Hassan,8,Undirected,8,0,1,0,8,1;2;3,14,1,Parliamentary Affairs
+Dr. Arif Alvi,Makhdoom Shah Mahmood Qureshi,8,Undirected,8,0,1,0,8,2;3,14,0,
+Muhammad Rehan Hashmi,Sajid Ahmed,8,Undirected,8,0,1,0,8,1;2,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Nafeesa Inayatullah Khan Khattak,Uzma Riaz,8,Undirected,8,0,1,0,8,1;2;3;4,15,0,
+Khawaja Muhammad Asif,Khawaja Muhammad Asif,8,Undirected,8,0,1,4,4,3,14;15,0,
+Muhammad Hammad Azhar,Muhammad Hammad Azhar,8,Undirected,8,0,1,8,0,3;4,15,0,
+Sanjay Perwani,Syed Asif Hasnain,8,Undirected,8,0,1,0,8,1;2;3,14,1,"Law, Justice and Human Rights"
+Dr. Shireen Mehrunnisa Mazari,Makhdoom Shah Mahmood Qureshi,8,Undirected,8,0,1,0,8,2;3,14,0,
+Abdul Rashid Godil,Muhammad Muzammil Qureshi,8,Undirected,8,0,1,0,8,1;2,14,3,"Cabinet Secretariat;Interior and Narcotics Control;Law, Justice and Human Rights"
+Abdul Rashid Godil,Sufyan Yousuf,8,Undirected,8,0,1,0,8,1;2,14,2,Cabinet Secretariat;Interior and Narcotics Control
+Dr. Khalid Maqbool Siddiqui,Muhammad Kamal Malik,8,Undirected,8,0,1,0,8,3;4;5,14,0,
+Muhammad Kamal Malik,Saman Sultana Jafri,8,Undirected,8,0,1,0,8,3;4;5,14,0,
+Kishwer Zehra,Syed Asif Hasnain,8,Undirected,8,0,1,0,8,1;2;3;4,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Kishwer Zehra,Muhammad Kamal Malik,8,Undirected,8,0,1,0,8,3;4;5,14,0,
+Sajid Ahmed,Syed Asif Hasnain,8,Undirected,8,0,1,0,8,1;2;3,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Iqbal Muhammad Ali Khan,Syed Ali Raza Abidi,8,Undirected,8,0,1,0,8,1;5,14,1,"Law, Justice and Human Rights"
+Sajid Ahmed,Sanjay Perwani,8,Undirected,8,0,1,0,8,2;3;4,14,1,"Law, Justice and Human Rights"
+Iqbal Muhammad Ali Khan,Syed Asif Hasnain,8,Undirected,8,0,1,0,8,1;2;3;4,14,1,"Law, Justice and Human Rights"
+Iqbal Muhammad Ali Khan,Muhammad Kamal Malik,8,Undirected,8,0,1,0,8,3;4;5,14,0,
+Dr. Muhammad Farooq Sattar,Sajid Ahmed,8,Undirected,8,0,1,0,8,1;5,14,1,Interior and Narcotics Control
+Dr. Shireen Mehrunnisa Mazari,Rai Hasan Nawaz Khan,7,Undirected,7,0,1,0,7,2;3,14,0,
+Amirullah,Dr. Shireen Mehrunnisa Mazari,7,Undirected,7,0,1,0,7,2;3,14,0,
+Mohammad Salman Khan Baloch,Muhammad Rehan Hashmi,7,Undirected,7,0,1,0,7,1;2,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Dr. Arif Alvi,Rai Hasan Nawaz Khan,7,Undirected,7,0,1,0,7,2;3,14,0,
+James Iqbal,Kishwer Zehra,7,Undirected,0,7,0,0,7,4,15,1,Law and Justice
+Jai Parkash,James Iqbal,7,Undirected,0,7,0,0,7,4,15,1,Law and Justice
+Makhdoom Shah Mahmood Qureshi,Munaza Hassan,7,Undirected,7,0,1,0,7,2;3,14,0,
+Junaid Akbar,Munaza Hassan,7,Undirected,7,0,1,0,7,2;3,14,0,
+Junaid Akbar,Makhdoom Shah Mahmood Qureshi,7,Undirected,7,0,1,0,7,2;3,14,0,
+Dr. Shireen Mehrunnisa Mazari,Imran Khattak,7,Undirected,7,0,1,0,7,1;2;3,14,1,Parliamentary Affairs
+Sufyan Yousuf,Syed Asif Hasnain,7,Undirected,7,0,1,0,7,1;3;4,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Dr. Shireen Mehrunnisa Mazari,Junaid Akbar,7,Undirected,7,0,1,0,7,2;3,14,0,
+Mohammad Salman Khan Baloch,Sajid Ahmed,7,Undirected,7,0,1,0,7,1;2;5,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Dr. Zulfiqar Ali Bhatti,Zahra Wadood Fatemi,7,Undirected,7,0,1,0,7,5,15,0,
+Dr. Arif Alvi,Imran Khattak,7,Undirected,7,0,1,0,7,1;2;3,14,1,Parliamentary Affairs
+Dr. Khalid Maqbool Siddiqui,James Iqbal,7,Undirected,0,7,0,0,7,4,15,1,Law and Justice
+Dr. Khalid Maqbool Siddiqui,Usama Qadri,7,Undirected,7,0,1,0,7,4,15,1,Law and Justice
+Dr. Khalid Maqbool Siddiqui,Jai Parkash,7,Undirected,0,7,0,0,7,4,15,1,Law and Justice
+Asma Hadeed,Nooreen Farooq Khan,7,Undirected,7,0,1,0,7,2;4,15,0,
+Abdul Rashid Godil,Saman Sultana Jafri,7,Undirected,7,0,1,0,7,1;2,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Naeema Kishwar Khan,Shahida Akhtar Ali,7,Undirected,7,0,1,0,7,1;2;3;4,14,1,"Law, Justice and Human Rights"
+Abdul Rashid Godil,Shaikh Salahuddin,7,Undirected,7,0,1,0,7,1;2,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Abdul Rashid Godil,Syed Asif Hasnain,7,Undirected,7,0,1,0,7,1;2,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Asad Umar,Rai Hasan Nawaz Khan,7,Undirected,7,0,1,0,7,2;3,14,0,
+Asad Umar,Dr. Arif Alvi,7,Undirected,7,0,1,0,7,2;3,14,0,
+Asad Umar,Dr. Shireen Mehrunnisa Mazari,7,Undirected,7,0,1,0,7,2;3,14,0,
+Amjid Ali Khan,Mian Najibuddin Awaisi,7,Undirected,0,7,0,0,7,1;2,15,0,
+Nafeesa Inayatullah Khan Khattak,Rana Muhammad Qasim Noon,7,Undirected,7,0,1,0,7,1;2;3,15,0,
+Amirullah,Dr. Arif Alvi,7,Undirected,7,0,1,0,7,2;3,14,0,
+Amirullah,Asad Umar,7,Undirected,7,0,1,0,7,2;3,14,0,
+Dr. Nikhat Shakeel Khan,Seema Mohiuddin Jameeli,7,Undirected,0,7,0,0,7,4;5,14,0,
+Abdul Waseem,Mohammad Salman Khan Baloch,7,Undirected,7,0,1,0,7,1;2;5,14,1,"Law, Justice and Human Rights"
+Sajid Hussain Turi,Sajid Hussain Turi,7,Undirected,7,0,1,7,0,5,15,0,
+Amirullah,Rai Hasan Nawaz Khan,7,Undirected,7,0,1,0,7,2;3,14,0,
+Parveen Masood Bhatti,Shahnaz Saleem Malik,7,Undirected,7,0,1,0,7,5,14,0,
+Faiz Ullah,Faiz Ullah,7,Undirected,7,0,1,0,7,2;3,15,0,
+Jai Parkash,Kishwer Zehra,7,Undirected,0,7,0,0,7,4,15,1,Law and Justice
+Jai Parkash,Usama Qadri,7,Undirected,0,7,0,0,7,4,15,1,Law and Justice
+Dr. Arif Alvi,Junaid Akbar,7,Undirected,7,0,1,0,7,2;3,14,0,
+Asma Hadeed,Farrukh Khan,7,Undirected,0,7,0,0,7,4,15,0,
+Ali Khan Jadoon,Nafeesa Inayatullah Khan Khattak,7,Undirected,7,0,1,0,7,1;2;3,15,0,
+Sajid Ahmed,Syed Ali Raza Abidi,7,Undirected,7,0,1,0,7,5,14,0,
+Mehnaz Akber Aziz,Mehnaz Akber Aziz,7,Undirected,7,0,1,0,7,1;2,15,0,
+Farrukh Khan,Raja Khurram Shahzad Nawaz,7,Undirected,0,7,0,0,7,4,15,0,
+Farrukh Khan,Nafeesa Inayatullah Khan Khattak,7,Undirected,0,7,0,0,7,4,15,0,
+Ali Nawaz Awan,Farrukh Khan,7,Undirected,0,7,0,0,7,4,15,0,
+Muhammad Muzammil Qureshi,Muhammad Rehan Hashmi,6,Undirected,6,0,1,0,6,1;2,14,1,"Law, Justice and Human Rights"
+Abdul Waseem,Muhammad Rehan Hashmi,6,Undirected,6,0,1,0,6,1;2,14,1,"Law, Justice and Human Rights"
+Marriyum Aurangzeb,Shaza Fatima Khawaja,6,Undirected,6,0,1,0,6,2;3,15,0,
+Khurram Dastgir Khan,Sardar Ayaz Sadiq,6,Undirected,6,0,1,0,6,2;3,15,0,
+Qaisar Jamal,Rai Hasan Nawaz Khan,6,Undirected,6,0,1,0,6,2;3,14,0,
+Shazia Marri,Syed Rafiullah,6,Undirected,6,0,1,0,6,4,15,0,
+Bhawan Das,Shaikh Salahuddin,6,Undirected,0,6,0,0,6,1;5,14,1,"Law, Justice and Human Rights"
+Bhawan Das,Syed Ali Raza Abidi,6,Undirected,0,6,0,0,6,1;5,14,1,"Law, Justice and Human Rights"
+Bhawan Das,S. A. Iqbal Qadri,6,Undirected,0,6,0,0,6,1;5,14,1,"Law, Justice and Human Rights"
+Naveed Aamir,Syed Javed Hassnain,6,Undirected,0,6,0,0,6,5,15,0,
+Nafeesa Inayatullah Khan Khattak,Shaista Pervaiz,6,Undirected,0,6,0,0,6,1;3,15,0,
+Nafeesa Inayatullah Khan Khattak,Tahira Aurangzeb,6,Undirected,0,6,0,0,6,1;3,15,0,
+Amirullah,Qaisar Jamal,6,Undirected,6,0,1,0,6,2;3,14,0,
+Rana Sana Ullah Khan,Sardar Ayaz Sadiq,6,Undirected,6,0,1,0,6,2;3,15,0,
+Sardar Ayaz Sadiq,Shahid Khaqan Abbasi,6,Undirected,6,0,1,0,6,2;3,15,0,
+Shahid Khaqan Abbasi,Shaza Fatima Khawaja,6,Undirected,6,0,1,0,6,2;3,15,0,
+Tahira Aurangzeb,Uzma Riaz,6,Undirected,0,6,0,0,6,1;3,15,0,
+Abdul Qadir Baloch,Abdul Qadir Baloch,6,Undirected,6,0,1,6,0,5,14,0,
+Aaisha Gulalai,Dr. Shireen Mehrunnisa Mazari,6,Undirected,6,0,1,0,6,2;3,14,0,
+Muhammad Baleegh-ur-Rehman,Muhammad Baleegh-ur-Rehman,6,Undirected,6,0,1,6,0,4;5,14,0,
+Rana Sana Ullah Khan,Shaza Fatima Khawaja,6,Undirected,6,0,1,0,6,2;3,15,0,
+Tahira Aurangzeb,Usama Qadri,6,Undirected,0,6,0,0,6,1;3,15,0,
+Tahira Aurangzeb,Tahira Aurangzeb,6,Undirected,6,0,1,0,6,1;4;5,14;15,0,
+Sufyan Yousuf,Syed Waseem Hussain,6,Undirected,6,0,1,0,6,1;3;4,14,3,"Cabinet Secretariat;Interior and Narcotics Control;Law, Justice and Human Rights"
+Noor Ul Hassan Tanvir,Noor Ul Hassan Tanvir,6,Undirected,6,0,1,0,6,5,15,0,
+Mohammad Salman Khan Baloch,Syed Waseem Hussain,6,Undirected,6,0,1,0,6,1;2,14,1,"Law, Justice and Human Rights"
+Parveen Masood Bhatti,Seema Mohiuddin Jameeli,6,Undirected,6,0,1,0,6,1;5,14,1,Interior and Narcotics Control
+Jai Parkash,Jai Parkash,6,Undirected,6,0,1,0,6,3,15,0,
+Mumtaz Ahmad Tarar,Mumtaz Ahmad Tarar,6,Undirected,6,0,1,6,0,5,14,0,
+Dr. Shireen Mehrunnisa Mazari,Qaisar Jamal,6,Undirected,6,0,1,0,6,2;3,14,0,
+Surriya Asghar,Surriya Asghar,6,Undirected,6,0,1,0,6,1;4;5,14,0,
+Aaisha Gulalai,Dr. Arif Alvi,6,Undirected,6,0,1,0,6,2;3,14,0,
+Marriyum Aurangzeb,Sardar Ayaz Sadiq,6,Undirected,6,0,1,0,6,2;3,15,0,
+Sher Ali Arbab,Sher Ali Arbab,6,Undirected,6,0,1,0,6,4,15,0,
+Bilal Azhar Kayani,Zeb Jaffar,6,Undirected,6,0,1,0,6,1,16,0,
+Mohsin Shah Nawaz Ranjha,Mohsin Shah Nawaz Ranjha,6,Undirected,6,0,1,0,6,2;3,15,0,
+Kishwer Zehra,Rana Muhammad Qasim Noon,6,Undirected,0,6,0,0,6,1;3,15,0,
+Kishwer Zehra,Malik Muhammad Aamir Dogar,6,Undirected,0,6,0,0,6,1;3,15,0,
+Engineer Sabir Hussain,Khalid Hussain Magsi,6,Undirected,0,6,0,0,6,1;3,15,0,
+Ameer Zaman,Naeema Kishwar Khan,6,Undirected,6,0,1,0,6,1;2;3,14,1,"Law, Justice and Human Rights"
+Kishwer Zehra,Uzma Riaz,6,Undirected,0,6,0,0,6,1;3,15,0,
+Marvi Memon,Marvi Memon,6,Undirected,6,0,1,0,6,4;5,14,0,
+Engineer Sabir Hussain,Uzma Riaz,6,Undirected,0,6,0,0,6,1;3,15,0,
+Muhammad Kamal Malik,Sanjay Perwani,6,Undirected,6,0,1,0,6,5,14,0,
+Ms. Nafisa Shah,Rana Muhammad Qasim Noon,6,Undirected,0,6,0,0,6,1;3,15,0,
+Ms. Nafisa Shah,Shaista Pervaiz,6,Undirected,0,6,0,0,6,1;3,15,0,
+Ms. Nafisa Shah,Nafeesa Inayatullah Khan Khattak,6,Undirected,0,6,0,0,6,1;3,15,0,
+Ms. Nafisa Shah,Usama Qadri,6,Undirected,0,6,0,0,6,1;3,15,0,
+Ms. Nafisa Shah,Uzma Riaz,6,Undirected,0,6,0,0,6,1;3,15,0,
+Usama Qadri,Uzma Riaz,6,Undirected,0,6,0,0,6,1;3,15,0,
+Engineer Sabir Hussain,Tahira Aurangzeb,6,Undirected,0,6,0,0,6,1;3,15,0,
+Muhammad Rehan Hashmi,Syed Waseem Hussain,6,Undirected,6,0,1,0,6,1;2,14,1,"Law, Justice and Human Rights"
+Kishwer Zehra,Parveen Masood Bhatti,6,Undirected,0,6,0,0,6,4;5,14,0,
+Kishwer Zehra,Ms. Nafisa Shah,6,Undirected,0,6,0,0,6,1;3,15,0,
+Khawaja Muhammad Asif,Sardar Ayaz Sadiq,6,Undirected,6,0,1,0,6,2;3,15,0,
+Khawaja Muhammad Asif,Shaza Fatima Khawaja,6,Undirected,6,0,1,0,6,2;3,15,0,
+Engineer Sabir Hussain,Nafeesa Inayatullah Khan Khattak,6,Undirected,0,6,0,0,6,1;3,15,0,
+Engineer Sabir Hussain,Ms. Nafisa Shah,6,Undirected,0,6,0,0,6,1;3,15,0,
+Mohammad Salman Khan Baloch,Syed Asif Hasnain,6,Undirected,6,0,1,0,6,1;2,14,1,"Law, Justice and Human Rights"
+Muhammad Rehan Hashmi,Shaikh Salahuddin,6,Undirected,6,0,1,0,6,1;2,14,1,"Law, Justice and Human Rights"
+Rana Muhammad Qasim Noon,Shaista Pervaiz,6,Undirected,0,6,0,0,6,1;3,15,0,
+Rana Muhammad Qasim Noon,Tahira Aurangzeb,6,Undirected,0,6,0,0,6,1;3,15,0,
+Rana Muhammad Qasim Noon,Uzma Riaz,6,Undirected,6,0,1,0,6,1;3,15,0,
+Rana Muhammad Qasim Noon,Usama Qadri,6,Undirected,0,6,0,0,6,1;3,15,0,
+Mohsin Shah Nawaz Ranjha,Sardar Ayaz Sadiq,6,Undirected,6,0,1,0,6,2;3,15,0,
+Dr. Muhammad Farooq Sattar,Sanjay Perwani,6,Undirected,6,0,1,0,6,5,14,0,
+Abdul Rashid Godil,Kishwer Zehra,6,Undirected,6,0,1,0,6,1;2,14,2,"Cabinet Secretariat;Law, Justice and Human Rights"
+Abdul Rashid Godil,Dr. Nikhat Shakeel Khan,6,Undirected,6,0,1,0,6,1;2,14,2,"Cabinet Secretariat;Law, Justice and Human Rights"
+Asad Umar,Qaisar Jamal,6,Undirected,6,0,1,0,6,2;3,14,0,
+Dr. Arif Alvi,Qaisar Jamal,6,Undirected,6,0,1,0,6,2;3,14,0,
+Ms. Nafisa Shah,Tahira Aurangzeb,6,Undirected,0,6,0,0,6,1;3,15,0,
+Dr. Fouzia Hameed,Dr. Fouzia Hameed,6,Undirected,6,0,1,0,6,5,14,0,
+Engineer Sabir Hussain,Shaista Pervaiz,6,Undirected,0,6,0,0,6,1;3,15,0,
+Engineer Sabir Hussain,Malik Muhammad Aamir Dogar,6,Undirected,0,6,0,0,6,1;3,15,0,
+Engineer Sabir Hussain,Rana Muhammad Qasim Noon,6,Undirected,0,6,0,0,6,1;3,15,0,
+Muhammad Rehan Hashmi,Syed Asif Hasnain,6,Undirected,6,0,1,0,6,1;2,14,1,"Law, Justice and Human Rights"
+Abdul Shakoor Shad,Ali Muhammad Khan,6,Undirected,6,0,1,6,0,2,15,0,
+Shaista Pervaiz,Usama Qadri,6,Undirected,0,6,0,0,6,1;3,15,0,
+Malik Muhammad Aamir Dogar,Tahira Aurangzeb,6,Undirected,0,6,0,0,6,1;3,15,0,
+Shaista Pervaiz,Uzma Riaz,6,Undirected,0,6,0,0,6,1;3,15,0,
+Malik Muhammad Aamir Dogar,Shaista Pervaiz,6,Undirected,0,6,0,0,6,1;3,15,0,
+Malik Muhammad Aamir Dogar,Nafeesa Inayatullah Khan Khattak,6,Undirected,6,0,0,0,6,1;3,15,0,
+Malik Muhammad Aamir Dogar,Usama Qadri,6,Undirected,0,6,0,0,6,1;3,15,0,
+Malik Muhammad Aamir Dogar,Rana Muhammad Qasim Noon,6,Undirected,6,0,0,0,6,1;3,15,0,
+Malik Muhammad Aamir Dogar,Uzma Riaz,6,Undirected,6,0,0,0,6,1;3,15,0,
+Ali Khan Jadoon,Ms. Nafisa Shah,6,Undirected,0,6,0,0,6,1;3,15,0,
+Dr. Darshan,Ramesh Lal,6,Undirected,0,6,0,0,6,1,14;15,1,"Law, Justice and Human Rights"
+Sanjay Perwani,Sanjay Perwani,6,Undirected,6,0,1,0,6,2;3;5,14,0,
+Khalid Hussain Magsi,Rana Muhammad Qasim Noon,6,Undirected,0,6,0,0,6,1;3,15,0,
+Khalid Hussain Magsi,Kishwer Zehra,6,Undirected,0,6,0,0,6,1;3,15,0,
+Khalid Hussain Magsi,Tahira Aurangzeb,6,Undirected,0,6,0,0,6,1;3,15,0,
+Mehboob Alam,Muhammad Rehan Hashmi,6,Undirected,6,0,1,0,6,1;2,14,1,"Law, Justice and Human Rights"
+Sajid Ahmed,Sajid Ahmed,6,Undirected,6,0,1,0,6,2;3;4;5,14,0,
+Khalid Hussain Magsi,Usama Qadri,6,Undirected,0,6,0,0,6,1;3,15,0,
+Khalid Hussain Magsi,Nafeesa Inayatullah Khan Khattak,6,Undirected,0,6,0,0,6,1;3,15,0,
+Khalid Hussain Magsi,Malik Muhammad Aamir Dogar,6,Undirected,0,6,0,0,6,1;3,15,0,
+Dr. Muhammad Afzal Khan Dhandla,Syed Sajid Mehdi,6,Undirected,0,6,0,0,6,1;4,15,1,"National Health Services, Regulations and Coordination"
+Iqbal Muhammad Ali Khan,Tahira Aurangzeb,6,Undirected,0,6,0,0,6,1;3,15,0,
+Khalid Hussain Magsi,Ms. Nafisa Shah,6,Undirected,0,6,0,0,6,1;3,15,0,
+Khalid Hussain Magsi,Uzma Riaz,6,Undirected,0,6,0,0,6,1;3,15,0,
+Iqbal Muhammad Ali Khan,Khalid Hussain Magsi,6,Undirected,0,6,0,0,6,1;3,15,0,
+Iqbal Muhammad Ali Khan,Muhammad Rehan Hashmi,6,Undirected,6,0,1,0,6,1;2,14,1,"Law, Justice and Human Rights"
+Iqbal Muhammad Ali Khan,Ms. Nafisa Shah,6,Undirected,0,6,0,0,6,1;3,15,0,
+Iqbal Muhammad Ali Khan,Mohammad Salman Khan Baloch,6,Undirected,6,0,1,0,6,1;2,14,1,"Law, Justice and Human Rights"
+Iqbal Muhammad Ali Khan,Malik Muhammad Aamir Dogar,6,Undirected,0,6,0,0,6,1;3,15,0,
+Iqbal Muhammad Ali Khan,Shaista Pervaiz,6,Undirected,0,6,0,0,6,1;3,15,0,
+Aasiya Nasir,Shahida Akhtar Ali,6,Undirected,6,0,1,0,6,1;3;4,14,2,"Defence;Law, Justice and Human Rights"
+Iqbal Muhammad Ali Khan,Uzma Riaz,6,Undirected,0,6,0,0,6,1;3,15,0,
+Ali Khan Jadoon,Engineer Sabir Hussain,6,Undirected,0,6,0,0,6,1;3,15,0,
+Ali Khan Jadoon,Iqbal Muhammad Ali Khan,6,Undirected,0,6,0,0,6,1;3,15,0,
+Ali Khan Jadoon,Kishwer Zehra,6,Undirected,0,6,0,0,6,1;3,15,0,
+Ali Khan Jadoon,Rana Muhammad Qasim Noon,6,Undirected,6,0,1,0,6,1;3,15,0,
+Ali Khan Jadoon,Shaista Pervaiz,6,Undirected,0,6,0,0,6,1;3,15,0,
+Ali Khan Jadoon,Malik Muhammad Aamir Dogar,6,Undirected,6,0,0,0,6,1;3,15,0,
+Ali Khan Jadoon,Usama Qadri,6,Undirected,0,6,0,0,6,1;3,15,0,
+Khalid Hussain Magsi,Shaista Pervaiz,6,Undirected,0,6,0,0,6,1;3,15,0,
+Abdul Qadir Patel,Abdul Qadir Patel,6,Undirected,6,0,1,3,3,3;4;5,15,0,
+Ali Khan Jadoon,Tahira Aurangzeb,6,Undirected,0,6,0,0,6,1;3,15,0,
+Malik Muhammad Aamir Dogar,Ms. Nafisa Shah,6,Undirected,0,6,0,0,6,1;3,15,0,
+Iqbal Muhammad Ali Khan,Rana Muhammad Qasim Noon,6,Undirected,0,6,0,0,6,1;3,15,0,
+Ali Khan Jadoon,Khalid Hussain Magsi,6,Undirected,0,6,0,0,6,1;3,15,0,
+Agha Hassan Baloch,Sardar Akhter Jan Mengal,6,Undirected,6,0,1,0,6,2;3,15,0,
+Aaisha Gulalai,Makhdoom Shah Mahmood Qureshi,6,Undirected,6,0,1,0,6,2;3,14,0,
+Fawad Ahmed,Fawad Ahmed,6,Undirected,6,0,1,6,0,3,15,0,
+Muhammad Ali Rashid,Muhammad Muzammil Qureshi,5,Undirected,5,0,1,0,5,5,14,0,
+Dr. Shazia Sobia,Dr. Shazia Sobia,5,Undirected,5,0,1,0,5,1,15,0,
+Muhammad Ali Rashid,Syed Waseem Hussain,5,Undirected,5,0,1,0,5,5,14,0,
+Muhammad Ali Rashid,Muhammad Kamal Malik,5,Undirected,5,0,1,0,5,5,14,0,
+Aaisha Gulalai,Sajida Begum,5,Undirected,5,0,1,0,5,2,14,0,
+Aaisha Gulalai,Munaza Hassan,5,Undirected,5,0,1,0,5,2,14,0,
+Agha Hassan Baloch,Mohsin Javed,5,Undirected,0,5,0,0,5,3,15,0,
+Asma Hadeed,Choudhary Faqir Ahmad,5,Undirected,0,5,0,0,5,4,15,1,Interior
+Dr. Arif Alvi,Shehryar Afridi,5,Undirected,5,0,1,0,5,2,14,0,
+Dr. Arif Alvi,Shafqat Mehmood,5,Undirected,5,0,1,0,5,2,14,0,
+Mrs. Shahida Rehmani,Mrs. Shahida Rehmani,5,Undirected,5,0,1,0,5,1;3;4,14;15,0,
+Makhdoom Shah Mahmood Qureshi,Sajida Begum,5,Undirected,5,0,1,0,5,2,14,0,
+Imran Khan,Rai Hasan Nawaz Khan,5,Undirected,5,0,1,0,5,2,14,0,
+Sharmila Sahiba Faruqui Hashaam,Sharmila Sahiba Faruqui Hashaam,5,Undirected,5,0,1,0,5,1,16,0,
+Seema Mohiuddin Jameeli,Shaikh Salahuddin,5,Undirected,0,5,0,0,5,5,14,0,
+Parveen Masood Bhatti,Tahira Aurangzeb,5,Undirected,5,0,1,0,5,5,14,0,
+Parveen Masood Bhatti,Shaikh Salahuddin,5,Undirected,0,5,0,0,5,5,14,0,
+Shahid Khaqan Abbasi,Shahid Khaqan Abbasi,5,Undirected,5,0,1,1,4,2;3,14;15,0,
+Rana Sana Ullah Khan,Rana Sana Ullah Khan,5,Undirected,5,0,1,0,5,3,15,0,
+Shahnaz Saleem Malik,Tahira Aurangzeb,5,Undirected,5,0,1,0,5,5,14,0,
+Dr. Arif Alvi,Sajida Begum,5,Undirected,5,0,1,0,5,2,14,0,
+Shahnaz Saleem Malik,Shaikh Salahuddin,5,Undirected,0,5,0,0,5,5,14,0,
+Dr. Hafeez Ur Rehman Khan,Dr. Nikhat Shakeel Khan,5,Undirected,0,5,0,0,5,5,14,0,
+Dr. Hafeez Ur Rehman Khan,Kishwer Zehra,5,Undirected,0,5,0,0,5,5,14,0,
+Khawaja Saad Rafique,Sardar Ayaz Sadiq,5,Undirected,5,0,1,0,5,2;3,15,0,
+Khawaja Saad Rafique,Shaza Fatima Khawaja,5,Undirected,5,0,1,0,5,2;3,15,0,
+Aftab Jehangir,Shaista Pervaiz,5,Undirected,0,5,0,0,5,1,15,0,
+Aftab Jehangir,Rana Muhammad Qasim Noon,5,Undirected,5,0,1,0,5,1,15,0,
+Dr. Hafeez Ur Rehman Khan,Shahnaz Saleem Malik,5,Undirected,5,0,1,0,5,5,14,0,
+Dr. Hafeez Ur Rehman Khan,Seema Mohiuddin Jameeli,5,Undirected,5,0,1,0,5,5,14,0,
+Mehmood Khan Achakzai,Sanjay Perwani,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Mehmood Khan Achakzai,Ms. Nafisa Shah,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Mehmood Khan Achakzai,Shaikh Salahuddin,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Mehmood Khan Achakzai,Nawab Muhammad Yousuf Talpur,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Mehmood Khan Achakzai,Syed Qazim Ali Shah,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Mehmood Khan Achakzai,Muhammad Raza Hayat Hiraj,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Mehmood Khan Achakzai,Umar Ayub Khan,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Aasiya Nasir,Mrs. Aliya Kamran,5,Undirected,5,0,0,0,5,1;3,14,2,"Defence;Law, Justice and Human Rights"
+Aasiya Nasir,Ameer Zaman,5,Undirected,5,0,1,0,5,1;2;3,14,1,"Law, Justice and Human Rights"
+Malik Muhammad Aamir Dogar,Saleh Muhammad,5,Undirected,5,0,0,0,5,1,15,0,
+Malik Muhammad Aamir Dogar,Syed Amin ul Haque,5,Undirected,0,5,0,0,5,1,15,0,
+Shaista Pervaiz,Syed Amin ul Haque,5,Undirected,0,5,0,0,5,1,15,0,
+Dr. Muhammad Farooq Sattar,Syed Asif Hasnain,5,Undirected,5,0,1,0,5,1;3;4,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Imran Zafar Leghari,Sanjay Perwani,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Imran Zafar Leghari,Ms. Nafisa Shah,5,Undirected,5,0,1,0,5,2,14,1,"Law, Justice and Human Rights"
+Imran Zafar Leghari,Mehmood Khan Achakzai,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Imran Zafar Leghari,Muhammad Raza Hayat Hiraj,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Imran Zafar Leghari,Umar Ayub Khan,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Nawab Muhammad Yousuf Talpur,Sanjay Perwani,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Nawab Muhammad Yousuf Talpur,Shaikh Salahuddin,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Nawab Muhammad Yousuf Talpur,Syed Qazim Ali Shah,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Nawab Muhammad Yousuf Talpur,Umar Ayub Khan,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Syed Qazim Ali Shah,Umar Ayub Khan,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Ghous Bux Khan Mahar,Sanjay Perwani,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Ghous Bux Khan Mahar,Ms. Nafisa Shah,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Ghous Bux Khan Mahar,Mehmood Khan Achakzai,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Ghous Bux Khan Mahar,Shaikh Salahuddin,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Ghous Bux Khan Mahar,Imran Zafar Leghari,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Ghous Bux Khan Mahar,Nawab Muhammad Yousuf Talpur,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Ghous Bux Khan Mahar,Syed Qazim Ali Shah,5,Undirected,5,0,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Khalid Hussain Magsi,Saleh Muhammad,5,Undirected,0,5,0,0,5,1,15,0,
+Khalid Hussain Magsi,Syed Amin ul Haque,5,Undirected,0,5,0,0,5,1,15,0,
+Ali Khan Jadoon,Ali Khan Jadoon,5,Undirected,5,0,1,0,5,1;2,15,0,
+Ali Khan Jadoon,Prince Muhammad Nawaz Allai,5,Undirected,5,0,1,0,5,1,15,0,
+Aasiya Nasir,Naeema Kishwar Khan,5,Undirected,5,0,1,0,5,1;2;3;4,14,1,"Law, Justice and Human Rights"
+Ghous Bux Khan Mahar,Muhammad Raza Hayat Hiraj,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Ghous Bux Khan Mahar,Umar Ayub Khan,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Muhammad Raza Hayat Hiraj,Sanjay Perwani,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Muhammad Raza Hayat Hiraj,Shaikh Salahuddin,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Muhammad Raza Hayat Hiraj,Nawab Muhammad Yousuf Talpur,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Muhammad Raza Hayat Hiraj,Syed Qazim Ali Shah,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Muhammad Raza Hayat Hiraj,Umar Ayub Khan,5,Undirected,5,0,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Sanjay Perwani,Sufyan Yousuf,5,Undirected,5,0,1,0,5,3,14,0,
+Sanjay Perwani,Syed Qazim Ali Shah,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Sanjay Perwani,Umar Ayub Khan,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Ali Muhammad Khan,Shehryar Afridi,5,Undirected,5,0,1,0,5,2,14,0,
+Imran Zafar Leghari,Nawab Muhammad Yousuf Talpur,5,Undirected,5,0,1,0,5,2,14,1,"Law, Justice and Human Rights"
+Imran Zafar Leghari,Syed Qazim Ali Shah,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Abdul Rashid Godil,Mehboob Alam,5,Undirected,5,0,1,0,5,2,14,1,"Law, Justice and Human Rights"
+Dr. Shireen Mehrunnisa Mazari,Sajida Begum,5,Undirected,5,0,1,0,5,2,14,0,
+Ms. Nafisa Shah,Shazia Marri,5,Undirected,5,0,1,0,5,2,14,1,Parliamentary Affairs
+Ms. Nafisa Shah,Prince Muhammad Nawaz Allai,5,Undirected,0,5,0,0,5,1,15,0,
+Ali Muhammad Khan,Zaheer-ud-Din Babar Awan,5,Undirected,5,0,1,5,0,4,15,0,
+Ali Muhammad Khan,Rai Hasan Nawaz Khan,5,Undirected,5,0,1,0,5,2,14,0,
+Dr. Muhammad Farooq Sattar,Sufyan Yousuf,5,Undirected,5,0,1,0,5,1;3;4,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Rana Muhammad Qasim Noon,Saleh Muhammad,5,Undirected,5,0,1,0,5,1,15,0,
+Rana Muhammad Qasim Noon,Syed Amin ul Haque,5,Undirected,0,5,0,0,5,1,15,0,
+Aftab Jehangir,Aftab Jehangir,5,Undirected,5,0,1,0,5,1,15,0,
+Aftab Jehangir,Prince Muhammad Nawaz Allai,5,Undirected,5,0,1,0,5,1,15,0,
+Aftab Jehangir,Ms. Nafisa Shah,5,Undirected,0,5,0,0,5,1,15,0,
+Aftab Jehangir,Uzma Riaz,5,Undirected,5,0,1,0,5,1,15,0,
+Dr. Shireen Mehrunnisa Mazari,Shafqat Mehmood,5,Undirected,5,0,1,0,5,2,14,0,
+Ali Muhammad Khan,Imran Khan,5,Undirected,5,0,1,0,5,2,14,0,
+Ali Muhammad Khan,Asad Umar,5,Undirected,5,0,1,0,5,2,14,0,
+Ms. Nafisa Shah,Umar Ayub Khan,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Ali Muhammad Khan,Qaisar Jamal,5,Undirected,5,0,1,0,5,2,14,0,
+Ali Muhammad Khan,Amirullah,5,Undirected,5,0,1,0,5,2,14,0,
+Ali Muhammad Khan,Aqibullah,5,Undirected,5,0,1,0,5,2,14,0,
+Ali Muhammad Khan,Imran Khattak,5,Undirected,5,0,1,0,5,2,14,0,
+Ali Muhammad Khan,Sajida Begum,5,Undirected,5,0,1,0,5,2,14,0,
+Ali Muhammad Khan,Munaza Hassan,5,Undirected,5,0,1,0,5,2,14,0,
+Ali Muhammad Khan,Makhdoom Shah Mahmood Qureshi,5,Undirected,5,0,1,0,5,2,14,0,
+Ali Muhammad Khan,Shafqat Mehmood,5,Undirected,5,0,1,0,5,2,14,0,
+Ali Muhammad Khan,Junaid Akbar,5,Undirected,5,0,1,0,5,2,14,0,
+S. A. Iqbal Qadri,Seema Mohiuddin Jameeli,5,Undirected,0,5,0,0,5,5,14,0,
+Shaikh Salahuddin,Syed Qazim Ali Shah,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Qadir Khan Mandokhail,Syed Javed Hassnain,5,Undirected,0,5,0,0,5,5,15,0,
+Abdul Rashid Godil,Sanjay Perwani,5,Undirected,5,0,1,0,5,2,14,1,"Law, Justice and Human Rights"
+Abdul Rashid Godil,Muhammad Rehan Hashmi,5,Undirected,5,0,1,0,5,2,14,1,"Law, Justice and Human Rights"
+Abdul Rashid Godil,Abdul Waseem,5,Undirected,5,0,1,0,5,2,14,1,"Law, Justice and Human Rights"
+Dr. Khalid Maqbool Siddiqui,Parveen Masood Bhatti,5,Undirected,0,5,0,0,5,5,14,0,
+Dr. Khalid Maqbool Siddiqui,Tahira Aurangzeb,5,Undirected,0,5,0,0,5,5,14,0,
+Dr. Fouzia Hameed,Tahira Aurangzeb,5,Undirected,0,5,0,0,5,5,14,0,
+Dr. Fouzia Hameed,Dr. Hafeez Ur Rehman Khan,5,Undirected,0,5,0,0,5,5,14,0,
+Prince Muhammad Nawaz Allai,Usama Qadri,5,Undirected,0,5,0,0,5,1,15,0,
+Prince Muhammad Nawaz Allai,Shaista Pervaiz,5,Undirected,0,5,0,0,5,1,15,0,
+S. A. Iqbal Qadri,Shahnaz Saleem Malik,5,Undirected,0,5,0,0,5,5,14,0,
+Ms. Nafisa Shah,Nawab Muhammad Yousuf Talpur,5,Undirected,5,0,1,0,5,2,14,1,"Law, Justice and Human Rights"
+Dr. Shireen Mehrunnisa Mazari,Shehryar Afridi,5,Undirected,5,0,1,0,5,2,14,0,
+Dr. Arif Alvi,Imran Khan,5,Undirected,5,0,1,0,5,2,14,0,
+Asad Umar,Imran Khan,5,Undirected,5,0,1,0,5,2,14,0,
+Asad Umar,Imran Khattak,5,Undirected,5,0,1,0,5,2,14,0,
+Asad Umar,Nafeesa Inayatullah Khan Khattak,5,Undirected,5,0,1,0,5,1;3,14,2,Cabinet Secretariat;Interior and Narcotics Control
+Engineer Sabir Hussain,Saleh Muhammad,5,Undirected,0,5,0,0,5,1,15,0,
+Ms. Nafisa Shah,Syed Qazim Ali Shah,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Ms. Nafisa Shah,Muhammad Raza Hayat Hiraj,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Prince Muhammad Nawaz Allai,Rana Muhammad Qasim Noon,5,Undirected,5,0,1,0,5,1,15,0,
+Prince Muhammad Nawaz Allai,Saleh Muhammad,5,Undirected,5,0,1,0,5,1,15,0,
+Prince Muhammad Nawaz Allai,Syed Amin ul Haque,5,Undirected,0,5,0,0,5,1,15,0,
+Prince Muhammad Nawaz Allai,Tahira Aurangzeb,5,Undirected,0,5,0,0,5,1,15,0,
+Ms. Nafisa Shah,Saleh Muhammad,5,Undirected,0,5,0,0,5,1,15,0,
+Ms. Nafisa Shah,Syed Amin ul Haque,5,Undirected,0,5,0,0,5,1,15,0,
+Ms. Nafisa Shah,Sanjay Perwani,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Ms. Nafisa Shah,Shaikh Salahuddin,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Imran Khan,Qaisar Jamal,5,Undirected,5,0,1,0,5,2,14,0,
+Imran Khan,Imran Khattak,5,Undirected,5,0,1,0,5,2,14,0,
+S. A. Iqbal Qadri,Tahira Aurangzeb,5,Undirected,0,5,0,0,5,5,14,0,
+Dr. Khalid Maqbool Siddiqui,Sajid Ahmed,5,Undirected,5,0,1,0,5,1;4;5,14,1,Interior and Narcotics Control
+Dr. Khalid Maqbool Siddiqui,Syed Asif Hasnain,5,Undirected,5,0,1,0,5,1;3;4,14,1,Interior and Narcotics Control
+Dr. Khalid Maqbool Siddiqui,Sufyan Yousuf,5,Undirected,5,0,1,0,5,1;3;4,14,2,Cabinet Secretariat;Interior and Narcotics Control
+Dr. Khalid Maqbool Siddiqui,Shahnaz Saleem Malik,5,Undirected,0,5,0,0,5,5,14,0,
+Dr. Khalid Maqbool Siddiqui,Seema Mohiuddin Jameeli,5,Undirected,0,5,0,0,5,5,14,0,
+Choudhary Faqir Ahmad,Fauzia Behram,5,Undirected,0,5,0,0,5,4,15,1,Interior
+Aftab Jehangir,Usama Qadri,5,Undirected,0,5,0,0,5,1,15,0,
+Aftab Jehangir,Nafeesa Inayatullah Khan Khattak,5,Undirected,5,0,1,0,5,1,15,0,
+Aftab Jehangir,Ali Khan Jadoon,5,Undirected,5,0,1,0,5,1,15,0,
+Aftab Jehangir,Malik Muhammad Aamir Dogar,5,Undirected,5,0,0,0,5,1,15,0,
+Dr. Azra Fazal Pecheho,Umar Ayub Khan,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Prince Muhammad Nawaz Allai,Uzma Riaz,5,Undirected,5,0,1,0,5,1,15,0,
+Dr. Fouzia Hameed,Shahnaz Saleem Malik,5,Undirected,0,5,0,0,5,5,14,0,
+Aqibullah,Dr. Shireen Mehrunnisa Mazari,5,Undirected,5,0,1,0,5,2,14,0,
+Aqibullah,Dr. Arif Alvi,5,Undirected,5,0,1,0,5,2,14,0,
+Aqibullah,Rai Hasan Nawaz Khan,5,Undirected,5,0,1,0,5,2,14,0,
+Aqibullah,Imran Khan,5,Undirected,5,0,1,0,5,2,14,0,
+Aqibullah,Asad Umar,5,Undirected,5,0,1,0,5,2,14,0,
+Aqibullah,Qaisar Jamal,5,Undirected,5,0,1,0,5,2,14,0,
+Aqibullah,Imran Khattak,5,Undirected,5,0,1,0,5,2,14,0,
+Dr. Fouzia Hameed,Muhammad Ali Rashid,5,Undirected,5,0,1,0,5,5,14,0,
+Dr. Azra Fazal Pecheho,Sanjay Perwani,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Dr. Azra Fazal Pecheho,Dr. Ramesh Kumar Vankwani,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Dr. Azra Fazal Pecheho,Mehmood Khan Achakzai,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Dr. Azra Fazal Pecheho,Shaikh Salahuddin,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Dr. Azra Fazal Pecheho,Imran Zafar Leghari,5,Undirected,5,0,1,0,5,2,14,1,"Law, Justice and Human Rights"
+Dr. Azra Fazal Pecheho,Nawab Muhammad Yousuf Talpur,5,Undirected,5,0,1,0,5,2,14,1,"Law, Justice and Human Rights"
+Dr. Azra Fazal Pecheho,Syed Qazim Ali Shah,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Dr. Azra Fazal Pecheho,Ghous Bux Khan Mahar,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Dr. Azra Fazal Pecheho,Muhammad Raza Hayat Hiraj,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Muhammad Kamal Malik,Sajid Ahmed,5,Undirected,5,0,1,0,5,5,14,0,
+Dr. Muhammad Farooq Sattar,Muhammad Ali Rashid,5,Undirected,5,0,1,0,5,5,14,0,
+Choudhary Faqir Ahmad,Dr. Muhammad Afzal Khan Dhandla,5,Undirected,0,5,0,0,5,4,15,1,"National Health Services, Regulations and Coordination"
+Choudhary Faqir Ahmad,Syed Sajid Mehdi,5,Undirected,5,0,1,0,5,4,15,1,"National Health Services, Regulations and Coordination"
+Choudhary Faqir Ahmad,Mrs. Shahida Rehmani,5,Undirected,0,5,0,0,5,4,15,1,Interior
+Choudhary Faqir Ahmad,Dr. Seemin Abdul Rehman Bokhari,5,Undirected,0,5,0,0,5,4,15,1,Interior
+Choudhary Faqir Ahmad,Kiran Imran,5,Undirected,5,0,1,0,5,4,15,1,Interior
+Kishwer Zehra,Saleh Muhammad,5,Undirected,0,5,0,0,5,1,15,0,
+Kishwer Zehra,Shahnaz Saleem Malik,5,Undirected,0,5,0,0,5,5,14,0,
+Kishwer Zehra,Seema Mohiuddin Jameeli,5,Undirected,0,5,0,0,5,5,14,0,
+Kishwer Zehra,Prince Muhammad Nawaz Allai,5,Undirected,0,5,0,0,5,1,15,0,
+Choudhary Faqir Ahmad,Romina Khurshid Alam,5,Undirected,5,0,1,0,5,4,15,1,Interior
+Bhawan Das,Muhammad Ali Rashid,5,Undirected,0,5,0,0,5,5,14,0,
+Bhawan Das,Muhammad Muzammil Qureshi,5,Undirected,0,5,0,0,5,5,14,0,
+Bhawan Das,Dr. Muhammad Farooq Sattar,5,Undirected,0,5,0,0,5,5,14,0,
+Bhawan Das,Mehboob Alam,5,Undirected,0,5,0,0,5,5,14,0,
+Bhawan Das,Syed Waseem Hussain,5,Undirected,0,5,0,0,5,5,14,0,
+Engineer Sabir Hussain,Prince Muhammad Nawaz Allai,5,Undirected,0,5,0,0,5,1,15,0,
+Sheikh Aftab Ahmed,Tariq Fazal Chaudhry,5,Undirected,5,0,1,0,5,1,16,0,
+Sheikh Aftab Ahmed,Sheikh Aftab Ahmed,5,Undirected,5,0,1,4,1,1;5,14;16,0,
+Ameer Zaman,Shahida Akhtar Ali,5,Undirected,5,0,1,0,5,1;2;3,14,1,"Law, Justice and Human Rights"
+Dr. Fouzia Hameed,Sufyan Yousuf,5,Undirected,5,0,1,0,5,3;4,14,0,
+Dr. Azra Fazal Pecheho,Shazia Marri,5,Undirected,5,0,1,0,5,2,14,1,Parliamentary Affairs
+Bhawan Das,Dr. Fouzia Hameed,5,Undirected,0,5,0,0,5,5,14,0,
+Bhawan Das,Sajid Ahmed,5,Undirected,0,5,0,0,5,5,14,0,
+Mohsin Javed,Sardar Akhter Jan Mengal,5,Undirected,0,5,0,0,5,3,15,0,
+Choudhary Faqir Ahmad,Rao Muhammad Ajmal Khan,5,Undirected,5,0,1,0,5,4,15,1,Interior
+Dr. Nikhat Shakeel Khan,Shahnaz Saleem Malik,5,Undirected,0,5,0,0,5,5,14,0,
+Dr. Nikhat Shakeel Khan,Parveen Masood Bhatti,5,Undirected,0,5,0,0,5,5,14,0,
+Dr. Nikhat Shakeel Khan,Tahira Aurangzeb,5,Undirected,0,5,0,0,5,5,14,0,
+Abdul Rashid Godil,Mohammad Salman Khan Baloch,5,Undirected,5,0,1,0,5,2,14,1,"Law, Justice and Human Rights"
+Abdul Rashid Godil,Syed Waseem Hussain,5,Undirected,5,0,1,0,5,2,14,1,"Law, Justice and Human Rights"
+Muhammad Rehan Hashmi,Sanjay Perwani,5,Undirected,5,0,1,0,5,2,14,1,"Law, Justice and Human Rights"
+Muhammad Rehan Hashmi,Saman Sultana Jafri,5,Undirected,5,0,1,0,5,2,14,1,"Law, Justice and Human Rights"
+Shaikh Salahuddin,Tahira Aurangzeb,5,Undirected,0,5,0,0,5,5,14,0,
+Amjid Ali Khan,Sadaqat Ali Khan,5,Undirected,5,0,1,0,5,2,15,0,
+Choudhary Faqir Ahmad,Tahira Aurangzeb,5,Undirected,5,0,1,0,5,4,15,1,Interior
+Dr. Fouzia Hameed,Seema Mohiuddin Jameeli,5,Undirected,0,5,0,0,5,5,14,0,
+Dr. Fouzia Hameed,Parveen Masood Bhatti,5,Undirected,0,5,0,0,5,5,14,0,
+Abdul Waseem,Dr. Azra Fazal Pecheho,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Abdul Waseem,Ghous Bux Khan Mahar,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Abdul Waseem,Muhammad Raza Hayat Hiraj,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Shaikh Salahuddin,Umar Ayub Khan,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Abdul Waseem,Bhawan Das,5,Undirected,0,5,0,0,5,5,14,0,
+Abdul Waseem,Muhammad Ali Rashid,5,Undirected,5,0,1,0,5,5,14,0,
+Nafeesa Inayatullah Khan Khattak,Sadaqat Ali Khan,5,Undirected,5,0,1,0,5,2,15,0,
+Nafeesa Inayatullah Khan Khattak,Prince Muhammad Nawaz Allai,5,Undirected,5,0,1,0,5,1,15,0,
+Aslam Bodla,Shaikh Salahuddin,5,Undirected,0,5,0,0,5,5,14,0,
+Aslam Bodla,S. A. Iqbal Qadri,5,Undirected,0,5,0,0,5,5,14,0,
+Aslam Bodla,Dr. Khalid Maqbool Siddiqui,5,Undirected,0,5,0,0,5,5,14,0,
+Aslam Bodla,Dr. Hafeez Ur Rehman Khan,5,Undirected,5,0,1,0,5,5,14,0,
+Syed Amin ul Haque,Uzma Riaz,5,Undirected,0,5,0,0,5,1,15,0,
+Syed Amin ul Haque,Tahira Aurangzeb,5,Undirected,0,5,0,0,5,1,15,0,
+Bhawan Das,Muhammad Kamal Malik,5,Undirected,0,5,0,0,5,5,14,0,
+Bhawan Das,Dr. Nikhat Shakeel Khan,5,Undirected,0,5,0,0,5,5,14,0,
+Aslam Bodla,Tahira Aurangzeb,5,Undirected,5,0,1,0,5,5,14,0,
+Nafeesa Inayatullah Khan Khattak,Saleh Muhammad,5,Undirected,5,0,1,0,5,1,15,0,
+Nafeesa Inayatullah Khan Khattak,Syed Amin ul Haque,5,Undirected,0,5,0,0,5,1,15,0,
+Dr. Nikhat Shakeel Khan,Muhammad Ali Rashid,5,Undirected,5,0,1,0,5,5,14,0,
+Imran Khattak,Rai Hasan Nawaz Khan,5,Undirected,5,0,1,0,5,2,14,0,
+Imran Khattak,Qaisar Jamal,5,Undirected,5,0,1,0,5,2,14,0,
+Amirullah,Imran Khan,5,Undirected,5,0,1,0,5,2,14,0,
+Amirullah,Aqibullah,5,Undirected,5,0,1,0,5,2,14,0,
+Dr. Ramesh Kumar Vankwani,Sanjay Perwani,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Abdul Waseem,Abdul Waseem,5,Undirected,5,0,1,0,5,2;5,14,0,
+Abdul Waseem,Dr. Ramesh Kumar Vankwani,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Abdul Waseem,Ms. Nafisa Shah,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Abdul Waseem,Mehmood Khan Achakzai,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Abdul Waseem,Imran Zafar Leghari,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Abdul Waseem,Nawab Muhammad Yousuf Talpur,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Abdul Waseem,Syed Qazim Ali Shah,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Dr. Ramesh Kumar Vankwani,Syed Qazim Ali Shah,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Dr. Ramesh Kumar Vankwani,Ghous Bux Khan Mahar,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Dr. Ramesh Kumar Vankwani,Muhammad Raza Hayat Hiraj,5,Undirected,5,0,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Dr. Ramesh Kumar Vankwani,Umar Ayub Khan,5,Undirected,5,0,1,0,5,2,14,1,"Law, Justice and Human Rights"
+Amirullah,Imran Khattak,5,Undirected,5,0,1,0,5,2,14,0,
+Sajida Begum,Shafqat Mehmood,5,Undirected,5,0,1,0,5,2,14,0,
+Dr. Hafeez Ur Rehman Khan,Shaikh Salahuddin,5,Undirected,0,5,0,0,5,5,14,0,
+Dr. Hafeez Ur Rehman Khan,S. A. Iqbal Qadri,5,Undirected,0,5,0,0,5,5,14,0,
+Dr. Hafeez Ur Rehman Khan,Dr. Khalid Maqbool Siddiqui,5,Undirected,0,5,0,0,5,5,14,0,
+Naveed Aamir,Qadir Khan Mandokhail,5,Undirected,5,0,1,0,5,5,15,0,
+Aslam Bodla,Dr. Nikhat Shakeel Khan,5,Undirected,0,5,0,0,5,5,14,0,
+Aslam Bodla,Dr. Fouzia Hameed,5,Undirected,0,5,0,0,5,5,14,0,
+Aslam Bodla,Kishwer Zehra,5,Undirected,0,5,0,0,5,5,14,0,
+Aslam Bodla,Shahnaz Saleem Malik,5,Undirected,5,0,1,0,5,5,14,0,
+Aslam Bodla,Seema Mohiuddin Jameeli,5,Undirected,5,0,1,0,5,5,14,0,
+Aslam Bodla,Parveen Masood Bhatti,5,Undirected,5,0,1,0,5,5,14,0,
+Dr. Hafeez Ur Rehman Khan,Parveen Masood Bhatti,5,Undirected,5,0,1,0,5,5,14,0,
+Dr. Hafeez Ur Rehman Khan,Tahira Aurangzeb,5,Undirected,5,0,1,0,5,5,14,0,
+Saleh Muhammad,Usama Qadri,5,Undirected,0,5,0,0,5,1,15,0,
+Saleh Muhammad,Shaista Pervaiz,5,Undirected,0,5,0,0,5,1,15,0,
+Saleh Muhammad,Syed Amin ul Haque,5,Undirected,0,5,0,0,5,1,15,0,
+Saleh Muhammad,Tahira Aurangzeb,5,Undirected,0,5,0,0,5,1,15,0,
+Parveen Masood Bhatti,S. A. Iqbal Qadri,5,Undirected,0,5,0,0,5,5,14,0,
+Sajida Begum,Shehryar Afridi,5,Undirected,5,0,1,0,5,2,14,0,
+Abdul Waseem,Umar Ayub Khan,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Munaza Hassan,Sajida Begum,5,Undirected,5,0,1,0,5,2,14,0,
+Munaza Hassan,Shafqat Mehmood,5,Undirected,5,0,1,0,5,2,14,0,
+Dr. Ramesh Kumar Vankwani,Ms. Nafisa Shah,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Dr. Ramesh Kumar Vankwani,Mehmood Khan Achakzai,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Dr. Ramesh Kumar Vankwani,Shaikh Salahuddin,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Dr. Ramesh Kumar Vankwani,Imran Zafar Leghari,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Dr. Ramesh Kumar Vankwani,Nawab Muhammad Yousuf Talpur,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Aaisha Gulalai,Ali Muhammad Khan,5,Undirected,5,0,1,0,5,2,14,0,
+Muhammad Ali Rashid,Syed Ali Raza Abidi,5,Undirected,5,0,1,0,5,5,14,0,
+Makhdoom Shah Mahmood Qureshi,Shafqat Mehmood,5,Undirected,5,0,1,0,5,2,14,0,
+Makhdoom Shah Mahmood Qureshi,Shehryar Afridi,5,Undirected,5,0,1,0,5,2,14,0,
+Shafqat Mehmood,Shehryar Afridi,5,Undirected,5,0,1,0,5,2,14,0,
+Junaid Akbar,Sajida Begum,5,Undirected,5,0,1,0,5,2,14,0,
+Muhammad Ali Rashid,Shaikh Salahuddin,5,Undirected,5,0,1,0,5,5,14,0,
+Muhammad Ali Rashid,S. A. Iqbal Qadri,5,Undirected,5,0,1,0,5,5,14,0,
+Junaid Akbar,Shafqat Mehmood,5,Undirected,5,0,1,0,5,2,14,0,
+Junaid Akbar,Shehryar Afridi,5,Undirected,5,0,1,0,5,2,14,0,
+Muhammad Mian Soomro,Muhammad Mian Soomro,5,Undirected,5,0,1,5,0,2;3,15,0,
+Muhammad Ali Rashid,Sajid Ahmed,5,Undirected,5,0,1,0,5,5,14,0,
+Munaza Hassan,Shehryar Afridi,5,Undirected,5,0,1,0,5,2,14,0,
+Dr. Shireen Mehrunnisa Mazari,Imran Khan,5,Undirected,5,0,1,0,5,2,14,0,
+Seema Mohiuddin Jameeli,Shahnaz Saleem Malik,5,Undirected,5,0,1,0,5,5,14,0,
+Seema Mohiuddin Jameeli,Tahira Aurangzeb,5,Undirected,5,0,1,0,5,5,14,0,
+Imran Zafar Leghari,Shaikh Salahuddin,5,Undirected,0,5,0,0,5,2,14,1,"Law, Justice and Human Rights"
+Mohammad Ayaz Soomro,Mohammad Ayaz Soomro,5,Undirected,5,0,1,0,5,2;3;4,14,0,
+Khalid Hussain Magsi,Prince Muhammad Nawaz Allai,5,Undirected,0,5,0,0,5,1,15,0,
+Iqbal Muhammad Ali Khan,James Iqbal,5,Undirected,0,5,0,0,5,4,15,0,
+Iqbal Muhammad Ali Khan,Jai Parkash,5,Undirected,0,5,0,0,5,4,15,0,
+Iqbal Muhammad Ali Khan,Prince Muhammad Nawaz Allai,5,Undirected,0,5,0,0,5,1,15,0,
+Mehboob Alam,Muhammad Ali Rashid,5,Undirected,5,0,1,0,5,5,14,0,
+Ali Khan Jadoon,Syed Amin ul Haque,5,Undirected,0,5,0,0,5,1,15,0,
+Malik Muhammad Aamir Dogar,Prince Muhammad Nawaz Allai,5,Undirected,5,0,0,0,5,1,15,0,
+Iqbal Muhammad Ali Khan,Saleh Muhammad,5,Undirected,0,5,0,0,5,1,15,0,
+Aftab Jehangir,Saleh Muhammad,5,Undirected,5,0,1,0,5,1,15,0,
+Aftab Jehangir,Khalid Hussain Magsi,5,Undirected,0,5,0,0,5,1,15,0,
+Aftab Jehangir,Tahira Aurangzeb,5,Undirected,0,5,0,0,5,1,15,0,
+Aaisha Gulalai,Shafqat Mehmood,5,Undirected,5,0,1,0,5,2,14,0,
+Aaisha Gulalai,Junaid Akbar,5,Undirected,5,0,1,0,5,2,14,0,
+Aaisha Gulalai,Shehryar Afridi,5,Undirected,5,0,1,0,5,2,14,0,
+Noor Alam Khan,Sadaqat Ali Khan,4,Undirected,4,0,1,0,4,2,15,0,
+Kiran Haider,Muhammad Safdar,4,Undirected,4,0,1,0,4,1;4,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Rana Mubashir lqbal,Shaza Fatima Khawaja,4,Undirected,4,0,1,0,4,2,15,0,
+Rana Mubashir lqbal,Sardar Muhammad Irfan Dogar,4,Undirected,4,0,1,0,4,2,15,0,
+Rana Mubashir lqbal,Syed Iftikhar Ul Hassan,4,Undirected,4,0,1,0,4,2,15,0,
+Munaza Hassan,Munaza Hassan,4,Undirected,4,0,1,0,4,2,14;15,0,
+Dr. Nikhat Shakeel Khan,Syed Ayaz Ali Shah Sheerazi,4,Undirected,0,4,0,0,4,5,14,0,
+Dr. Nikhat Shakeel Khan,Kanwar Naveed Jamil,4,Undirected,4,0,1,0,4,3;4;5,14,0,
+Abdul Waseem,Syed Ayaz Ali Shah Sheerazi,4,Undirected,0,4,0,0,4,5,14,0,
+Abdul Waseem,Kanwar Naveed Jamil,4,Undirected,4,0,1,0,4,3;4;5,14,0,
+Begum Tahira Bukhari,Muhammad Safdar,4,Undirected,4,0,1,0,4,1;4,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Murtaza Javed Abbasi,Rana Tanveer Hussain,4,Undirected,4,0,1,0,4,1,15,0,
+Kesoo Mal Kheeal Das,Ramesh Lal,4,Undirected,0,4,0,0,4,1,15,0,
+Kesoo Mal Kheeal Das,Mahesh Kumar Malani,4,Undirected,0,4,0,0,4,1,15,0,
+Mahesh Kumar Malani,Ramesh Lal,4,Undirected,4,0,1,0,4,1,15,0,
+Muhammad Sajjad,Murtaza Javed Abbasi,4,Undirected,4,0,1,0,4,1,15,0,
+Muhammad Sajjad,Rana Tanveer Hussain,4,Undirected,4,0,1,0,4,1,15,0,
+Muhammad Rehan Hashmi,Sufyan Yousuf,4,Undirected,4,0,1,0,4,1,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Shaikh Salahuddin,Syed Ayaz Ali Shah Sheerazi,4,Undirected,0,4,0,0,4,5,14,0,
+Nafeesa Inayatullah Khan Khattak,Noor Alam Khan,4,Undirected,4,0,1,0,4,2,15,0,
+Afreen Khan,Muhammad Sajjad,4,Undirected,0,4,0,0,4,1,15,0,
+Afreen Khan,Ahsan Iqbal,4,Undirected,0,4,0,0,4,1,15,0,
+Afreen Khan,Marriyum Aurangzeb,4,Undirected,0,4,0,0,4,1,15,0,
+Afreen Khan,Murtaza Javed Abbasi,4,Undirected,0,4,0,0,4,1,15,0,
+Afreen Khan,Rana Tanveer Hussain,4,Undirected,0,4,0,0,4,1,15,0,
+Amjid Ali Khan,Noor Alam Khan,4,Undirected,4,0,1,0,4,2,15,0,
+Amjid Ali Khan,Haider Ali,4,Undirected,4,0,1,0,4,2,15,0,
+Ahsan Iqbal,Muhammad Sajjad,4,Undirected,4,0,1,0,4,1,15,0,
+Ahsan Iqbal,Marriyum Aurangzeb,4,Undirected,4,0,1,0,4,1,15,0,
+Ahsan Iqbal,Murtaza Javed Abbasi,4,Undirected,4,0,1,0,4,1,15,0,
+Dr. Seemin Abdul Rehman Bokhari,Nooreen Farooq Khan,4,Undirected,4,0,1,0,4,2;4,15,0,
+Begum Tahira Bukhari,Kiran Haider,4,Undirected,4,0,1,0,4,1;4,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Agha Muhammad,Naeema Kishwar Khan,4,Undirected,4,0,1,0,4,1;2;5,14,1,"Law, Justice and Human Rights"
+Ahsan Iqbal,Rana Tanveer Hussain,4,Undirected,4,0,1,0,4,1,15,0,
+Kanwar Naveed Jamil,Saman Sultana Jafri,4,Undirected,4,0,1,0,4,3;4;5,14,0,
+Kanwar Naveed Jamil,Kishwer Zehra,4,Undirected,4,0,1,0,4,3;4;5,14,0,
+Kanwar Naveed Jamil,Shaikh Salahuddin,4,Undirected,4,0,1,0,4,3;4;5,14,0,
+Kanwar Naveed Jamil,S. A. Iqbal Qadri,4,Undirected,4,0,1,0,4,3;4;5,14,0,
+Dr. Fouzia Hameed,Syed Ayaz Ali Shah Sheerazi,4,Undirected,0,4,0,0,4,5,14,0,
+Dr. Fouzia Hameed,Kanwar Naveed Jamil,4,Undirected,4,0,1,0,4,3;4;5,14,0,
+Dr. Fouzia Hameed,Syed Asif Hasnain,4,Undirected,4,0,1,0,4,3;4,14,0,
+Khawaja Sohail Mansoor,S. A. Iqbal Qadri,4,Undirected,4,0,1,0,4,1;3;5,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Muhammad Muzammil Qureshi,Syed Ayaz Ali Shah Sheerazi,4,Undirected,0,4,0,0,4,5,14,0,
+Shahida Akhtar Ali,Shahida Akhtar Ali,4,Undirected,4,0,1,0,4,1,15,0,
+Dr. Darshan,Kesoo Mal Kheeal Das,4,Undirected,4,0,1,0,4,1,15,0,
+Dr. Darshan,Mahesh Kumar Malani,4,Undirected,0,4,0,0,4,1,15,0,
+S. A. Iqbal Qadri,Syed Ayaz Ali Shah Sheerazi,4,Undirected,0,4,0,0,4,5,14,0,
+Muhammad Sana Ullah Khan Masti Khel,Muhammad Sana Ullah Khan Masti Khel,4,Undirected,4,0,1,0,4,2;3,15,0,
+Syed Ali Raza Abidi,Syed Ayaz Ali Shah Sheerazi,4,Undirected,0,4,0,0,4,5,14,0,
+Syed Ali Raza Abidi,Syed Ali Raza Abidi,4,Undirected,4,0,1,0,4,5,14,0,
+Rana Iradat Sharif Khan,Rana Iradat Sharif Khan,4,Undirected,4,0,1,0,4,1;4,15,0,
+Sardar Muhammad Irfan Dogar,Shaza Fatima Khawaja,4,Undirected,4,0,1,0,4,2,15,0,
+Sardar Muhammad Irfan Dogar,Syed Iftikhar Ul Hassan,4,Undirected,4,0,1,0,4,2,15,0,
+Naeema Kishwar Khan,Naeema Kishwar Khan,4,Undirected,4,0,1,0,4,2;4;5,14,0,
+Sajid Ahmed,Syed Ayaz Ali Shah Sheerazi,4,Undirected,0,4,0,0,4,5,14,0,
+Mehboob Alam,Syed Ayaz Ali Shah Sheerazi,4,Undirected,0,4,0,0,4,5,14,0,
+Rana Muhammad Qasim Noon,Rana Muhammad Qasim Noon,4,Undirected,4,0,1,0,4,1,15;16,0,
+Asad Umar,Munaza Hassan,4,Undirected,4,0,1,0,4,3,14,1,Cabinet Secretariat
+Muhammad Kamal Malik,Syed Ayaz Ali Shah Sheerazi,4,Undirected,0,4,0,0,4,5,14,0,
+Haider Ali,Nafeesa Inayatullah Khan Khattak,4,Undirected,4,0,1,0,4,2,15,0,
+Haider Ali,Noor Alam Khan,4,Undirected,4,0,1,0,4,2,15,0,
+Haider Ali,Sadaqat Ali Khan,4,Undirected,4,0,1,0,4,2,15,0,
+Haider Ali,Imran Khattak,4,Undirected,4,0,1,0,4,2;3,15,0,
+Dr. Muhammad Farooq Sattar,Syed Ayaz Ali Shah Sheerazi,4,Undirected,0,4,0,0,4,5,14,0,
+Mohsin Shah Nawaz Ranjha,Sardar Muhammad Irfan Dogar,4,Undirected,4,0,1,0,4,2,15,0,
+Mohsin Shah Nawaz Ranjha,Rana Mubashir lqbal,4,Undirected,4,0,1,0,4,2,15,0,
+Bhawan Das,Syed Ayaz Ali Shah Sheerazi,4,Undirected,4,0,1,0,4,5,14,0,
+Ch. Nisar Ali Khan,Ch. Nisar Ali Khan,4,Undirected,4,0,1,4,0,1;2;3,14,0,
+Zubaida Jalal,Zubaida Jalal,4,Undirected,4,0,1,3,1,3;5,15,0,
+Mohsin Shah Nawaz Ranjha,Syed Iftikhar Ul Hassan,4,Undirected,4,0,1,0,4,2,15,0,
+Khawaja Saad Rafique,Khawaja Saad Rafique,4,Undirected,4,0,1,0,4,3,15,0,
+Marriyum Aurangzeb,Muhammad Sajjad,4,Undirected,4,0,1,0,4,1,15,0,
+Marriyum Aurangzeb,Murtaza Javed Abbasi,4,Undirected,4,0,1,0,4,1,15,0,
+Marriyum Aurangzeb,Rana Tanveer Hussain,4,Undirected,4,0,1,0,4,1,15,0,
+Shaza Fatima Khawaja,Syed Iftikhar Ul Hassan,4,Undirected,4,0,1,0,4,2,15,0,
+Asma Hadeed,James Iqbal,4,Undirected,0,4,0,0,4,4,15,0,
+Muhammad Aslam Khan,Muhammad Aslam Khan,4,Undirected,4,0,1,0,4,4,15,0,
+Syed Ayaz Ali Shah Sheerazi,Syed Waseem Hussain,4,Undirected,0,4,0,0,4,5,14,0,
+Muhammad Ali Rashid,Syed Ayaz Ali Shah Sheerazi,4,Undirected,0,4,0,0,4,5,14,0,
+Dr. Ramesh Kumar Vankwani,Naeema Kishwar Khan,3,Undirected,0,3,0,0,3,1;4,14,1,"Law, Justice and Human Rights"
+Iqbal Muhammad Ali Khan,Kanwar Naveed Jamil,3,Undirected,3,0,1,0,3,3;4;5,14,0,
+Naveed Amir,Ramesh Lal,3,Undirected,3,0,1,0,3,1,16,0,
+Muhammad Gohar Shah,Qari Muhammad Yousaf,3,Undirected,3,0,1,0,3,1;3;5,14,1,"Law, Justice and Human Rights"
+Ameer Zaman,Mrs. Aliya Kamran,3,Undirected,3,0,0,0,3,1;3,14,1,"Law, Justice and Human Rights"
+Dr. Ramesh Kumar Vankwani,Shahida Akhtar Ali,3,Undirected,0,3,0,0,3,1;4,14,1,"Law, Justice and Human Rights"
+Ghulam Sarwar Khan,Ghulam Sarwar Khan,3,Undirected,3,0,1,3,0,3,15,0,
+Munaza Hassan,Nafeesa Inayatullah Khan Khattak,3,Undirected,3,0,1,0,3,1;3,14,2,Cabinet Secretariat;Parliamentary Affairs
+Dr. Nikhat Shakeel Khan,Dr. Ramesh Kumar Vankwani,3,Undirected,0,3,0,0,3,4,14,0,
+Dr. Ramesh Kumar Vankwani,Phyllis Azeem,3,Undirected,3,0,0,0,3,1;4,14,1,"Law, Justice and Human Rights"
+Ch. Muhammad Ashraf,Ch. Muhammad Ashraf,3,Undirected,3,0,1,0,3,5,15,0,
+Jamshaid Ahmad Dasti,Shaza Fatima Khawaja,3,Undirected,0,3,0,0,3,3,14,0,
+Dr. Khalid Maqbool Siddiqui,Kanwar Naveed Jamil,3,Undirected,3,0,1,0,3,3;4;5,14,0,
+Dr. Khalid Maqbool Siddiqui,Dr. Khalid Maqbool Siddiqui,3,Undirected,3,0,1,1,2,1;5,14;16,0,
+Mrs. Aliya Kamran,Muhammad Gohar Shah,3,Undirected,3,0,0,0,3,1;3,14,1,"Law, Justice and Human Rights"
+Muhammad Gohar Shah,Muhammad Jamal Ud Din,3,Undirected,3,0,0,0,3,3;5,14,1,"Law, Justice and Human Rights"
+Muhammad Gohar Shah,Naeema Kishwar Khan,3,Undirected,3,0,1,0,3,1;3;5,14,1,"Law, Justice and Human Rights"
+Syed Waseem Hussain,Syed Waseem Hussain,3,Undirected,3,0,1,0,3,2;5,14,0,
+Muhammad Gohar Shah,Shahida Akhtar Ali,3,Undirected,3,0,1,0,3,1;3,14,1,"Law, Justice and Human Rights"
+Phyllis Azeem,Shahida Akhtar Ali,3,Undirected,0,3,0,0,3,1;4,14,1,"Law, Justice and Human Rights"
+Mrs. Shahida Rehmani,Nooreen Farooq Khan,3,Undirected,0,3,0,0,3,4,15,0,
+Danyal Chaudhry,Danyal Chaudhry,3,Undirected,3,0,1,0,3,1,16,0,
+Maj. Retd. Tahir Iqbal,Maj. Retd. Tahir Iqbal,3,Undirected,3,0,1,0,3,4,14,0,
+Romina Khurshid Alam,Shaza Fatima Khawaja,3,Undirected,3,0,1,0,3,4,15,0,
+Junaid Akbar,Junaid Akbar,3,Undirected,3,0,1,0,3,2,14;15,0,
+Dr. Muhammad Farooq Sattar,Kanwar Naveed Jamil,3,Undirected,3,0,1,0,3,3;4;5,14,0,
+Dr. Nikhat Shakeel Khan,Khawaja Sohail Mansoor,3,Undirected,3,0,1,0,3,1;3;5,14,1,"Law, Justice and Human Rights"
+Aasiya Nasir,Agha Muhammad,3,Undirected,3,0,1,0,3,1;2,14,1,"Law, Justice and Human Rights"
+Agha Muhammad,Muhammad Gohar Shah,3,Undirected,3,0,1,0,3,1;3;5,14,1,"Law, Justice and Human Rights"
+Agha Muhammad,Ameer Zaman,3,Undirected,3,0,1,0,3,1;2,14,1,"Law, Justice and Human Rights"
+Syed Ali Raza Abidi,Syed Asif Hasnain,3,Undirected,3,0,1,0,3,1;3,14,1,"Law, Justice and Human Rights"
+Imran Khattak,Noor Alam Khan,3,Undirected,3,0,1,0,3,2,15,0,
+Khurram Dastgir Khan,Romina Khurshid Alam,3,Undirected,3,0,1,0,3,4,15,0,
+Imran Khattak,Sadaqat Ali Khan,3,Undirected,3,0,1,0,3,2,15,0,
+Mujahid Ali,Usman Khan Tarrakai,3,Undirected,3,0,1,0,3,2;3,15,0,
+Engineer Sabir Hussain,Salah Ud Din Ayubi,3,Undirected,0,3,0,0,3,1;3,15,0,
+Mehboob Alam,Sufyan Yousuf,3,Undirected,3,0,1,0,3,1;3;4,14,1,"Law, Justice and Human Rights"
+Kishwer Zehra,Salah Ud Din Ayubi,3,Undirected,0,3,0,0,3,1;3,15,0,
+Mehboob Alam,Mehboob Alam,3,Undirected,3,0,1,0,3,2;5,14,0,
+Azam Nazeer Tarar,Azam Nazeer Tarar,3,Undirected,3,0,1,3,0,1,16,0,
+Mohammad Khan Sherani,Naeema Kishwar Khan,3,Undirected,3,0,1,0,3,1;2,14,1,"Law, Justice and Human Rights"
+Naeema Kishwar Khan,Phyllis Azeem,3,Undirected,0,3,0,0,3,1;4,14,1,"Law, Justice and Human Rights"
+Ali Muhammad Khan,Muhammad Farogh Nasim,3,Undirected,0,3,0,3,0,2;3,15,0,
+Naeema Kishwar Khan,Qari Muhammad Yousaf,3,Undirected,3,0,1,0,3,1;3;5,14,1,"Law, Justice and Human Rights"
+Dr. Azra Fazal Pecheho,Dr. Azra Fazal Pecheho,3,Undirected,3,0,1,0,3,2;4,14,0,
+Dr. Azra Fazal Pecheho,Syed Naveed Qammar,3,Undirected,3,0,1,0,3,2,14,0,
+Ms. Nafisa Shah,Syed Naveed Qammar,3,Undirected,3,0,1,0,3,2,14,0,
+Amjid Ali Khan,Imran Khattak,3,Undirected,3,0,1,0,3,2,15,0,
+Salah Ud Din Ayubi,Sher Akbar Khan,3,Undirected,0,3,0,0,3,1;2;3,15,0,
+Faheem Khan,Faheem Khan,3,Undirected,3,0,1,0,3,1;4,15,0,
+Salah Ud Din Ayubi,Zahid Akram Durani,3,Undirected,3,0,1,0,3,1;2;3,15,0,
+Salah Ud Din Ayubi,Syed Mehmood Shah,3,Undirected,3,0,1,0,3,1;2;3,15,0,
+Shunila Ruth,Shunila Ruth,3,Undirected,3,0,1,0,3,1,15,0,
+Kesoo Mal Kheeal Das,Samina Matloob,3,Undirected,3,0,1,0,3,5,15,0,
+Kesoo Mal Kheeal Das,Syed Imran Ahmad Shah,3,Undirected,3,0,1,0,3,5,15,0,
+Moulana Abdul Akbar Chitrali,Zahid Akram Durani,3,Undirected,3,0,1,0,3,1;2;3,15,0,
+Moulana Abdul Akbar Chitrali,Syed Mehmood Shah,3,Undirected,3,0,1,0,3,1;2;3,15,0,
+Moulana Abdul Akbar Chitrali,Sher Akbar Khan,3,Undirected,0,3,0,0,3,1;2;3,15,0,
+Moulana Abdul Akbar Chitrali,Usman Khan Tarrakai,3,Undirected,0,3,0,0,3,2;3,15,0,
+Moulana Abdul Akbar Chitrali,Mujahid Ali,3,Undirected,0,3,0,0,3,2;3,15,0,
+Ali Gohar Khan,Syed Javed Hassnain,3,Undirected,3,0,1,0,3,3,15,0,
+James Iqbal,Nooreen Farooq Khan,3,Undirected,0,3,0,0,3,4,15,0,
+Mohammad Salman Khan Baloch,Mohammad Salman Khan Baloch,3,Undirected,3,0,1,0,3,2;4;5,14,0,
+Khawaja Sohail Mansoor,Mehboob Alam,3,Undirected,3,0,1,0,3,1;3;5,14,1,"Law, Justice and Human Rights"
+Khawaja Sohail Mansoor,Mohammad Salman Khan Baloch,3,Undirected,3,0,1,0,3,1;5,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Abdul Rashid Godil,Dr. Khalid Maqbool Siddiqui,3,Undirected,3,0,1,0,3,1,14,2,Cabinet Secretariat;Interior and Narcotics Control
+Nuzhat Pathan,Nuzhat Pathan,3,Undirected,3,0,1,0,3,2,15,0,
+Khawaja Sohail Mansoor,Syed Ali Raza Abidi,3,Undirected,3,0,1,0,3,1;3;5,14,1,"Law, Justice and Human Rights"
+Abdul Shakoor,Maulvi Asmatullah,3,Undirected,3,0,1,0,3,1;2;3,15,0,
+Abdul Shakoor,Sher Akbar Khan,3,Undirected,0,3,0,0,3,1;2;3,15,0,
+Abdul Shakoor,Moulana Abdul Akbar Chitrali,3,Undirected,3,0,1,0,3,1;2;3,15,0,
+Maulvi Asmatullah,Zahid Akram Durani,3,Undirected,3,0,1,0,3,1;2;3,15,0,
+Maulvi Asmatullah,Syed Mehmood Shah,3,Undirected,3,0,1,0,3,1;2;3,15,0,
+Maulvi Asmatullah,Salah Ud Din Ayubi,3,Undirected,3,0,1,0,3,1;2;3,15,0,
+Maulvi Asmatullah,Sher Akbar Khan,3,Undirected,0,3,0,0,3,1;2;3,15,0,
+Maulvi Asmatullah,Moulana Abdul Akbar Chitrali,3,Undirected,3,0,1,0,3,1;2;3,15,0,
+Sher Akbar Khan,Zahid Akram Durani,3,Undirected,0,3,0,0,3,1;2;3,15,0,
+Sher Akbar Khan,Syed Mehmood Shah,3,Undirected,0,3,0,0,3,1;2;3,15,0,
+Abdul Shakoor,Zahid Akram Durani,3,Undirected,3,0,1,0,3,1;2;3,15,0,
+Abdul Shakoor,Syed Mehmood Shah,3,Undirected,3,0,1,0,3,1;2;3,15,0,
+Abdul Shakoor,Salah Ud Din Ayubi,3,Undirected,3,0,1,0,3,1;2;3,15,0,
+Nooreen Farooq Khan,Romina Khurshid Alam,3,Undirected,0,3,0,0,3,4,15,0,
+Nooreen Farooq Khan,Rao Muhammad Ajmal Khan,3,Undirected,0,3,0,0,3,4,15,0,
+Nooreen Farooq Khan,Tahira Aurangzeb,3,Undirected,0,3,0,0,3,4,15,0,
+Nooreen Farooq Khan,Nooreen Farooq Khan,3,Undirected,3,0,1,0,3,3;4,15,0,
+Syed Mehmood Shah,Zahid Akram Durani,3,Undirected,3,0,1,0,3,1;2;3,15,0,
+Kiran Haider,Seema Mohiuddin Jameeli,3,Undirected,3,0,1,0,3,1;4,14,1,Interior and Narcotics Control
+Mehnaz Akber Aziz,Nooreen Farooq Khan,3,Undirected,0,3,0,0,3,2;4,15,0,
+Asma Hadeed,Zille Huma,3,Undirected,3,0,1,0,3,2,15,0,
+Kiran Imran,Nooreen Farooq Khan,3,Undirected,0,3,0,0,3,4,15,0,
+Fauzia Behram,Nooreen Farooq Khan,3,Undirected,3,0,1,0,3,4,15,0,
+Begum Tahira Bukhari,Farhana Qamar,3,Undirected,3,0,1,0,3,1;4,14,1,Interior and Narcotics Control
+Begum Tahira Bukhari,Seema Mohiuddin Jameeli,3,Undirected,3,0,1,0,3,1;4,14,1,Interior and Narcotics Control
+Sohail Sultan,Sohail Sultan,3,Undirected,3,0,1,0,3,1,16,0,
+Zahra Wadood Fatemi,Zahra Wadood Fatemi,3,Undirected,3,0,1,0,3,4;5,14;15,0,
+Farhana Qamar,Seema Mohiuddin Jameeli,3,Undirected,3,0,1,0,3,1;4,14,1,Interior and Narcotics Control
+Kanwar Naveed Jamil,Mehboob Alam,3,Undirected,3,0,1,0,3,3;4;5,14,0,
+Farhana Qamar,Kiran Haider,3,Undirected,3,0,1,0,3,1;4,14,1,Interior and Narcotics Control
+Ali Nawaz Awan,Riaz Fatyana,3,Undirected,3,0,1,0,3,2;3,15,0,
+Syed Mohsin Raza Naqvi,Syed Mohsin Raza Naqvi,3,Undirected,3,0,1,3,0,1,16,0,
+Ch. Mahmood Bashir Virk,Ch. Mahmood Bashir Virk,3,Undirected,3,0,1,3,0,5,14,0,
+Aamer Mehmood Kiyani,Aamer Mehmood Kiyani,3,Undirected,3,0,1,3,0,1,15,0,
+Muhammad Akram,Muhammad Akram,3,Undirected,3,0,1,0,3,2,15,0,
+Raja Riaz Ahmad,Raja Riaz Ahmad,3,Undirected,3,0,1,0,3,2,15,0,
+Farhana Qamar,Muhammad Safdar,3,Undirected,3,0,1,0,3,1;4,14,1,Interior and Narcotics Control
+Leila Khan,Marvi Memon,3,Undirected,3,0,1,0,3,1,14,2,Cabinet Secretariat;Interior and Narcotics Control
+Muhammad Safdar,Seema Mohiuddin Jameeli,3,Undirected,3,0,1,0,3,1;4,14,1,Interior and Narcotics Control
+Muhammad Talha Mehmood,Muhammad Talha Mehmood,3,Undirected,3,0,1,3,0,5,15,0,
+Muhammad Gohar Shah,Qamar Ud Din,2,Undirected,2,0,1,0,2,3;5,14,1,"Law, Justice and Human Rights"
+Dr. Shireen Mehrunnisa Mazari,Hamid Ul Haq,2,Undirected,2,0,1,0,2,3,14,0,
+Sardar Ayaz Sadiq,Uzma Riaz,2,Undirected,0,2,0,0,2,3,15,0,
+Rana Sana Ullah Khan,Rana Tanveer Hussain,2,Undirected,2,0,1,0,2,1,15,0,
+Haider Ali,Muhammad Ibrahim Khan,2,Undirected,2,0,1,0,2,1;3,15,0,
+Kesoo Mal Kheal Das,Nelson Azeem,2,Undirected,2,0,1,0,2,1,16,0,
+Asad Umar,Raja Khurram Shahzad Nawaz,2,Undirected,2,0,1,0,2,2,15,0,
+Marriyum Aurangzeb,Mian Najibuddin Awaisi,2,Undirected,2,0,1,0,2,1,15,0,
+Dr. Muhammad Farooq Sattar,Khawaja Sohail Mansoor,2,Undirected,2,0,1,0,2,1;5,14,1,"Law, Justice and Human Rights"
+Dr. Muhammad Farooq Sattar,Mohammad Salman Khan Baloch,2,Undirected,2,0,1,0,2,1;5,14,1,"Law, Justice and Human Rights"
+Dr. Ramesh Kumar Vankwani,Kiran Haider,2,Undirected,2,0,0,0,2,4,14,0,
+Dr. Ramesh Kumar Vankwani,Farhana Qamar,2,Undirected,2,0,0,0,2,4,14,0,
+Dr. Ramesh Kumar Vankwani,Seema Mohiuddin Jameeli,2,Undirected,2,0,0,0,2,4,14,0,
+Dr. Ramesh Kumar Vankwani,Iqbal Muhammad Ali Khan,2,Undirected,0,2,0,0,2,4,14,0,
+Dr. Ramesh Kumar Vankwani,Malik Abdul Ghaffar Dogar,2,Undirected,2,0,0,0,2,4,14,0,
+Iqbal Muhammad Ali Khan,Phyllis Azeem,2,Undirected,0,2,0,0,2,4,14,0,
+Munaza Hassan,Rai Hasan Nawaz Khan,2,Undirected,2,0,1,0,2,3,14,0,
+Iqbal Muhammad Ali Khan,Seema Mohiuddin Jameeli,2,Undirected,0,2,0,0,2,4,14,0,
+Iqbal Muhammad Ali Khan,Malik Abdul Ghaffar Dogar,2,Undirected,0,2,0,0,2,4,14,0,
+Phyllis Azeem,Seema Mohiuddin Jameeli,2,Undirected,2,0,1,0,2,4,14,0,
+Phyllis Azeem,Shah Jee Gul Afridi,2,Undirected,0,2,0,0,2,4,14,0,
+Hamid Ul Haq,Makhdoom Shah Mahmood Qureshi,2,Undirected,2,0,1,0,2,3,14,0,
+Phyllis Azeem,Reeta Ishwar,2,Undirected,0,2,0,0,2,1,14,1,"Law, Justice and Human Rights"
+Hamid Ul Haq,Junaid Akbar,2,Undirected,2,0,1,0,2,3,14,0,
+Phyllis Azeem,Romina Khurshid Alam,2,Undirected,2,0,1,0,2,1,14,1,"Law, Justice and Human Rights"
+Dr. Ramesh Kumar Vankwani,Shah Jee Gul Afridi,2,Undirected,0,2,0,0,2,4,14,0,
+Dr. Ramesh Kumar Vankwani,Muhammad Safdar,2,Undirected,2,0,0,0,2,4,14,0,
+Mrs. Aliya Kamran,Naeema Kishwar Khan,2,Undirected,2,0,0,0,2,1;3,14,1,"Law, Justice and Human Rights"
+Muhammad Jamal Ud Din,Qamar Ud Din,2,Undirected,2,0,0,0,2,3;5,14,1,"Law, Justice and Human Rights"
+Muhammad Jamal Ud Din,Qari Muhammad Yousaf,2,Undirected,2,0,0,0,2,3;5,14,1,"Law, Justice and Human Rights"
+Agha Muhammad,Shahida Akhtar Ali,2,Undirected,2,0,1,0,2,1;3,14,1,"Law, Justice and Human Rights"
+Amirullah,Munaza Hassan,2,Undirected,2,0,1,0,2,3,14,0,
+Amirullah,Makhdoom Shah Mahmood Qureshi,2,Undirected,2,0,1,0,2,3,14,0,
+Saleh Muhammad,Saleh Muhammad,2,Undirected,2,0,1,0,2,1,15,0,
+Amirullah,Junaid Akbar,2,Undirected,2,0,1,0,2,3,14,0,
+Amirullah,Hamid Ul Haq,2,Undirected,2,0,1,0,2,3,14,0,
+Dr. Fouzia Hameed,Khawaja Sohail Mansoor,2,Undirected,2,0,1,0,2,3;5,14,0,
+Imran Khattak,Zille Huma,2,Undirected,2,0,1,0,2,2,15,0,
+Imran Khattak,Imran Khattak,2,Undirected,2,0,1,0,2,2;5,14,0,
+Dr. Muhammad Farooq Sattar,Dr. Muhammad Farooq Sattar,2,Undirected,2,0,1,0,2,5,14,0,
+Rai Muhammad Murtaza Iqbal,Zille Huma,2,Undirected,2,0,1,0,2,2,15,0,
+Rai Muhammad Murtaza Iqbal,Rai Muhammad Murtaza Iqbal,2,Undirected,2,0,1,0,2,2,15,0,
+Imran Khattak,Mujahid Ali,2,Undirected,2,0,1,0,2,2;3,15,0,
+Kishwer Zehra,Tahira Asif,2,Undirected,2,0,1,0,2,1,14,1,Interior and Narcotics Control
+Iqbal Muhammad Ali Khan,Salah Ud Din Ayubi,2,Undirected,0,2,0,0,2,1,15,0,
+Hamid Ul Haq,Munaza Hassan,2,Undirected,2,0,1,0,2,3,14,0,
+Hamid Ul Haq,Rai Hasan Nawaz Khan,2,Undirected,2,0,1,0,2,3,14,0,
+Iqbal Muhammad Ali Khan,Kiran Haider,2,Undirected,0,2,0,0,2,4,14,0,
+Iqbal Muhammad Ali Khan,Naeema Kishwar Khan,2,Undirected,0,2,0,0,2,4,14,0,
+Iqbal Muhammad Ali Khan,Shahida Akhtar Ali,2,Undirected,0,2,0,0,2,4,14,0,
+Mrs. Aliya Kamran,Sher Akbar Khan,2,Undirected,0,2,0,0,2,1,14;15,1,"Law, Justice and Human Rights"
+Bhawan Das,Lal Chand Malhi,2,Undirected,0,2,0,0,2,1;3,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Bhawan Das,Isphanyar M. Bhandara,2,Undirected,2,0,1,0,2,1;3,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Bilal Rehman,Muhammad Safdar,2,Undirected,0,2,0,0,2,4,14,0,
+Asiya Naz Tanoli,Dr. Ramesh Kumar Vankwani,2,Undirected,2,0,0,0,2,4,14,0,
+Asiya Naz Tanoli,Kiran Haider,2,Undirected,2,0,1,0,2,4,14,0,
+Asiya Naz Tanoli,Begum Tahira Bukhari,2,Undirected,2,0,1,0,2,4,14,0,
+Shah Jee Gul Afridi,Shahida Akhtar Ali,2,Undirected,0,2,0,0,2,4,14,0,
+Shah Jee Gul Afridi,Shahab-ud-Din Khan,2,Undirected,0,2,0,0,2,3,14,0,
+Bismillah Khan,Shah Jee Gul Afridi,2,Undirected,2,0,1,0,2,3,14,0,
+Bismillah Khan,Shahab-ud-Din Khan,2,Undirected,0,2,0,0,2,3,14,0,
+Bismillah Khan,Sajid Hussain Turi,2,Undirected,2,0,0,0,2,3,14,0,
+Mrs. Aliya Kamran,Qari Muhammad Yousaf,2,Undirected,2,0,0,0,2,1;3,14,1,"Law, Justice and Human Rights"
+Reeta Ishwar,Romina Khurshid Alam,2,Undirected,0,2,0,0,2,1,14,1,"Law, Justice and Human Rights"
+Dr. Khalid Maqbool Siddiqui,Khawaja Sohail Mansoor,2,Undirected,2,0,1,0,2,3;5,14,0,
+Dr. Abdul Hafeez Sheikh,Muhammad Hammad Azhar,2,Undirected,0,2,0,2,0,3,15,0,
+Qamar Ud Din,Qari Muhammad Yousaf,2,Undirected,2,0,1,0,2,3;5,14,1,"Law, Justice and Human Rights"
+Ramesh Lal,Sajid Khan,2,Undirected,0,2,0,0,2,1,15,0,
+Muhammad Kamal Malik,Syed Asif Hasnain,2,Undirected,2,0,1,0,2,3;4,14,0,
+Gul Dad Khan,Gul Zafar Khan,2,Undirected,2,0,1,0,2,1;3,15,0,
+Muhammad Kamal Malik,Sufyan Yousuf,2,Undirected,2,0,1,0,2,3;4,14,0,
+Muhammad Kamal Malik,Muhammad Kamal Malik,2,Undirected,2,0,1,0,2,5,14,0,
+Muhammad Jamal Ud Din,Naeema Kishwar Khan,2,Undirected,2,0,0,0,2,3;5,14,1,"Law, Justice and Human Rights"
+Muhammad Jamal Ud Din,Shahida Akhtar Ali,2,Undirected,2,0,0,0,2,3,14,1,"Law, Justice and Human Rights"
+Ch. Asad Ur Rehman,Iqbal Muhammad Ali Khan,2,Undirected,0,2,0,0,2,4,14,0,
+Usman Khan Tarrakai,Zahid Akram Durani,2,Undirected,0,2,0,0,2,2;3,15,0,
+Ch. Asad Ur Rehman,Malik Abdul Ghaffar Dogar,2,Undirected,2,0,1,0,2,4,14,0,
+Dr. Darshan,Sajid Khan,2,Undirected,0,2,0,0,2,1,15,0,
+Ch. Asad Ur Rehman,Shah Jee Gul Afridi,2,Undirected,0,2,0,0,2,4,14,0,
+Ch. Asad Ur Rehman,Muhammad Safdar,2,Undirected,2,0,1,0,2,4,14,0,
+Bilal Rehman,Dr. Ramesh Kumar Vankwani,2,Undirected,0,2,0,0,2,4,14,0,
+Asiya Naz Tanoli,Farhana Qamar,2,Undirected,2,0,1,0,2,4,14,0,
+Asiya Naz Tanoli,Seema Mohiuddin Jameeli,2,Undirected,2,0,1,0,2,4,14,0,
+Asiya Naz Tanoli,Iqbal Muhammad Ali Khan,2,Undirected,0,2,0,0,2,4,14,0,
+Mujahid Ali,Zahid Akram Durani,2,Undirected,0,2,0,0,2,2;3,15,0,
+Mujahid Ali,Syed Mehmood Shah,2,Undirected,0,2,0,0,2,2;3,15,0,
+Mujahid Ali,Salah Ud Din Ayubi,2,Undirected,0,2,0,0,2,2;3,15,0,
+Mujahid Ali,Sher Akbar Khan,2,Undirected,2,0,0,0,2,2;3,15,0,
+Asiya Naz Tanoli,Malik Abdul Ghaffar Dogar,2,Undirected,2,0,1,0,2,4,14,0,
+Asiya Naz Tanoli,Ch. Asad Ur Rehman,2,Undirected,2,0,1,0,2,4,14,0,
+Asiya Naz Tanoli,Shah Jee Gul Afridi,2,Undirected,0,2,0,0,2,4,14,0,
+Asiya Naz Tanoli,Bilal Rehman,2,Undirected,0,2,0,0,2,4,14,0,
+Asiya Naz Tanoli,Muhammad Safdar,2,Undirected,2,0,1,0,2,4,14,0,
+Asiya Naz Tanoli,Asiya Naz Tanoli,2,Undirected,2,0,1,0,2,3;5,14,0,
+Asiya Naz Tanoli,Marvi Memon,2,Undirected,2,0,1,0,2,1,14,2,"Law, Justice and Human Rights;Religious Affairs and Inter-faith Harmony"
+Asiya Naz Tanoli,Shaista Pervaiz,2,Undirected,2,0,1,0,2,1,14,2,"Law, Justice and Human Rights;Religious Affairs and Inter-faith Harmony"
+Asiya Naz Tanoli,Muhammad Pervaiz Malik,2,Undirected,2,0,1,0,2,1,14,2,"Law, Justice and Human Rights;Religious Affairs and Inter-faith Harmony"
+Bilal Rehman,Kiran Haider,2,Undirected,0,2,0,0,2,4,14,0,
+Bilal Rehman,Naeema Kishwar Khan,2,Undirected,0,2,0,0,2,4,14,0,
+Sajid Hussain Turi,Shah Jee Gul Afridi,2,Undirected,2,0,0,0,2,3,14,0,
+Sajid Hussain Turi,Shahab-ud-Din Khan,2,Undirected,0,2,0,0,2,3,14,0,
+Nafeesa Inayatullah Khan Khattak,Nooreen Farooq Khan,2,Undirected,2,0,1,0,2,2;4,15,0,
+Nafeesa Inayatullah Khan Khattak,Riaz Fatyana,2,Undirected,2,0,1,0,2,2;3,15,0,
+Bilal Rehman,Shahida Akhtar Ali,2,Undirected,0,2,0,0,2,4,14,0,
+Dr. Nikhat Shakeel Khan,Kiran Haider,2,Undirected,0,2,0,0,2,4,14,0,
+Dr. Nikhat Shakeel Khan,Naeema Kishwar Khan,2,Undirected,0,2,0,0,2,4,14,0,
+Dr. Nikhat Shakeel Khan,Shahida Akhtar Ali,2,Undirected,0,2,0,0,2,4,14,0,
+Dr. Nikhat Shakeel Khan,Phyllis Azeem,2,Undirected,0,2,0,0,2,4,14,0,
+Bilal Rehman,Dr. Nikhat Shakeel Khan,2,Undirected,0,2,0,0,2,4,14,0,
+Bilal Rehman,Phyllis Azeem,2,Undirected,0,2,0,0,2,4,14,0,
+Bilal Rehman,Farhana Qamar,2,Undirected,0,2,0,0,2,4,14,0,
+Bilal Rehman,Seema Mohiuddin Jameeli,2,Undirected,0,2,0,0,2,4,14,0,
+Bilal Rehman,Iqbal Muhammad Ali Khan,2,Undirected,0,2,0,0,2,4,14,0,
+Bilal Rehman,Malik Abdul Ghaffar Dogar,2,Undirected,0,2,0,0,2,4,14,0,
+Bilal Rehman,Ch. Asad Ur Rehman,2,Undirected,0,2,0,0,2,4,14,0,
+Bilal Rehman,Shah Jee Gul Afridi,2,Undirected,2,0,1,0,2,4,14,0,
+Abdul Kareem,Bilal Rehman,2,Undirected,0,2,0,0,2,4,14,0,
+Abdul Kareem,Muhammad Safdar,2,Undirected,2,0,1,0,2,4,14,0,
+Malik Abdul Ghaffar Dogar,Naeema Kishwar Khan,2,Undirected,0,2,0,0,2,4,14,0,
+Dr. Nikhat Shakeel Khan,Farhana Qamar,2,Undirected,0,2,0,0,2,4,14,0,
+Dr. Nikhat Shakeel Khan,Malik Abdul Ghaffar Dogar,2,Undirected,0,2,0,0,2,4,14,0,
+Dr. Nikhat Shakeel Khan,Shah Jee Gul Afridi,2,Undirected,0,2,0,0,2,4,14,0,
+Dr. Nikhat Shakeel Khan,Muhammad Safdar,2,Undirected,0,2,0,0,2,4,14,0,
+Malik Abdul Ghaffar Dogar,Shahida Akhtar Ali,2,Undirected,0,2,0,0,2,4,14,0,
+Asiya Naz Tanoli,Naeema Kishwar Khan,2,Undirected,0,2,0,0,2,4,14,0,
+Asiya Naz Tanoli,Shahida Akhtar Ali,2,Undirected,0,2,0,0,2,4,14,0,
+Asiya Naz Tanoli,Dr. Nikhat Shakeel Khan,2,Undirected,0,2,0,0,2,4,14,0,
+Nafeesa Inayatullah Khan Khattak,Zille Huma,2,Undirected,2,0,1,0,2,2,15,0,
+Asiya Naz Tanoli,Phyllis Azeem,2,Undirected,2,0,1,0,2,4,14,0,
+Malik Abdul Ghaffar Dogar,Phyllis Azeem,2,Undirected,2,0,1,0,2,4,14,0,
+Malik Abdul Ghaffar Dogar,Seema Mohiuddin Jameeli,2,Undirected,2,0,1,0,2,4,14,0,
+Malik Muhammad Aamir Dogar,Malik Muhammad Aamir Dogar,2,Undirected,2,0,1,0,2,1;5,14;15,0,
+Aasiya Nasir,Reeta Ishwar,2,Undirected,0,2,0,0,2,1,14,1,"Law, Justice and Human Rights"
+Aasiya Nasir,Phyllis Azeem,2,Undirected,0,2,0,0,2,1,14,1,"Law, Justice and Human Rights"
+Aasiya Nasir,Romina Khurshid Alam,2,Undirected,0,2,0,0,2,1,14,1,"Law, Justice and Human Rights"
+Aasiya Nasir,Qari Muhammad Yousaf,2,Undirected,2,0,1,0,2,1;3,14,1,"Law, Justice and Human Rights"
+Aasiya Nasir,Muhammad Gohar Shah,2,Undirected,2,0,1,0,2,1;3,14,1,"Law, Justice and Human Rights"
+Ali Khan Jadoon,Zille Huma,2,Undirected,2,0,1,0,2,2,15,0,
+Naeema Kishwar Khan,Seema Mohiuddin Jameeli,2,Undirected,0,2,0,0,2,4,14,0,
+Naeema Kishwar Khan,Shah Jee Gul Afridi,2,Undirected,0,2,0,0,2,4,14,0,
+Naeema Kishwar Khan,Qamar Ud Din,2,Undirected,2,0,1,0,2,3;5,14,1,"Law, Justice and Human Rights"
+Sahib Zada Muhammad Yaqub,Sahib Zada Muhammad Yaqub,2,Undirected,2,0,1,0,2,2;4,14,0,
+Ameer Zaman,Qari Muhammad Yousaf,2,Undirected,2,0,1,0,2,1;3,14,1,"Law, Justice and Human Rights"
+Naeema Kishwar Khan,Sahibzada Tariq Ullah,2,Undirected,0,2,0,0,2,1;5,14,1,"Law, Justice and Human Rights"
+Naeema Kishwar Khan,Sher Akbar Khan,2,Undirected,0,2,0,0,2,1;5,14,1,"Law, Justice and Human Rights"
+Ameer Zaman,Muhammad Gohar Shah,2,Undirected,2,0,1,0,2,1;3,14,1,"Law, Justice and Human Rights"
+Shahida Akhtar Ali,Sher Akbar Khan,2,Undirected,0,2,0,0,2,1,14;15,1,"Law, Justice and Human Rights"
+Abdul Rehman Khan Kanju,Rana Tanveer Hussain,2,Undirected,2,0,1,0,2,1,15,0,
+Jamshaid Ahmad Dasti,Sahib Zada Muhammad Yaqub,2,Undirected,0,2,0,0,2,4,14,0,
+Jamshaid Ahmad Dasti,Sahibzada Tariq Ullah,2,Undirected,0,2,0,0,2,4,14,0,
+Jamshaid Ahmad Dasti,Sher Akbar Khan,2,Undirected,0,2,0,0,2,4,14,0,
+Afreen Khan,Rana Sana Ullah Khan,2,Undirected,0,2,0,0,2,1,15,0,
+Afreen Khan,Mian Najibuddin Awaisi,2,Undirected,0,2,0,0,2,1,15,0,
+Jamshaid Ahmad Dasti,Mrs. Shahida Rehmani,2,Undirected,0,2,0,0,2,4,14,0,
+Amjid Ali Khan,Moulana Abdul Akbar Chitrali,2,Undirected,0,2,0,0,2,3,15,0,
+Amjid Ali Khan,Uzma Riaz,2,Undirected,2,0,1,0,2,2,15,0,
+Ahsan Iqbal,Rana Sana Ullah Khan,2,Undirected,2,0,1,0,2,1,15,0,
+Ahsan Iqbal,Mian Najibuddin Awaisi,2,Undirected,2,0,1,0,2,1,15,0,
+Abdul Rehman Khan Kanju,Muhammad Sajjad,2,Undirected,2,0,1,0,2,1,15,0,
+Abdul Rehman Khan Kanju,Afreen Khan,2,Undirected,0,2,0,0,2,1,15,0,
+Abdul Rehman Khan Kanju,Ahsan Iqbal,2,Undirected,2,0,1,0,2,1,15,0,
+Abdul Rehman Khan Kanju,Marriyum Aurangzeb,2,Undirected,2,0,1,0,2,1,15,0,
+Abdul Rehman Khan Kanju,Murtaza Javed Abbasi,2,Undirected,2,0,1,0,2,1,15,0,
+Aisha Syed,Jamshaid Ahmad Dasti,2,Undirected,0,2,0,0,2,4,14,0,
+Salah Ud Din Ayubi,Syed Amin ul Haque,2,Undirected,0,2,0,0,2,1,15,0,
+Salah Ud Din Ayubi,Salah-ud-Din,2,Undirected,0,2,0,0,2,1,15,0,
+Muhammad Sajjad,Rana Sana Ullah Khan,2,Undirected,2,0,1,0,2,1,15,0,
+Murtaza Javed Abbasi,Rana Sana Ullah Khan,2,Undirected,2,0,1,0,2,1,15,0,
+Faheem Khan,Nafeesa Inayatullah Khan Khattak,2,Undirected,2,0,1,0,2,2,15,0,
+Faheem Khan,Zille Huma,2,Undirected,2,0,1,0,2,2,15,0,
+Faheem Khan,Raja Khurram Shahzad Nawaz,2,Undirected,2,0,1,0,2,2,15,0,
+Aisha Syed,Aisha Syed,2,Undirected,2,0,1,0,2,2;4,14,0,
+Malik Abdul Ghaffar Dogar,Shah Jee Gul Afridi,2,Undirected,0,2,0,0,2,4,14,0,
+Malik Abdul Ghaffar Dogar,Muhammad Safdar,2,Undirected,2,0,1,0,2,4,14,0,
+Salah Ud Din Ayubi,Usman Khan Tarrakai,2,Undirected,0,2,0,0,2,2;3,15,0,
+Moulana Abdul Akbar Chitrali,Syed Javed Hassnain,2,Undirected,0,2,0,0,2,3,15,0,
+Kesoo Mal Kheeal Das,Sajid Khan,2,Undirected,0,2,0,0,2,1,15,0,
+Mahesh Kumar Malani,Sajid Khan,2,Undirected,0,2,0,0,2,1,15,0,
+Ch. Asad Ur Rehman,Dr. Ramesh Kumar Vankwani,2,Undirected,2,0,0,0,2,4,14,0,
+Ch. Asad Ur Rehman,Kiran Haider,2,Undirected,2,0,1,0,2,4,14,0,
+Kesoo Mal Kheeal Das,Zahra Wadood Fatemi,2,Undirected,2,0,1,0,2,5,15,0,
+Ch. Asad Ur Rehman,Naeema Kishwar Khan,2,Undirected,0,2,0,0,2,4,14,0,
+Ch. Asad Ur Rehman,Shahida Akhtar Ali,2,Undirected,0,2,0,0,2,4,14,0,
+Noor Alam Khan,Uzma Riaz,2,Undirected,2,0,1,0,2,4,15,0,
+Noor Alam Khan,Rana Iradat Sharif Khan,2,Undirected,0,2,0,0,2,4,15,0,
+Ch. Asad Ur Rehman,Dr. Nikhat Shakeel Khan,2,Undirected,0,2,0,0,2,4,14,0,
+Ch. Asad Ur Rehman,Phyllis Azeem,2,Undirected,2,0,1,0,2,4,14,0,
+Syed Fakhar Imam,Uzma Riaz,2,Undirected,2,0,1,0,2,2,15,0,
+Riaz Fatyana,Uzma Riaz,2,Undirected,2,0,1,0,2,2,15,0,
+Ali Gohar Khan,Choudhary Faqir Ahmad,2,Undirected,2,0,1,0,2,5,15,0,
+Agha Muhammad,Sahibzada Tariq Ullah,2,Undirected,0,2,0,0,2,1;5,14,1,"Law, Justice and Human Rights"
+Ali Gohar Khan,Ali Gohar Khan,2,Undirected,2,0,1,0,2,3;4,15,0,
+Agha Muhammad,Sher Akbar Khan,2,Undirected,0,2,0,0,2,1;5,14,1,"Law, Justice and Human Rights"
+Asad Qaiser,Sana Ullah Khan Mastikhel,2,Undirected,2,0,1,0,2,1,16,0,
+Asad Qaiser,Shahzada Muhammad Gushtasap Khan,2,Undirected,2,0,1,0,2,1,16,0,
+Mian Najibuddin Awaisi,Muhammad Sajjad,2,Undirected,2,0,1,0,2,1,15,0,
+Mian Najibuddin Awaisi,Murtaza Javed Abbasi,2,Undirected,2,0,1,0,2,1,15,0,
+Mian Najibuddin Awaisi,Rana Tanveer Hussain,2,Undirected,2,0,1,0,2,1,15,0,
+Mrs. Mahreen Razaque Bhutto,Mrs. Mahreen Razaque Bhutto,2,Undirected,2,0,1,0,2,4;5,15,0,
+Seema Mohiuddin Jameeli,Shahida Akhtar Ali,2,Undirected,0,2,0,0,2,4,14,0,
+Seema Mohiuddin Jameeli,Shah Jee Gul Afridi,2,Undirected,0,2,0,0,2,4,14,0,
+Sana Ullah Khan Mastikhel,Shahzada Muhammad Gushtasap Khan,2,Undirected,2,0,1,0,2,1,16,0,
+Qaisar Ahmad Sheikh,Shahab-ud-Din Khan,2,Undirected,2,0,1,0,2,1,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Isphanyar M. Bhandara,Lal Chand Malhi,2,Undirected,0,2,0,0,2,1;3,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Mohammad Salman Khan Baloch,Sufyan Yousuf,2,Undirected,2,0,1,0,2,1,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Agha Muhammad,Qari Muhammad Yousaf,2,Undirected,2,0,1,0,2,1;5,14,1,"Law, Justice and Human Rights"
+Khawaja Sohail Mansoor,Muhammad Rehan Hashmi,2,Undirected,2,0,1,0,2,1,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Khawaja Sohail Mansoor,Shaikh Salahuddin,2,Undirected,2,0,1,0,2,1;5,14,1,"Law, Justice and Human Rights"
+Ch. Asad Ur Rehman,Farhana Qamar,2,Undirected,2,0,1,0,2,4,14,0,
+Ch. Asad Ur Rehman,Seema Mohiuddin Jameeli,2,Undirected,2,0,1,0,2,4,14,0,
+Khawaja Sohail Mansoor,Syed Waseem Hussain,2,Undirected,2,0,1,0,2,1;3,14,1,"Law, Justice and Human Rights"
+Abdul Rashid Godil,Dr. Muhammad Farooq Sattar,2,Undirected,2,0,1,0,2,1,14,1,Interior and Narcotics Control
+Iqbal Muhammad Ali Khan,Shah Jee Gul Afridi,2,Undirected,0,2,0,0,2,4,14,0,
+Abdul Rashid Godil,Abdul Rashid Godil,2,Undirected,2,0,1,0,2,2,14,0,
+Muhammad Rehan Hashmi,Muhammad Rehan Hashmi,2,Undirected,2,0,1,0,2,2,14,0,
+Iqbal Muhammad Ali Khan,Muhammad Safdar,2,Undirected,0,2,0,0,2,4,14,0,
+Khawaja Sohail Mansoor,Kishwer Zehra,2,Undirected,2,0,1,0,2,1;5,14,1,Interior and Narcotics Control
+Khawaja Sohail Mansoor,Sajid Ahmed,2,Undirected,2,0,1,0,2,1;5,14,1,Interior and Narcotics Control
+Khawaja Sohail Mansoor,Syed Asif Hasnain,2,Undirected,2,0,1,0,2,1;3,14,1,"Law, Justice and Human Rights"
+Khawaja Sohail Mansoor,Muhammad Muzammil Qureshi,2,Undirected,2,0,1,0,2,1;3,14,1,"Law, Justice and Human Rights"
+Muhammad Raza Hayat Hiraj,Muhammad Raza Hayat Hiraj,2,Undirected,2,0,1,0,2,2,14,0,
+Khawaja Sohail Mansoor,Sufyan Yousuf,2,Undirected,2,0,1,0,2,1,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Muhammad Pervaiz Malik,Shaista Pervaiz,2,Undirected,2,0,1,0,2,1,14,2,"Law, Justice and Human Rights;Religious Affairs and Inter-faith Harmony"
+Abdul Kareem,Dr. Ramesh Kumar Vankwani,2,Undirected,2,0,0,0,2,4,14,0,
+Abdul Kareem,Kiran Haider,2,Undirected,2,0,1,0,2,4,14,0,
+Abdul Kareem,Begum Tahira Bukhari,2,Undirected,2,0,1,0,2,4,14,0,
+Abdul Kareem,Naeema Kishwar Khan,2,Undirected,0,2,0,0,2,4,14,0,
+Abdul Kareem,Shahida Akhtar Ali,2,Undirected,0,2,0,0,2,4,14,0,
+Maulvi Asmatullah,Usman Khan Tarrakai,2,Undirected,0,2,0,0,2,2;3,15,0,
+Maulvi Asmatullah,Mujahid Ali,2,Undirected,0,2,0,0,2,2;3,15,0,
+Muhammad Gohar Shah,Sahibzada Tariq Ullah,2,Undirected,0,2,0,0,2,1;5,14,1,"Law, Justice and Human Rights"
+Muhammad Gohar Shah,Sher Akbar Khan,2,Undirected,0,2,0,0,2,1;5,14,1,"Law, Justice and Human Rights"
+Abdul Kareem,Dr. Nikhat Shakeel Khan,2,Undirected,0,2,0,0,2,4,14,0,
+Muhammad Mobeen Arif,Usama Ahmed Mela,2,Undirected,2,0,1,0,2,1,16,0,
+Sher Akbar Khan,Usman Khan Tarrakai,2,Undirected,2,0,0,0,2,2;3,15,0,
+Kesoo Mal Kheal Das,Naveed Amir,2,Undirected,0,2,0,0,2,1,16,0,
+Kesoo Mal Kheal Das,Ramesh Lal,2,Undirected,0,2,0,0,2,1,16,0,
+Abdul Kareem,Phyllis Azeem,2,Undirected,2,0,1,0,2,4,14,0,
+Abdul Shakoor,Usman Khan Tarrakai,2,Undirected,0,2,0,0,2,2;3,15,0,
+Abdul Shakoor,Mujahid Ali,2,Undirected,0,2,0,0,2,2;3,15,0,
+Nooreen Farooq Khan,Uzma Riaz,2,Undirected,2,0,1,0,2,2;4,15,0,
+Nooreen Farooq Khan,Raja Khurram Shahzad Nawaz,2,Undirected,2,0,1,0,2,2;4,15,0,
+Dr. Arif Alvi,Hamid Ul Haq,2,Undirected,2,0,1,0,2,3,14,0,
+Dr. Arif Alvi,Dr. Arif Alvi,2,Undirected,2,0,1,0,2,2,14,0,
+Abdul Kareem,Farhana Qamar,2,Undirected,2,0,1,0,2,4,14,0,
+Nooreen Farooq Khan,Sher Ali Arbab,2,Undirected,2,0,1,0,2,4,15,0,
+Nooreen Farooq Khan,Riaz Fatyana,2,Undirected,2,0,1,0,2,4,15,0,
+Nooreen Farooq Khan,Sher Akbar Khan,2,Undirected,2,0,0,0,2,4,15,0,
+Agha Muhammad,Muhammad Jamal Ud Din,2,Undirected,2,0,0,0,2,3;5,14,0,
+Makhdoom Shah Mahmood Qureshi,Rai Hasan Nawaz Khan,2,Undirected,2,0,1,0,2,3,14,0,
+Syed Mehmood Shah,Usman Khan Tarrakai,2,Undirected,0,2,0,0,2,2;3,15,0,
+Sher Akbar Khan,Sher Akbar Khan,2,Undirected,2,0,1,0,2,2;4,14,0,
+Kiran Haider,Marvi Memon,2,Undirected,2,0,1,0,2,1,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Abdul Kareem,Seema Mohiuddin Jameeli,2,Undirected,2,0,1,0,2,4,14,0,
+Abdul Kareem,Asiya Naz Tanoli,2,Undirected,2,0,1,0,2,4,14,0,
+Mehnaz Akber Aziz,Riaz Fatyana,2,Undirected,0,2,0,0,2,2;4,15,0,
+Agha Hassan Baloch,Agha Hassan Baloch,2,Undirected,2,0,1,1,1,3;4,15,0,
+Mehnaz Akber Aziz,Nafeesa Inayatullah Khan Khattak,2,Undirected,0,2,0,0,2,2,15,0,
+Mehnaz Akber Aziz,Raja Khurram Shahzad Nawaz,2,Undirected,0,2,0,0,2,2,15,0,
+Kiran Haider,Naeema Kishwar Khan,2,Undirected,0,2,0,0,2,4,14,0,
+Kiran Haider,Shahida Akhtar Ali,2,Undirected,0,2,0,0,2,4,14,0,
+Kiran Haider,Phyllis Azeem,2,Undirected,2,0,1,0,2,4,14,0,
+Kiran Haider,Malik Abdul Ghaffar Dogar,2,Undirected,2,0,1,0,2,4,14,0,
+Kiran Haider,Shah Jee Gul Afridi,2,Undirected,0,2,0,0,2,4,14,0,
+Junaid Akbar,Rai Hasan Nawaz Khan,2,Undirected,2,0,1,0,2,3,14,0,
+Asma Hadeed,Asma Hadeed,2,Undirected,2,0,1,0,2,4,15,0,
+Asma Hadeed,Mehnaz Akber Aziz,2,Undirected,0,2,0,0,2,2;4,15,0,
+Begum Tahira Bukhari,Shah Jee Gul Afridi,2,Undirected,0,2,0,0,2,4,14,0,
+Begum Tahira Bukhari,Bilal Rehman,2,Undirected,0,2,0,0,2,4,14,0,
+Asma Hadeed,Atta Ullah,2,Undirected,2,0,1,0,2,2,15,0,
+Asma Hadeed,Faheem Khan,2,Undirected,2,0,1,0,2,2,15,0,
+Asma Hadeed,Imran Khattak,2,Undirected,2,0,1,0,2,2,15,0,
+Kiran Haider,Makhdoom Khusro Bakhtiar,2,Undirected,2,0,0,0,2,1,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Kiran Haider,Qaisar Ahmad Sheikh,2,Undirected,2,0,1,0,2,1,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Kiran Haider,Shahab-ud-Din Khan,2,Undirected,2,0,1,0,2,1,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Begum Tahira Bukhari,Dr. Ramesh Kumar Vankwani,2,Undirected,2,0,0,0,2,4,14,0,
+Begum Tahira Bukhari,Naeema Kishwar Khan,2,Undirected,0,2,0,0,2,4,14,0,
+Begum Tahira Bukhari,Shahida Akhtar Ali,2,Undirected,0,2,0,0,2,4,14,0,
+Begum Tahira Bukhari,Dr. Nikhat Shakeel Khan,2,Undirected,0,2,0,0,2,4,14,0,
+Begum Tahira Bukhari,Phyllis Azeem,2,Undirected,2,0,1,0,2,4,14,0,
+Begum Tahira Bukhari,Iqbal Muhammad Ali Khan,2,Undirected,0,2,0,0,2,4,14,0,
+Begum Tahira Bukhari,Malik Abdul Ghaffar Dogar,2,Undirected,2,0,1,0,2,4,14,0,
+Begum Tahira Bukhari,Ch. Asad Ur Rehman,2,Undirected,2,0,1,0,2,4,14,0,
+Agha Muhammad,Mrs. Aliya Kamran,2,Undirected,2,0,0,0,2,1;3,14,1,"Law, Justice and Human Rights"
+Sahibzada Tariq Ullah,Sahibzada Tariq Ullah,2,Undirected,2,0,1,0,2,2;4,14,0,
+Naz Baloch,Nooreen Farooq Khan,2,Undirected,0,2,0,0,2,4,15,0,
+Begum Tahira Bukhari,Marvi Memon,2,Undirected,2,0,1,0,2,1,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Abdul Kareem,Iqbal Muhammad Ali Khan,2,Undirected,0,2,0,0,2,4,14,0,
+Abdul Kareem,Malik Abdul Ghaffar Dogar,2,Undirected,2,0,1,0,2,4,14,0,
+Begum Tahira Bukhari,Makhdoom Khusro Bakhtiar,2,Undirected,2,0,0,0,2,1,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Begum Tahira Bukhari,Qaisar Ahmad Sheikh,2,Undirected,2,0,1,0,2,1,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Begum Tahira Bukhari,Shahab-ud-Din Khan,2,Undirected,2,0,1,0,2,1,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Asia Naz Tanoli,Asia Naz Tanoli,2,Undirected,2,0,1,0,2,1,16,0,
+Abdul Kareem,Ch. Asad Ur Rehman,2,Undirected,2,0,1,0,2,4,14,0,
+Choudhary Faqir Ahmad,Choudhary Faqir Ahmad,2,Undirected,2,0,1,0,2,4,15,0,
+Marvi Memon,Shaista Pervaiz,2,Undirected,2,0,1,0,2,1,14,2,"Law, Justice and Human Rights;Religious Affairs and Inter-faith Harmony"
+Marvi Memon,Muhammad Pervaiz Malik,2,Undirected,2,0,1,0,2,1,14,2,"Law, Justice and Human Rights;Religious Affairs and Inter-faith Harmony"
+Marvi Memon,Qaisar Ahmad Sheikh,2,Undirected,2,0,1,0,2,1,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Marvi Memon,Shahab-ud-Din Khan,2,Undirected,2,0,1,0,2,1,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Marvi Memon,Muhammad Safdar,2,Undirected,2,0,1,0,2,1,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Abdul Kareem,Shah Jee Gul Afridi,2,Undirected,0,2,0,0,2,4,14,0,
+Rana Muhammad Afzal Khan,Rana Muhammad Afzal Khan,2,Undirected,2,0,1,2,0,5,14,0,
+Asad Umar,Makhdoom Shah Mahmood Qureshi,2,Undirected,2,0,1,0,2,3,14,0,
+Kanwar Naveed Jamil,Muhammad Kamal Malik,2,Undirected,2,0,1,0,2,3;4,14,0,
+Kanwar Naveed Jamil,Syed Asif Hasnain,2,Undirected,2,0,1,0,2,3;4,14,0,
+Kanwar Naveed Jamil,Sufyan Yousuf,2,Undirected,2,0,1,0,2,3;4,14,0,
+Sufyan Yousuf,Sufyan Yousuf,2,Undirected,2,0,1,0,2,2;3,14,0,
+Kanwar Naveed Jamil,Syed Waseem Hussain,2,Undirected,2,0,1,0,2,3;4,14,0,
+Kanwar Naveed Jamil,Sajid Ahmed,2,Undirected,2,0,1,0,2,5,14,0,
+Kanwar Naveed Jamil,Syed Ali Raza Abidi,2,Undirected,2,0,1,0,2,5,14,0,
+Dr. Zulfiqar Ali Bhatti,Syed Javed Hassnain,2,Undirected,2,0,1,0,2,5,15,0,
+Dr. Zulfiqar Ali Bhatti,Kesoo Mal Kheeal Das,2,Undirected,2,0,1,0,2,5,15,0,
+Dr. Zulfiqar Ali Bhatti,Ihsan ul Haq Bajwa,2,Undirected,2,0,1,0,2,5,15,0,
+Dr. Zulfiqar Ali Bhatti,Syed Imran Ahmad Shah,2,Undirected,2,0,1,0,2,5,15,0,
+Farhana Qamar,Naeema Kishwar Khan,2,Undirected,0,2,0,0,2,4,14,0,
+Farhana Qamar,Shahida Akhtar Ali,2,Undirected,0,2,0,0,2,4,14,0,
+Farhana Qamar,Phyllis Azeem,2,Undirected,2,0,1,0,2,4,14,0,
+Farhana Qamar,Iqbal Muhammad Ali Khan,2,Undirected,0,2,0,0,2,4,14,0,
+Farhana Qamar,Malik Abdul Ghaffar Dogar,2,Undirected,2,0,1,0,2,4,14,0,
+Farhana Qamar,Shah Jee Gul Afridi,2,Undirected,0,2,0,0,2,4,14,0,
+Sufyan Yousuf,Syed Ali Raza Abidi,2,Undirected,2,0,1,0,2,1;4,14,1,"Law, Justice and Human Rights"
+Raja Khurram Shahzad Nawaz,Riaz Fatyana,2,Undirected,2,0,1,0,2,2,15,0,
+Raja Khurram Shahzad Nawaz,Syed Fakhar Imam,2,Undirected,2,0,1,0,2,2,15,0,
+Syed Imran Ahmad Shah,Zahra Wadood Fatemi,2,Undirected,2,0,1,0,2,5,15,0,
+Ihsan ul Haq Bajwa,Kesoo Mal Kheeal Das,2,Undirected,2,0,1,0,2,5,15,0,
+Ihsan ul Haq Bajwa,Zahra Wadood Fatemi,2,Undirected,2,0,1,0,2,5,15,0,
+Ihsan ul Haq Bajwa,Syed Imran Ahmad Shah,2,Undirected,2,0,1,0,2,5,15,0,
+Ali Nawaz Awan,Syed Fakhar Imam,2,Undirected,2,0,1,0,2,2,15,0,
+Raja Khurram Shahzad Nawaz,Zille Huma,2,Undirected,2,0,1,0,2,2,15,0,
+Raja Khurram Shahzad Nawaz,Uzma Riaz,2,Undirected,2,0,1,0,2,2;4,15,0,
+Ali Nawaz Awan,Faheem Khan,2,Undirected,2,0,1,0,2,2,15,0,
+Ali Nawaz Awan,Zille Huma,2,Undirected,2,0,1,0,2,2,15,0,
+Ali Nawaz Awan,Asad Umar,2,Undirected,2,0,1,0,2,2,15,0,
+Ali Nawaz Awan,Uzma Riaz,2,Undirected,2,0,1,0,2,2;4,15,0,
+Ali Nawaz Awan,Nooreen Farooq Khan,2,Undirected,2,0,1,0,2,2;4,15,0,
+Ali Nawaz Awan,Mehnaz Akber Aziz,2,Undirected,0,2,0,0,2,2,15,0,
+Qari Muhammad Yousaf,Shahida Akhtar Ali,2,Undirected,2,0,1,0,2,1;3,14,1,"Law, Justice and Human Rights"
+Dr. Muhammad Afzal Khan Dhandla,Dr. Muhammad Afzal Khan Dhandla,2,Undirected,2,0,1,0,2,4;5,15,0,
+Ali Nawaz Awan,Atta Ullah,2,Undirected,2,0,1,0,2,2,15,0,
+Ms Shagufta Jumani,Syed Ghulam Mustafa Shah,2,Undirected,2,0,1,0,2,5,15,0,
+Mir Ghulam Ali Talpur,Ms Shagufta Jumani,2,Undirected,2,0,1,0,2,5,15,0,
+Mir Ghulam Ali Talpur,Syed Ghulam Mustafa Shah,2,Undirected,2,0,1,0,2,5,15,0,
+Khurshed Ahmed Junejo,Ms Shagufta Jumani,2,Undirected,2,0,1,0,2,5,15,0,
+Khurshed Ahmed Junejo,Syed Ghulam Mustafa Shah,2,Undirected,2,0,1,0,2,5,15,0,
+Khurshed Ahmed Junejo,Mir Ghulam Ali Talpur,2,Undirected,2,0,1,0,2,5,15,0,
+Qari Muhammad Yousaf,Sahibzada Tariq Ullah,2,Undirected,0,2,0,0,2,1;5,14,1,"Law, Justice and Human Rights"
+Naveed Amir,Nelson Azeem,2,Undirected,0,2,0,0,2,1,16,0,
+Atta Ullah,Faheem Khan,2,Undirected,2,0,1,0,2,2,15,0,
+Atta Ullah,Zille Huma,2,Undirected,2,0,1,0,2,2,15,0,
+Atta Ullah,Raja Khurram Shahzad Nawaz,2,Undirected,2,0,1,0,2,2,15,0,
+Nighat Parveen,Shahnaz Saleem Malik,2,Undirected,2,0,1,0,2,5,14,0,
+Nighat Parveen,Parveen Masood Bhatti,2,Undirected,2,0,1,0,2,5,14,0,
+Atta Ullah,Nafeesa Inayatullah Khan Khattak,2,Undirected,2,0,1,0,2,2,15,0,
+Nelson Azeem,Ramesh Lal,2,Undirected,0,2,0,0,2,1,16,0,
+Qari Muhammad Yousaf,Sher Akbar Khan,2,Undirected,0,2,0,0,2,1;5,14,1,"Law, Justice and Human Rights"
+Abdul Waseem,Khawaja Sohail Mansoor,2,Undirected,2,0,1,0,2,1;5,14,1,"Law, Justice and Human Rights"
+Uzma Riaz,Zille Huma,2,Undirected,2,0,1,0,2,2,15,0,
+Muhammad Safdar,Shahab-ud-Din Khan,2,Undirected,2,0,1,0,2,1,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Makhdoom Khusro Bakhtiar,Qaisar Ahmad Sheikh,2,Undirected,2,0,0,0,2,1,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Makhdoom Khusro Bakhtiar,Shahab-ud-Din Khan,2,Undirected,2,0,0,0,2,1,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Makhdoom Khusro Bakhtiar,Muhammad Safdar,2,Undirected,2,0,0,0,2,1,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Muhammad Safdar,Naeema Kishwar Khan,2,Undirected,0,2,0,0,2,4,14,0,
+Muhammad Safdar,Shahida Akhtar Ali,2,Undirected,0,2,0,0,2,4,14,0,
+Muhammad Safdar,Phyllis Azeem,2,Undirected,2,0,1,0,2,4,14,0,
+Muhammad Safdar,Shah Jee Gul Afridi,2,Undirected,0,2,0,0,2,4,14,0,
+Asad Umar,Junaid Akbar,2,Undirected,2,0,1,0,2,3,14,0,
+Muhammad Safdar,Qaisar Ahmad Sheikh,2,Undirected,2,0,1,0,2,1,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Makhdoom Khusro Bakhtiar,Marvi Memon,2,Undirected,2,0,0,0,2,1,14,2,"Interior and Narcotics Control;Law, Justice and Human Rights"
+Ghulam Muhammad Lali,Syed Ali Musa Gilani,2,Undirected,0,2,0,0,2,5,15,0,
+Anusha Rahman Ahmad Khan,Anusha Rahman Ahmad Khan,2,Undirected,2,0,1,2,0,3;4,14,0,
+Asad Umar,Hamid Ul Haq,2,Undirected,2,0,1,0,2,3,14,0,
+Shandana Gulzar Khan,Shandana Gulzar Khan,2,Undirected,2,0,1,0,2,4,15,0,
+Dr. Darshan,Dr. Darshan,1,Undirected,1,0,1,0,1,1,15,0,
+Dr. Darshan,Sanjay Perwani,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Dr. Darshan,Lal Chand Malhi,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Dr. Darshan,Isphanyar M. Bhandara,1,Undirected,1,0,1,0,1,1,14,1,"Law, Justice and Human Rights"
+Lal Chand Malhi,Ramesh Lal,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Lal Chand Malhi,Syed Asif Hasnain,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Lal Chand Malhi,Syed Ali Raza Abidi,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Lal Chand Malhi,Shaikh Salahuddin,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Muhammad Sana Ullah Khan Masti Khel,Riaz Fatyana,1,Undirected,1,0,1,0,1,1,15,0,
+Muhammad Sana Ullah Khan Masti Khel,Syed Fakhar Imam,1,Undirected,1,0,1,0,1,1,15,0,
+Muhammad Sana Ullah Khan Masti Khel,Rana Iradat Sharif Khan,1,Undirected,0,1,0,0,1,1,15,0,
+Muhammad Sana Ullah Khan Masti Khel,Sardar Muhammad Irfan Dogar,1,Undirected,0,1,0,0,1,1,15,0,
+Muhammad Sana Ullah Khan Masti Khel,Rai Muhammad Murtaza Iqbal,1,Undirected,1,0,1,0,1,1,15,0,
+Muhammad Sana Ullah Khan Masti Khel,Syed Sajid Mehdi,1,Undirected,0,1,0,0,1,1,15,0,
+Malik Karamat Ali,Muhammad Sana Ullah Khan Masti Khel,1,Undirected,1,0,1,0,1,1,15,0,
+Malik Karamat Ali,Muhammad Ibrahim Khan,1,Undirected,1,0,1,0,1,1,15,0,
+Malik Karamat Ali,Riaz Fatyana,1,Undirected,1,0,1,0,1,1,15,0,
+Malik Karamat Ali,Syed Fakhar Imam,1,Undirected,1,0,1,0,1,1,15,0,
+Lal Chand Malhi,Sanjay Perwani,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Malik Karamat Ali,Syed Sajid Mehdi,1,Undirected,0,1,0,0,1,1,15,0,
+Muhammad Ibrahim Khan,Shaheen Naz Saifullah,1,Undirected,1,0,1,0,1,2,15,0,
+Muhammad Ibrahim Khan,Shunila Ruth,1,Undirected,1,0,1,0,1,2,15,0,
+Muhammad Ibrahim Khan,Seema Mohiuddin Jameeli,1,Undirected,0,1,0,0,1,2,15,0,
+Muhammad Ibrahim Khan,Uzma Riaz,1,Undirected,1,0,1,0,1,2,15,0,
+Muhammad Ibrahim Khan,Samina Matloob,1,Undirected,0,1,0,0,1,2,15,0,
+Muhammad Ibrahim Khan,Rahat Aman Ullah Bhatti,1,Undirected,1,0,1,0,1,2,15,0,
+Muhammad Ibrahim Khan,Nooreen Farooq Khan,1,Undirected,1,0,1,0,1,2,15,0,
+Muhammad Ibrahim Khan,Nafeesa Inayatullah Khan Khattak,1,Undirected,1,0,1,0,1,2,15,0,
+Muhammad Ibrahim Khan,Zahra Wadood Fatemi,1,Undirected,0,1,0,0,1,2,15,0,
+Muhammad Ibrahim Khan,Zille Huma,1,Undirected,1,0,1,0,1,2,15,0,
+Muhammad Ibrahim Khan,Raja Khurram Shahzad Nawaz,1,Undirected,1,0,1,0,1,2,15,0,
+Syed Qazim Ali Shah,Syed Qazim Ali Shah,1,Undirected,1,0,1,0,1,2,14,0,
+Ghous Bux Khan Mahar,Ghous Bux Khan Mahar,1,Undirected,1,0,1,0,1,2,14,0,
+Ibadullah,Khalid Hussain Magsi,1,Undirected,1,0,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Ibadullah,Makhdoom Khusro Bakhtiar,1,Undirected,1,0,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Ibadullah,Makhdoom Syed Ali Hassan Gillani,1,Undirected,1,0,1,0,1,1,14,1,"Law, Justice and Human Rights"
+Ibadullah,Qaisar Ahmad Sheikh,1,Undirected,1,0,1,0,1,1,14,1,"Law, Justice and Human Rights"
+Ibadullah,Shahab-ud-Din Khan,1,Undirected,1,0,1,0,1,1,14,1,"Law, Justice and Human Rights"
+Ibadullah,Muhammad Safdar,1,Undirected,1,0,1,0,1,1,14,1,"Law, Justice and Human Rights"
+Umar Ayub Khan,Umar Ayub Khan,1,Undirected,1,0,1,0,1,2,14,0,
+Mehmood Khan Achakzai,Mehmood Khan Achakzai,1,Undirected,1,0,1,0,1,2,14,0,
+Imran Zafar Leghari,Makhdoom Shah Mahmood Qureshi,1,Undirected,0,1,0,0,1,3,14,0,
+Imran Zafar Leghari,Murad Saeed,1,Undirected,0,1,0,0,1,3,14,0,
+Imran Zafar Leghari,Imran Zafar Leghari,1,Undirected,1,0,1,0,1,2,14,0,
+Nawab Muhammad Yousuf Talpur,Nawab Muhammad Yousuf Talpur,1,Undirected,1,0,1,0,1,2,14,0,
+Malik Karamat Ali,Rana Iradat Sharif Khan,1,Undirected,0,1,0,0,1,1,15,0,
+Malik Karamat Ali,Sardar Muhammad Irfan Dogar,1,Undirected,0,1,0,0,1,1,15,0,
+Malik Karamat Ali,Malik Nawab Sher Waseer,1,Undirected,1,0,1,0,1,1,15,0,
+Malik Karamat Ali,Rai Muhammad Murtaza Iqbal,1,Undirected,1,0,1,0,1,1,15,0,
+Haji Imtiaz Ahmed Choudhary,Malik Karamat Ali,1,Undirected,1,0,1,0,1,1,15,0,
+Haji Imtiaz Ahmed Choudhary,Muhammad Ibrahim Khan,1,Undirected,1,0,1,0,1,1,15,0,
+Haji Imtiaz Ahmed Choudhary,Riaz Fatyana,1,Undirected,1,0,1,0,1,1,15,0,
+Khalid Hussain Magsi,Kiran Haider,1,Undirected,1,0,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Khalid Hussain Magsi,Marvi Memon,1,Undirected,1,0,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Khalid Hussain Magsi,Makhdoom Khusro Bakhtiar,1,Undirected,1,0,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Khalid Hussain Magsi,Makhdoom Syed Ali Hassan Gillani,1,Undirected,1,0,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Khalid Hussain Magsi,Qaisar Ahmad Sheikh,1,Undirected,1,0,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Khalid Hussain Magsi,Shahab-ud-Din Khan,1,Undirected,1,0,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Khalid Hussain Magsi,Muhammad Safdar,1,Undirected,1,0,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Makhdoom Syed Ali Hassan Gillani,Marvi Memon,1,Undirected,1,0,1,0,1,1,14,1,"Law, Justice and Human Rights"
+Makhdoom Syed Ali Hassan Gillani,Qaisar Ahmad Sheikh,1,Undirected,1,0,1,0,1,1,14,1,"Law, Justice and Human Rights"
+Makhdoom Syed Ali Hassan Gillani,Shahab-ud-Din Khan,1,Undirected,1,0,1,0,1,1,14,1,"Law, Justice and Human Rights"
+Makhdoom Syed Ali Hassan Gillani,Muhammad Safdar,1,Undirected,1,0,1,0,1,1,14,1,"Law, Justice and Human Rights"
+Ibadullah,Kiran Haider,1,Undirected,1,0,1,0,1,1,14,1,"Law, Justice and Human Rights"
+Ibadullah,Marvi Memon,1,Undirected,1,0,1,0,1,1,14,1,"Law, Justice and Human Rights"
+Khalid Hussain Magsi,Khalid Hussain Magsi,1,Undirected,1,0,1,0,1,1,15,0,
+Muhammad Ibrahim Khan,Usman Khan Tarrakai,1,Undirected,1,0,1,0,1,3,15,0,
+Muhammad Ibrahim Khan,Sher Ali Arbab,1,Undirected,1,0,1,0,1,3,15,0,
+Muhammad Ibrahim Khan,Mujahid Ali,1,Undirected,1,0,1,0,1,3,15,0,
+Muhammad Ibrahim Khan,Zulfiqar Ali Khan,1,Undirected,1,0,1,0,1,3,15,0,
+Muhammad Ibrahim Khan,Syed Javed Hassnain,1,Undirected,0,1,0,0,1,3,15,0,
+Muhammad Ibrahim Khan,Muhammad Sana Ullah Khan Masti Khel,1,Undirected,1,0,1,0,1,1,15,0,
+Muhammad Ibrahim Khan,Riaz Fatyana,1,Undirected,1,0,1,0,1,1,15,0,
+Muhammad Ibrahim Khan,Syed Fakhar Imam,1,Undirected,1,0,1,0,1,1,15,0,
+Muhammad Ibrahim Khan,Rana Iradat Sharif Khan,1,Undirected,0,1,0,0,1,1,15,0,
+Muhammad Ibrahim Khan,Sardar Muhammad Irfan Dogar,1,Undirected,0,1,0,0,1,1,15,0,
+Muhammad Ibrahim Khan,Rai Muhammad Murtaza Iqbal,1,Undirected,1,0,1,0,1,1,15,0,
+Muhammad Ibrahim Khan,Syed Sajid Mehdi,1,Undirected,0,1,0,0,1,1,15,0,
+Haji Imtiaz Ahmed Choudhary,Muhammad Sana Ullah Khan Masti Khel,1,Undirected,1,0,1,0,1,1,15,0,
+Qamar Ud Din,Sahib Zada Muhammad Yaqub,1,Undirected,0,1,0,0,1,5,14,0,
+Qamar Ud Din,Sahibzada Tariq Ullah,1,Undirected,0,1,0,0,1,5,14,0,
+Qamar Ud Din,Sher Akbar Khan,1,Undirected,0,1,0,0,1,5,14,0,
+Qamar Ud Din,Shahida Akhtar Ali,1,Undirected,1,0,1,0,1,3,14,1,"Law, Justice and Human Rights"
+Muhammad Jamal Ud Din,Sahib Zada Muhammad Yaqub,1,Undirected,0,1,0,0,1,5,14,0,
+Muhammad Jamal Ud Din,Sahibzada Tariq Ullah,1,Undirected,0,1,0,0,1,5,14,0,
+Muhammad Jamal Ud Din,Sher Akbar Khan,1,Undirected,0,1,0,0,1,5,14,0,
+Haji Imtiaz Ahmed Choudhary,Malik Nawab Sher Waseer,1,Undirected,1,0,1,0,1,1,15,0,
+Haji Imtiaz Ahmed Choudhary,Makhdoom Syed Sami-ul-Hassan Gillani,1,Undirected,1,0,1,0,1,1,15,0,
+Haji Imtiaz Ahmed Choudhary,Rai Muhammad Murtaza Iqbal,1,Undirected,1,0,1,0,1,1,15,0,
+Haji Imtiaz Ahmed Choudhary,Syed Sajid Mehdi,1,Undirected,0,1,0,0,1,1,15,0,
+Dr. Muhammad Afzal Khan Dhandla,Samina Matloob,1,Undirected,0,1,0,0,1,5,15,0,
+Dr. Muhammad Afzal Khan Dhandla,Zahra Wadood Fatemi,1,Undirected,0,1,0,0,1,5,15,0,
+Dr. Muhammad Afzal Khan Dhandla,Muhammad Sana Ullah Khan Masti Khel,1,Undirected,1,0,1,0,1,1,15,0,
+Dr. Muhammad Afzal Khan Dhandla,Malik Karamat Ali,1,Undirected,1,0,1,0,1,1,15,0,
+Dr. Muhammad Afzal Khan Dhandla,Muhammad Ibrahim Khan,1,Undirected,1,0,1,0,1,1,15,0,
+Dr. Muhammad Afzal Khan Dhandla,Haji Imtiaz Ahmed Choudhary,1,Undirected,1,0,1,0,1,1,15,0,
+Dr. Muhammad Afzal Khan Dhandla,Riaz Fatyana,1,Undirected,1,0,1,0,1,1,15,0,
+Dr. Muhammad Afzal Khan Dhandla,Syed Fakhar Imam,1,Undirected,1,0,1,0,1,1,15,0,
+Dr. Muhammad Afzal Khan Dhandla,Sardar Muhammad Irfan Dogar,1,Undirected,0,1,0,0,1,1,15,0,
+Dr. Muhammad Afzal Khan Dhandla,Malik Nawab Sher Waseer,1,Undirected,1,0,1,0,1,1,15,0,
+Dr. Muhammad Afzal Khan Dhandla,Makhdoom Syed Sami-ul-Hassan Gillani,1,Undirected,1,0,1,0,1,1,15,0,
+Dr. Muhammad Afzal Khan Dhandla,Rai Muhammad Murtaza Iqbal,1,Undirected,1,0,1,0,1,1,15,0,
+Dr. Muhammad Afzal Khan Dhandla,Haider Ali,1,Undirected,1,0,1,0,1,1,15,0,
+Rana Iradat Sharif Khan,Riaz Fatyana,1,Undirected,0,1,0,0,1,1,15,0,
+Rana Iradat Sharif Khan,Syed Fakhar Imam,1,Undirected,0,1,0,0,1,1,15,0,
+Rana Iradat Sharif Khan,Sardar Muhammad Irfan Dogar,1,Undirected,1,0,1,0,1,1,15,0,
+Rana Iradat Sharif Khan,Syed Sajid Mehdi,1,Undirected,1,0,1,0,1,1,15,0,
+Sardar Muhammad Irfan Dogar,Syed Naveed Qamar,1,Undirected,0,1,0,0,1,2,15,0,
+Haji Imtiaz Ahmed Choudhary,Syed Fakhar Imam,1,Undirected,1,0,1,0,1,1,15,0,
+Haji Imtiaz Ahmed Choudhary,Rana Iradat Sharif Khan,1,Undirected,0,1,0,0,1,1,15,0,
+Haji Imtiaz Ahmed Choudhary,Sardar Muhammad Irfan Dogar,1,Undirected,0,1,0,0,1,1,15,0,
+Malik Nawab Sher Waseer,Muhammad Abubakar,1,Undirected,0,1,0,0,1,5,15,0,
+Malik Nawab Sher Waseer,Qadir Khan Mandokhail,1,Undirected,0,1,0,0,1,5,15,0,
+Malik Nawab Sher Waseer,Mrs. Aliya Kamran,1,Undirected,0,1,0,0,1,5,15,0,
+Malik Nawab Sher Waseer,Salah-ud-Din,1,Undirected,0,1,0,0,1,5,15,0,
+Malik Nawab Sher Waseer,Tahira Aurangzeb,1,Undirected,0,1,0,0,1,5,15,0,
+Malik Nawab Sher Waseer,Muhammad Sana Ullah Khan Masti Khel,1,Undirected,1,0,1,0,1,1,15,0,
+Malik Nawab Sher Waseer,Muhammad Ibrahim Khan,1,Undirected,1,0,1,0,1,1,15,0,
+Malik Nawab Sher Waseer,Riaz Fatyana,1,Undirected,1,0,1,0,1,1,15,0,
+Malik Nawab Sher Waseer,Syed Fakhar Imam,1,Undirected,1,0,1,0,1,1,15,0,
+Malik Nawab Sher Waseer,Rana Iradat Sharif Khan,1,Undirected,0,1,0,0,1,1,15,0,
+Malik Nawab Sher Waseer,Sardar Muhammad Irfan Dogar,1,Undirected,0,1,0,0,1,1,15,0,
+Malik Nawab Sher Waseer,Rai Muhammad Murtaza Iqbal,1,Undirected,1,0,1,0,1,1,15,0,
+Malik Nawab Sher Waseer,Syed Sajid Mehdi,1,Undirected,0,1,0,0,1,1,15,0,
+Makhdoom Syed Sami-ul-Hassan Gillani,Sardar Nasrullah Khan Drishak,1,Undirected,1,0,1,0,1,1,15,0,
+Iqbal Muhammad Ali Khan,Naveed Aamir,1,Undirected,0,1,0,0,1,1,15,0,
+Dr. Muhammad Afzal Khan Dhandla,Rana Iradat Sharif Khan,1,Undirected,0,1,0,0,1,1,15,0,
+Makhdoom Syed Sami-ul-Hassan Gillani,Syed Fakhar Imam,1,Undirected,1,0,1,0,1,1,15,0,
+Makhdoom Syed Sami-ul-Hassan Gillani,Rana Iradat Sharif Khan,1,Undirected,0,1,0,0,1,1,15,0,
+Makhdoom Syed Sami-ul-Hassan Gillani,Sardar Muhammad Irfan Dogar,1,Undirected,0,1,0,0,1,1,15,0,
+Makhdoom Syed Sami-ul-Hassan Gillani,Malik Nawab Sher Waseer,1,Undirected,1,0,1,0,1,1,15,0,
+Makhdoom Syed Sami-ul-Hassan Gillani,Rai Muhammad Murtaza Iqbal,1,Undirected,1,0,1,0,1,1,15,0,
+Makhdoom Syed Sami-ul-Hassan Gillani,Syed Sajid Mehdi,1,Undirected,0,1,0,0,1,1,15,0,
+Rai Muhammad Murtaza Iqbal,Uzma Riaz,1,Undirected,1,0,1,0,1,2,15,0,
+Rai Muhammad Murtaza Iqbal,Sajid Khan,1,Undirected,1,0,1,0,1,2,15,0,
+Rai Muhammad Murtaza Iqbal,Riaz Fatyana,1,Undirected,1,0,1,0,1,1,15,0,
+Iqbal Muhammad Ali Khan,Khawaja Sohail Mansoor,1,Undirected,1,0,1,0,1,1,14,1,"Law, Justice and Human Rights"
+Sardar Muhammad Irfan Dogar,Syed Fakhar Imam,1,Undirected,0,1,0,0,1,1,15,0,
+Sardar Muhammad Irfan Dogar,Syed Sajid Mehdi,1,Undirected,1,0,1,0,1,1,15,0,
+Ch. Muhammad Ashraf,Muhammad Ibrahim Khan,1,Undirected,0,1,0,0,1,1,15,0,
+Ch. Muhammad Ashraf,Haji Imtiaz Ahmed Choudhary,1,Undirected,0,1,0,0,1,1,15,0,
+Ch. Muhammad Ashraf,Riaz Fatyana,1,Undirected,0,1,0,0,1,1,15,0,
+Ch. Muhammad Ashraf,Dr. Muhammad Afzal Khan Dhandla,1,Undirected,0,1,0,0,1,1,15,0,
+Ch. Muhammad Ashraf,Syed Fakhar Imam,1,Undirected,0,1,0,0,1,1,15,0,
+Ch. Muhammad Ashraf,Rana Iradat Sharif Khan,1,Undirected,1,0,1,0,1,1,15,0,
+Ch. Muhammad Ashraf,Sardar Muhammad Irfan Dogar,1,Undirected,1,0,1,0,1,1,15,0,
+Ch. Muhammad Ashraf,Malik Nawab Sher Waseer,1,Undirected,0,1,0,0,1,1,15,0,
+Ch. Muhammad Ashraf,Makhdoom Syed Sami-ul-Hassan Gillani,1,Undirected,0,1,0,0,1,1,15,0,
+Sajid Ahmed,Tahira Asif,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Makhdoom Syed Sami-ul-Hassan Gillani,Zahoor Hussain Qureshi,1,Undirected,1,0,1,0,1,1,15,0,
+Makhdoom Syed Sami-ul-Hassan Gillani,Muhammad Sana Ullah Khan Masti Khel,1,Undirected,1,0,1,0,1,1,15,0,
+Makhdoom Syed Sami-ul-Hassan Gillani,Malik Karamat Ali,1,Undirected,1,0,1,0,1,1,15,0,
+Makhdoom Syed Sami-ul-Hassan Gillani,Muhammad Ibrahim Khan,1,Undirected,1,0,1,0,1,1,15,0,
+Makhdoom Syed Sami-ul-Hassan Gillani,Riaz Fatyana,1,Undirected,1,0,1,0,1,1,15,0,
+Dr. Muhammad Farooq Sattar,Muhammad Rehan Hashmi,1,Undirected,1,0,1,0,1,1,14,1,"Law, Justice and Human Rights"
+Dr. Muhammad Farooq Sattar,Syed Amin-ul-Haque,1,Undirected,1,0,1,0,1,1,16,0,
+Dr. Muhammad Farooq Sattar,Syed Hafeezuddin,1,Undirected,1,0,1,0,1,1,16,0,
+Dr. Muhammad Farooq Sattar,Syed Mustafa Kamal,1,Undirected,1,0,1,0,1,1,16,0,
+Dr. Muhammad Farooq Sattar,Muhammad Javed Hanif Khan,1,Undirected,1,0,1,0,1,1,16,0,
+Rai Muhammad Murtaza Iqbal,Syed Fakhar Imam,1,Undirected,1,0,1,0,1,1,15,0,
+Rai Muhammad Murtaza Iqbal,Rana Iradat Sharif Khan,1,Undirected,0,1,0,0,1,1,15,0,
+Rai Muhammad Murtaza Iqbal,Sardar Muhammad Irfan Dogar,1,Undirected,0,1,0,0,1,1,15,0,
+Rai Muhammad Murtaza Iqbal,Syed Sajid Mehdi,1,Undirected,0,1,0,0,1,1,15,0,
+Ch. Muhammad Ashraf,Muhammad Sana Ullah Khan Masti Khel,1,Undirected,0,1,0,0,1,1,15,0,
+Ch. Muhammad Ashraf,Malik Karamat Ali,1,Undirected,0,1,0,0,1,1,15,0,
+Ch. Muhammad Ashraf,Rai Muhammad Murtaza Iqbal,1,Undirected,0,1,0,0,1,1,15,0,
+Ch. Muhammad Ashraf,Haider Ali,1,Undirected,0,1,0,0,1,1,15,0,
+Ch. Muhammad Ashraf,Syed Sajid Mehdi,1,Undirected,1,0,1,0,1,1,15,0,
+Haider Ali,Imran Khan,1,Undirected,1,0,1,0,1,2,15,0,
+Haider Ali,Usman Khan Tarrakai,1,Undirected,1,0,1,0,1,3,15,0,
+Haider Ali,Sher Ali Arbab,1,Undirected,1,0,1,0,1,3,15,0,
+Haider Ali,Mujahid Ali,1,Undirected,1,0,1,0,1,3,15,0,
+Haider Ali,Zulfiqar Ali Khan,1,Undirected,1,0,1,0,1,3,15,0,
+Haider Ali,Syed Javed Hassnain,1,Undirected,0,1,0,0,1,3,15,0,
+Haider Ali,Moulana Abdul Akbar Chitrali,1,Undirected,0,1,0,0,1,3,15,0,
+Haider Ali,Muhammad Sana Ullah Khan Masti Khel,1,Undirected,1,0,1,0,1,1,15,0,
+Haider Ali,Malik Karamat Ali,1,Undirected,1,0,1,0,1,1,15,0,
+Haider Ali,Riaz Fatyana,1,Undirected,1,0,1,0,1,1,15,0,
+Haider Ali,Syed Fakhar Imam,1,Undirected,1,0,1,0,1,1,15,0,
+Haider Ali,Rana Iradat Sharif Khan,1,Undirected,0,1,0,0,1,1,15,0,
+Haider Ali,Sardar Muhammad Irfan Dogar,1,Undirected,0,1,0,0,1,1,15,0,
+Haider Ali,Malik Nawab Sher Waseer,1,Undirected,1,0,1,0,1,1,15,0,
+Haider Ali,Makhdoom Syed Sami-ul-Hassan Gillani,1,Undirected,1,0,1,0,1,1,15,0,
+Haider Ali,Rai Muhammad Murtaza Iqbal,1,Undirected,1,0,1,0,1,1,15,0,
+Haider Ali,Syed Sajid Mehdi,1,Undirected,0,1,0,0,1,1,15,0,
+Ch. Iftikhar Nazir,Muhammad Sana Ullah Khan Masti Khel,1,Undirected,0,1,0,0,1,1,15,0,
+Ch. Iftikhar Nazir,Malik Karamat Ali,1,Undirected,0,1,0,0,1,1,15,0,
+Ch. Iftikhar Nazir,Muhammad Ibrahim Khan,1,Undirected,0,1,0,0,1,1,15,0,
+Ch. Iftikhar Nazir,Haji Imtiaz Ahmed Choudhary,1,Undirected,0,1,0,0,1,1,15,0,
+Ch. Iftikhar Nazir,Riaz Fatyana,1,Undirected,0,1,0,0,1,1,15,0,
+Ch. Iftikhar Nazir,Dr. Muhammad Afzal Khan Dhandla,1,Undirected,0,1,0,0,1,1,15,0,
+Salah-ud-Din,Tahira Aurangzeb,1,Undirected,0,1,0,0,1,5,15,0,
+Ch. Iftikhar Nazir,Syed Fakhar Imam,1,Undirected,0,1,0,0,1,1,15,0,
+Ch. Iftikhar Nazir,Rana Iradat Sharif Khan,1,Undirected,1,0,1,0,1,1,15,0,
+Ch. Iftikhar Nazir,Sardar Muhammad Irfan Dogar,1,Undirected,1,0,1,0,1,1,15,0,
+Ch. Iftikhar Nazir,Malik Nawab Sher Waseer,1,Undirected,0,1,0,0,1,1,15,0,
+Ch. Iftikhar Nazir,Makhdoom Syed Sami-ul-Hassan Gillani,1,Undirected,0,1,0,0,1,1,15,0,
+Ch. Iftikhar Nazir,Rai Muhammad Murtaza Iqbal,1,Undirected,0,1,0,0,1,1,15,0,
+Ch. Iftikhar Nazir,Ch. Muhammad Ashraf,1,Undirected,1,0,1,0,1,1,15,0,
+Ch. Iftikhar Nazir,Haider Ali,1,Undirected,0,1,0,0,1,1,15,0,
+Ch. Iftikhar Nazir,Syed Sajid Mehdi,1,Undirected,1,0,1,0,1,1,15,0,
+Azam Nazeer Tarar,Shahadat Awan,1,Undirected,0,1,0,1,0,5,15,0,
+Azam Nazeer Tarar,Khawaja Muhammad Asif,1,Undirected,1,0,1,1,0,1,16,0,
+Uzma Riaz,Zahra Wadood Fatemi,1,Undirected,0,1,0,0,1,2,15,0,
+Engineer Sabir Hussain,Naveed Aamir,1,Undirected,0,1,0,0,1,1,15,0,
+Haider Ali,Haji Imtiaz Ahmed Choudhary,1,Undirected,1,0,1,0,1,1,15,0,
+Mrs. Aliya Kamran,Qamar Ud Din,1,Undirected,1,0,0,0,1,3,14,1,"Law, Justice and Human Rights"
+Mrs. Aliya Kamran,Reeta Ishwar,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Bhawan Das,Syed Asif Hasnain,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Naveed Aamir,Syed Naveed Qamar,1,Undirected,1,0,1,0,1,4,15,0,
+Naveed Aamir,Usama Qadri,1,Undirected,0,1,0,0,1,1,15,0,
+Naveed Aamir,Salah-ud-Din,1,Undirected,0,1,0,0,1,1,15,0,
+Naveed Aamir,Syed Amin ul Haque,1,Undirected,0,1,0,0,1,1,15,0,
+Bhawan Das,Bhawan Das,1,Undirected,1,0,1,0,1,5,14,0,
+Bhawan Das,Sanjay Perwani,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Bhawan Das,Ramesh Lal,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Bhawan Das,Dr. Darshan,1,Undirected,1,0,1,0,1,1,14,1,"Law, Justice and Human Rights"
+Mrs. Aliya Kamran,Sahibzada Tariq Ullah,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Shaza Fatima Khawaja,Syed Naveed Qamar,1,Undirected,0,1,0,0,1,2,15,0,
+Shahnaz Saleem Malik,Shahnaz Saleem Malik,1,Undirected,1,0,1,0,1,5,14,0,
+Dr. Hafeez Ur Rehman Khan,Dr. Hafeez Ur Rehman Khan,1,Undirected,1,0,1,0,1,5,14,0,
+Aslam Bodla,Aslam Bodla,1,Undirected,1,0,1,0,1,5,14,0,
+Mrs. Aliya Kamran,Zahid Akram Durani,1,Undirected,1,0,1,0,1,1,15,0,
+Mrs. Aliya Kamran,Munir Khan Orakzai,1,Undirected,1,0,1,0,1,1,15,0,
+Mrs. Aliya Kamran,Syed Mehmood Shah,1,Undirected,1,0,1,0,1,1,15,0,
+Mrs. Aliya Kamran,Muhammad Abubakar,1,Undirected,0,1,0,0,1,5,15,0,
+Mrs. Aliya Kamran,Qadir Khan Mandokhail,1,Undirected,0,1,0,0,1,5,15,0,
+Mrs. Aliya Kamran,Salah-ud-Din,1,Undirected,0,1,0,0,1,5,15,0,
+Mrs. Aliya Kamran,Tahira Aurangzeb,1,Undirected,0,1,0,0,1,5,15,0,
+Khurram Dastgir Khan,Muhammad Azam Khan Swati,1,Undirected,0,1,0,0,1,2,15,0,
+Khawaja Muhammad Asif,Muhammad Azam Khan Swati,1,Undirected,0,1,0,0,1,2,15,0,
+Khawaja Saad Rafique,Muhammad Azam Khan Swati,1,Undirected,0,1,0,0,1,2,15,0,
+Marriyum Aurangzeb,Muhammad Azam Khan Swati,1,Undirected,0,1,0,0,1,2,15,0,
+Sardar Ayaz Sadiq,Zahid Akram Durani,1,Undirected,0,1,0,0,1,3,15,0,
+Sardar Ayaz Sadiq,Syed Mehmood Shah,1,Undirected,0,1,0,0,1,3,15,0,
+Sardar Ayaz Sadiq,Usman Khan Tarrakai,1,Undirected,0,1,0,0,1,3,15,0,
+Sardar Ayaz Sadiq,Sher Akbar Khan,1,Undirected,0,1,0,0,1,3,15,0,
+Mrs. Aliya Kamran,Phyllis Azeem,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Mrs. Aliya Kamran,Romina Khurshid Alam,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Mrs. Aliya Kamran,Sardar Kamal Khan Bangulzai,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Rana Muhammad Qasim Noon,Shandana Gulzar Khan,1,Undirected,1,0,1,0,1,2,15,0,
+Rana Muhammad Qasim Noon,Shahid Ahmad,1,Undirected,1,0,1,0,1,2,15,0,
+Rana Muhammad Qasim Noon,Zille Huma,1,Undirected,1,0,1,0,1,2,15,0,
+Ijaz Ahmad Shah,Shahid Khaqan Abbasi,1,Undirected,0,1,0,0,1,2,15,0,
+Ijaz Ahmad Shah,Khawaja Saad Rafique,1,Undirected,0,1,0,0,1,2,15,0,
+Ijaz Ahmad Shah,Sardar Ayaz Sadiq,1,Undirected,0,1,0,0,1,2,15,0,
+Ijaz Ahmad Shah,Shaza Fatima Khawaja,1,Undirected,0,1,0,0,1,2,15,0,
+Ijaz Ahmad Shah,Marriyum Aurangzeb,1,Undirected,0,1,0,0,1,2,15,0,
+Ijaz Ahmad Shah,Khurram Dastgir Khan,1,Undirected,0,1,0,0,1,2,15,0,
+Ijaz Ahmad Shah,Khawaja Muhammad Asif,1,Undirected,0,1,0,0,1,2,15,0,
+Ijaz Ahmad Shah,Rana Sana Ullah Khan,1,Undirected,0,1,0,0,1,2,15,0,
+Ijaz Ahmad Shah,Mohsin Shah Nawaz Ranjha,1,Undirected,0,1,0,0,1,2,15,0,
+Aasiya Nasir,Malik Muhammad Aamir Dogar,1,Undirected,0,1,0,0,1,4,14,0,
+Aasiya Nasir,Qamar Ud Din,1,Undirected,1,0,1,0,1,3,14,1,"Law, Justice and Human Rights"
+Mohsin Shah Nawaz Ranjha,Muhammad Azam Khan Swati,1,Undirected,0,1,0,0,1,2,15,0,
+Naeema Kishwar Khan,Romina Khurshid Alam,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Naeema Kishwar Khan,Sardar Kamal Khan Bangulzai,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Aisha Syed,Mussarat Ahmadzeb,1,Undirected,0,1,0,0,1,4,14,0,
+Aasiya Nasir,Muhammad Jamal Ud Din,1,Undirected,1,0,0,0,1,3,14,1,"Law, Justice and Human Rights"
+Aasiya Nasir,Khalil George,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Aasiya Nasir,Tariq Christopher Qaiser,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Aasiya Nasir,Dr. Ramesh Kumar Vankwani,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Aisha Syed,Muhammad Gohar Shah,1,Undirected,0,1,0,0,1,5,14,0,
+Aisha Syed,Qari Muhammad Yousaf,1,Undirected,0,1,0,0,1,5,14,0,
+Aisha Syed,Muhammad Jamal Ud Din,1,Undirected,0,1,0,0,1,5,14,0,
+Aasiya Nasir,Sardar Kamal Khan Bangulzai,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Aasiya Nasir,Mohammad Khan Sherani,1,Undirected,1,0,1,0,1,1,14,1,"Law, Justice and Human Rights"
+Aasiya Nasir,Sahibzada Tariq Ullah,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Aasiya Nasir,Sher Akbar Khan,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Aisha Syed,Qamar Ud Din,1,Undirected,0,1,0,0,1,5,14,0,
+Aisha Syed,Naeema Kishwar Khan,1,Undirected,0,1,0,0,1,5,14,0,
+Ali Khan Jadoon,Faheem Khan,1,Undirected,1,0,1,0,1,2,15,0,
+Ali Khan Jadoon,Asma Hadeed,1,Undirected,1,0,1,0,1,2,15,0,
+Ali Khan Jadoon,Mehnaz Akber Aziz,1,Undirected,0,1,0,0,1,2,15,0,
+Aisha Syed,Engineer Mohammad Usman Badaini,1,Undirected,0,1,0,0,1,5,14,0,
+Ali Khan Jadoon,Raja Khurram Shahzad Nawaz,1,Undirected,1,0,1,0,1,2,15,0,
+Aasiya Nasir,Lal Chand Malhi,1,Undirected,0,1,0,0,1,3,14,1,Interior and Narcotics Control
+Aasiya Nasir,Isphanyar M. Bhandara,1,Undirected,0,1,0,0,1,3,14,1,Interior and Narcotics Control
+Aasiya Nasir,Bhawan Das,1,Undirected,0,1,0,0,1,3,14,1,Interior and Narcotics Control
+Aasiya Nasir,Surriya Asghar,1,Undirected,0,1,0,0,1,4,14,0,
+Naeema Kishwar Khan,Zahra Wadood Fatemi,1,Undirected,0,1,0,0,1,4,14,0,
+Naeema Kishwar Khan,Sahib Zada Muhammad Yaqub,1,Undirected,0,1,0,0,1,5,14,0,
+Munawara Bibi Baloch,Munawara Bibi Baloch,1,Undirected,1,0,1,0,1,1,15,0,
+Syed Khursheed Ahmed Shah,Syed Khursheed Ahmed Shah,1,Undirected,1,0,1,0,1,1,16,0,
+Ch. Muhammad Hamid Hameed,Maj. Retd. Tahir Iqbal,1,Undirected,1,0,1,0,1,1,14,1,Religious Affairs and Inter-faith Harmony
+Naeema Kishwar Khan,Reeta Ishwar,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Ch. Muhammad Hamid Hameed,Malik Shakir Bashir Awan,1,Undirected,1,0,1,0,1,1,14,1,Religious Affairs and Inter-faith Harmony
+Ch. Muhammad Hamid Hameed,Nighat Parveen,1,Undirected,1,0,1,0,1,1,14,1,Religious Affairs and Inter-faith Harmony
+Sahibzada Sibghatullah,Usama Ahmed Mela,1,Undirected,1,0,1,0,1,1,16,0,
+Sahibzada Sibghatullah,Sahibzada Sibghatullah,1,Undirected,1,0,1,0,1,1,16,0,
+Ehsanullah Reki,Mohammad Aslam Bhootani,1,Undirected,0,1,0,0,1,4,15,0,
+Naeema Kishwar Khan,Surriya Asghar,1,Undirected,0,1,0,0,1,4,14,0,
+Shahida Akhtar Ali,Zahid Akram Durani,1,Undirected,1,0,0,0,1,1,15,0,
+Shahida Akhtar Ali,Syed Mehmood Shah,1,Undirected,1,0,0,0,1,1,15,0,
+Shahid Ahmad,Shandana Gulzar Khan,1,Undirected,1,0,1,0,1,2,15,0,
+Shahida Akhtar Ali,Surriya Asghar,1,Undirected,0,1,0,0,1,4,14,0,
+Ali Muhammad Khan,Muhammad Azam Khan Swati,1,Undirected,1,0,1,1,0,2,15,0,
+Ali Khan Jadoon,Samina Matloob,1,Undirected,0,1,0,0,1,2,15,0,
+Ali Khan Jadoon,Rahat Aman Ullah Bhatti,1,Undirected,1,0,1,0,1,2,15,0,
+Ali Khan Jadoon,Nooreen Farooq Khan,1,Undirected,1,0,1,0,1,2,15,0,
+Ali Khan Jadoon,Atta Ullah,1,Undirected,1,0,1,0,1,2,15,0,
+Ali Khan Jadoon,Zahra Wadood Fatemi,1,Undirected,0,1,0,0,1,2,15,0,
+Ali Khan Jadoon,Muhammad Ibrahim Khan,1,Undirected,1,0,1,0,1,2,15,0,
+Abdul Rehman Khan Kanju,Rana Sana Ullah Khan,1,Undirected,1,0,1,0,1,1,15,0,
+Shahid Ahmad,Zille Huma,1,Undirected,1,0,1,0,1,2,15,0,
+Abdul Rehman Khan Kanju,Mian Najibuddin Awaisi,1,Undirected,1,0,1,0,1,1,15,0,
+Sardar Nasrullah Khan Drishak,Zahoor Hussain Qureshi,1,Undirected,1,0,1,0,1,1,15,0,
+Dr. Azra Fazal Pecheho,Khwaja Ghulam Rasool Koreja,1,Undirected,1,0,1,0,1,1,14,1,Cabinet Secretariat
+Malik Shakir Bashir Awan,Nighat Parveen,1,Undirected,1,0,1,0,1,1,14,1,Religious Affairs and Inter-faith Harmony
+Abdul Majeed Khan Khanan Khel,Nighat Parveen,1,Undirected,1,0,1,0,1,1,14,1,Religious Affairs and Inter-faith Harmony
+Amjid Ali Khan,Imran Khan,1,Undirected,1,0,1,0,1,2,15,0,
+Prince Muhammad Nawaz Allai,Prince Muhammad Nawaz Allai,1,Undirected,1,0,1,0,1,1,15,0,
+Ali Khan Jadoon,Rai Muhammad Murtaza Iqbal,1,Undirected,1,0,1,0,1,2,15,0,
+Ali Khan Jadoon,Ali Nawaz Awan,1,Undirected,1,0,1,0,1,2,15,0,
+Ali Khan Jadoon,Shaheen Naz Saifullah,1,Undirected,1,0,1,0,1,2,15,0,
+Ali Khan Jadoon,Shunila Ruth,1,Undirected,1,0,1,0,1,2,15,0,
+Ali Khan Jadoon,Dr. Seemin Abdul Rehman Bokhari,1,Undirected,1,0,1,0,1,2,15,0,
+Ali Khan Jadoon,Seema Mohiuddin Jameeli,1,Undirected,0,1,0,0,1,2,15,0,
+Abdul Majeed Khan Khanan Khel,Malik Shakir Bashir Awan,1,Undirected,1,0,1,0,1,1,14,1,Religious Affairs and Inter-faith Harmony
+Afreen Khan,Afreen Khan,1,Undirected,1,0,1,0,1,1,15,0,
+Abdul Majeed Khan Khanan Khel,Ch. Muhammad Hamid Hameed,1,Undirected,1,0,1,0,1,1,14,1,Religious Affairs and Inter-faith Harmony
+Abdul Majeed Khan Khanan Khel,Maj. Retd. Tahir Iqbal,1,Undirected,1,0,1,0,1,1,14,1,Religious Affairs and Inter-faith Harmony
+Muhammad Mobeen Arif,Sahibzada Sibghatullah,1,Undirected,1,0,1,0,1,1,16,0,
+Farrukh Khan,Shakila Khalid Chaudhary,1,Undirected,0,1,0,0,1,5,15,0,
+Amjid Ali Khan,Shazia Marri,1,Undirected,0,1,0,0,1,3,15,0,
+Farrukh Khan,Mrs. Shahida Rehmani,1,Undirected,0,1,0,0,1,5,15,0,
+Amjid Ali Khan,Mehnaz Akber Aziz,1,Undirected,0,1,0,0,1,2,15,0,
+Amjid Ali Khan,Raja Khurram Shahzad Nawaz,1,Undirected,1,0,1,0,1,2,15,0,
+Abdul Qadir Patel,Amjid Ali Khan,1,Undirected,0,1,0,0,1,3,15,0,
+Abdul Qadir Patel,Naveed Aamir,1,Undirected,1,0,1,0,1,5,15,0,
+Abdul Qadir Patel,Syed Javed Hassnain,1,Undirected,0,1,0,0,1,5,15,0,
+Khalida Mansoor,Khalida Mansoor,1,Undirected,1,0,1,0,1,2,14,0,
+Aaisha Gulalai,Murad Saeed,1,Undirected,1,0,1,0,1,3,14,0,
+Aaisha Gulalai,Dawar Khan Kundi,1,Undirected,1,0,1,0,1,3,14,0,
+Aaisha Gulalai,Imran Khattak,1,Undirected,1,0,1,0,1,3,14,0,
+Aaisha Gulalai,Aaisha Gulalai,1,Undirected,1,0,1,0,1,2,14,0,
+Sharmila Sahiba Faruqui Hashaam,Syeda Nosheen Iftikhar,1,Undirected,0,1,0,0,1,1,16,0,
+Ghulam Sarwar Khan,Nafeesa Inayatullah Khan Khattak,1,Undirected,1,0,1,0,1,1,14,1,Parliamentary Affairs
+Muhammad Sajjad,Muhammad Sajjad,1,Undirected,1,0,1,0,1,1,15,0,
+Ghulam Sarwar Khan,Munaza Hassan,1,Undirected,1,0,1,0,1,1,14,1,Parliamentary Affairs
+Ghulam Sarwar Khan,Imran Khattak,1,Undirected,1,0,1,0,1,1,14,1,Parliamentary Affairs
+Afreen Khan,Zahid Akram Durani,1,Undirected,1,0,1,0,1,1,15,0,
+Afreen Khan,Munir Khan Orakzai,1,Undirected,1,0,1,0,1,1,15,0,
+Afreen Khan,Syed Mehmood Shah,1,Undirected,1,0,1,0,1,1,15,0,
+Afreen Khan,Salah Ud Din Ayubi,1,Undirected,1,0,1,0,1,1,15,0,
+Afreen Khan,Kamal Uddin,1,Undirected,1,0,1,0,1,1,15,0,
+Afreen Khan,Mrs. Aliya Kamran,1,Undirected,1,0,1,0,1,1,15,0,
+Afreen Khan,Shahida Akhtar Ali,1,Undirected,1,0,0,0,1,1,15,0,
+Afreen Khan,Maulvi Asmatullah,1,Undirected,1,0,1,0,1,1,15,0,
+Afreen Khan,Sher Akbar Khan,1,Undirected,0,1,0,0,1,1,15,0,
+Afreen Khan,Moulana Abdul Akbar Chitrali,1,Undirected,1,0,1,0,1,1,15,0,
+Faheem Khan,Uzma Riaz,1,Undirected,1,0,1,0,1,2,15,0,
+Faheem Khan,Samina Matloob,1,Undirected,0,1,0,0,1,2,15,0,
+Faheem Khan,Rahat Aman Ullah Bhatti,1,Undirected,1,0,1,0,1,2,15,0,
+Faheem Khan,Nooreen Farooq Khan,1,Undirected,1,0,1,0,1,2,15,0,
+Dr. Arif Alvi,Qaisar Ahmad Sheikh,1,Undirected,0,1,0,0,1,3,14,0,
+Faheem Khan,Zahra Wadood Fatemi,1,Undirected,0,1,0,0,1,2,15,0,
+Faheem Khan,Muhammad Ibrahim Khan,1,Undirected,1,0,1,0,1,2,15,0,
+Faheem Khan,Mehnaz Akber Aziz,1,Undirected,0,1,0,0,1,2,15,0,
+Makhdoom Shah Mahmood Qureshi,Murad Saeed,1,Undirected,1,0,1,0,1,3,14,0,
+Makhdoom Shah Mahmood Qureshi,Qaisar Jamal,1,Undirected,1,0,1,0,1,3,14,0,
+Makhdoom Shah Mahmood Qureshi,Qaisar Ahmad Sheikh,1,Undirected,0,1,0,0,1,3,14,0,
+Salah Ud Din Ayubi,Usama Qadri,1,Undirected,0,1,0,0,1,3,15,0,
+Salah Ud Din Ayubi,Sardar Ayaz Sadiq,1,Undirected,0,1,0,0,1,3,15,0,
+Junaid Akbar,Qaisar Jamal,1,Undirected,1,0,1,0,1,3,14,0,
+Junaid Akbar,Qaisar Ahmad Sheikh,1,Undirected,0,1,0,0,1,3,14,0,
+Aaisha Gulalai,Imran Zafar Leghari,1,Undirected,0,1,0,0,1,3,14,0,
+Mrs. Shahida Rehmani,Shakila Khalid Chaudhary,1,Undirected,0,1,0,0,1,5,15,0,
+Farrukh Khan,Farrukh Khan,1,Undirected,1,0,1,0,1,4,15,0,
+Mahesh Kumar Malani,Mahesh Kumar Malani,1,Undirected,1,0,1,0,1,1,15,0,
+Asad Umar,Mian Najibuddin Awaisi,1,Undirected,0,1,0,0,1,2,15,0,
+Shunila Ruth,Uzma Riaz,1,Undirected,1,0,1,0,1,2,15,0,
+Shunila Ruth,Zahra Wadood Fatemi,1,Undirected,0,1,0,0,1,2,15,0,
+Shunila Ruth,Zille Huma,1,Undirected,1,0,1,0,1,2,15,0,
+Asad Umar,Dr. Muhammad Azhar Khan Jadoon,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Faheem Khan,Shandana Gulzar Khan,1,Undirected,1,0,1,0,1,2,15,0,
+Faheem Khan,Shahid Ahmad,1,Undirected,1,0,1,0,1,2,15,0,
+Faheem Khan,Fauzia Behram,1,Undirected,1,0,1,0,1,2,15,0,
+Faheem Khan,Imran Khattak,1,Undirected,1,0,1,0,1,2,15,0,
+Faheem Khan,Rana Muhammad Qasim Noon,1,Undirected,1,0,1,0,1,2,15,0,
+Faheem Khan,Shaheen Naz Saifullah,1,Undirected,1,0,1,0,1,2,15,0,
+Faheem Khan,Shunila Ruth,1,Undirected,1,0,1,0,1,2,15,0,
+Faheem Khan,Seema Mohiuddin Jameeli,1,Undirected,0,1,0,0,1,2,15,0,
+Kesoo Mal Kheeal Das,Zulfiqar Ahmad,1,Undirected,1,0,1,0,1,5,15,0,
+Kesoo Mal Kheeal Das,Syed Javed Hassnain,1,Undirected,1,0,1,0,1,5,15,0,
+Asad Umar,Siraj Muhammad Khan,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Sufyan Yousuf,Tahira Asif,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Naveed Amir,Nawabzada Iftikhar Ahmed Khan Babar,1,Undirected,1,0,1,0,1,1,16,0,
+Moulana Abdul Akbar Chitrali,Nafeesa Inayatullah Khan Khattak,1,Undirected,0,1,0,0,1,3,15,0,
+Moulana Abdul Akbar Chitrali,Munir Khan Orakzai,1,Undirected,1,0,1,0,1,1,15,0,
+Moulana Abdul Akbar Chitrali,Sardar Ayaz Sadiq,1,Undirected,0,1,0,0,1,3,15,0,
+Naveed Amir,Sahibzada Sibghatullah,1,Undirected,0,1,0,0,1,1,16,0,
+Naveed Amir,Naveed Amir,1,Undirected,1,0,1,0,1,1,16,0,
+Naveed Amir,Syed Ali Qasim Gillani,1,Undirected,1,0,1,0,1,1,16,0,
+Naveed Amir,Shazia Sobia Aslam Soomro,1,Undirected,1,0,1,0,1,1,16,0,
+Moulana Abdul Akbar Chitrali,Sher Ali Arbab,1,Undirected,0,1,0,0,1,3,15,0,
+Moulana Abdul Akbar Chitrali,Muhammad Ibrahim Khan,1,Undirected,0,1,0,0,1,3,15,0,
+Kesoo Mal Kheal Das,Kesoo Mal Kheal Das,1,Undirected,1,0,1,0,1,1,16,0,
+Moulana Abdul Akbar Chitrali,Zulfiqar Ali Khan,1,Undirected,0,1,0,0,1,3,15,0,
+Syed Iftikhar Ul Hassan,Syed Naveed Qamar,1,Undirected,0,1,0,0,1,2,15,0,
+Rana Mubashir lqbal,Syed Naveed Qamar,1,Undirected,0,1,0,0,1,2,15,0,
+Syed Javed Hassnain,Zulfiqar Ahmad,1,Undirected,1,0,1,0,1,5,15,0,
+Syed Javed Hassnain,Usman Khan Tarrakai,1,Undirected,0,1,0,0,1,3,15,0,
+Syed Javed Hassnain,Zulfiqar Ali Khan,1,Undirected,0,1,0,0,1,3,15,0,
+Asad Umar,Qaisar Ahmad Sheikh,1,Undirected,0,1,0,0,1,3,14,0,
+Syed Fakhar Imam,Syed Sajid Mehdi,1,Undirected,0,1,0,0,1,1,15,0,
+Qadir Khan Mandokhail,Salah-ud-Din,1,Undirected,0,1,0,0,1,5,15,0,
+Riaz Fatyana,Romina Khurshid Alam,1,Undirected,0,1,0,0,1,3,15,0,
+Riaz Fatyana,Sadaqat Ali Khan,1,Undirected,1,0,1,0,1,2,15,0,
+Riaz Fatyana,Sher Ali Arbab,1,Undirected,1,0,1,0,1,4,15,0,
+Riaz Fatyana,Sher Akbar Khan,1,Undirected,1,0,0,0,1,4,15,0,
+Riaz Fatyana,Sardar Muhammad Irfan Dogar,1,Undirected,0,1,0,0,1,1,15,0,
+Riaz Fatyana,Syed Sajid Mehdi,1,Undirected,0,1,0,0,1,1,15,0,
+Mohsin Javed,Sher Akbar Khan,1,Undirected,0,1,0,0,1,3,15,0,
+Mohsin Javed,Munir Khan Orakzai,1,Undirected,0,1,0,0,1,1,15,0,
+Nusrat Wahid,Rai Muhammad Murtaza Iqbal,1,Undirected,1,0,1,0,1,2,15,0,
+Qadir Khan Mandokhail,Tahira Aurangzeb,1,Undirected,0,1,0,0,1,5,15,0,
+Dr. Shireen Mehrunnisa Mazari,Qaisar Ahmad Sheikh,1,Undirected,0,1,0,0,1,3,14,0,
+Dr. Arif Alvi,Nafeesa Inayatullah Khan Khattak,1,Undirected,1,0,1,0,1,1,14,1,Parliamentary Affairs
+James Iqbal,Kesoo Mal Kheeal Das,1,Undirected,0,1,0,0,1,5,15,0,
+James Iqbal,Zulfiqar Ahmad,1,Undirected,0,1,0,0,1,5,15,0,
+James Iqbal,Syed Javed Hassnain,1,Undirected,0,1,0,0,1,5,15,0,
+James Iqbal,Syed Imran Ahmad Shah,1,Undirected,0,1,0,0,1,5,15,0,
+James Iqbal,Shakila Khalid Chaudhary,1,Undirected,0,1,0,0,1,5,15,0,
+James Iqbal,Samina Matloob,1,Undirected,0,1,0,0,1,5,15,0,
+James Iqbal,Sher Ali Arbab,1,Undirected,0,1,0,0,1,4,15,0,
+James Iqbal,Naz Baloch,1,Undirected,0,1,0,0,1,4,15,0,
+James Iqbal,Mehnaz Akber Aziz,1,Undirected,0,1,0,0,1,4,15,0,
+James Iqbal,Riaz Fatyana,1,Undirected,0,1,0,0,1,4,15,0,
+James Iqbal,Sher Akbar Khan,1,Undirected,0,1,0,0,1,4,15,0,
+Dr. Arif Alvi,Ghulam Sarwar Khan,1,Undirected,1,0,1,0,1,1,14,1,Parliamentary Affairs
+Dr. Arif Alvi,Imran Zafar Leghari,1,Undirected,0,1,0,0,1,3,14,0,
+Dr. Arif Alvi,Murad Saeed,1,Undirected,1,0,1,0,1,3,14,0,
+Mian Najibuddin Awaisi,Raja Khurram Shahzad Nawaz,1,Undirected,0,1,0,0,1,2,15,0,
+Asad Umar,Riaz Fatyana,1,Undirected,1,0,1,0,1,2,15,0,
+Asad Umar,Syed Fakhar Imam,1,Undirected,1,0,1,0,1,2,15,0,
+Mian Najibuddin Awaisi,Rana Sana Ullah Khan,1,Undirected,1,0,1,0,1,1,15,0,
+Munaza Hassan,Shazia Marri,1,Undirected,0,1,0,0,1,1,16,0,
+Mahreen Razzaq Bhutto,Mahreen Razzaq Bhutto,1,Undirected,1,0,1,0,1,1,16,0,
+Mrs. Mahreen Razaque Bhutto,Syed Rafiullah,1,Undirected,1,0,1,0,1,4,15,0,
+Dr. Ramesh Kumar Vankwani,Ramesh Lal,1,Undirected,0,1,0,0,1,1,14,0,
+Seema Mohiuddin Jameeli,Shaheen Naz Saifullah,1,Undirected,0,1,0,0,1,2,15,0,
+Seema Mohiuddin Jameeli,Shunila Ruth,1,Undirected,0,1,0,0,1,2,15,0,
+Seema Mohiuddin Jameeli,Uzma Riaz,1,Undirected,0,1,0,0,1,2,15,0,
+Seema Mohiuddin Jameeli,Zahra Wadood Fatemi,1,Undirected,1,0,1,0,1,2,15,0,
+Seema Mohiuddin Jameeli,Zille Huma,1,Undirected,0,1,0,0,1,2,15,0,
+Syed Hussain Tariq,Syed Hussain Tariq,1,Undirected,1,0,1,0,1,4,15,0,
+Munaza Hassan,Qaisar Jamal,1,Undirected,1,0,1,0,1,3,14,0,
+Munaza Hassan,Qaisar Ahmad Sheikh,1,Undirected,0,1,0,0,1,3,14,0,
+Seema Mohiuddin Jameeli,Shahab-ud-Din Khan,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Parveen Masood Bhatti,Parveen Masood Bhatti,1,Undirected,1,0,1,0,1,5,14,0,
+Parveen Masood Bhatti,Salman Hanif,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Parveen Masood Bhatti,Qaisar Ahmad Sheikh,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Parveen Masood Bhatti,Shahab-ud-Din Khan,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Changaze Ahmed Khan,Changaze Ahmed Khan,1,Undirected,1,0,1,0,1,1,16,0,
+Syed Amin-ul-Haque,Syed Naveed Qamar,1,Undirected,0,1,0,0,1,1,16,0,
+Syed Amin-ul-Haque,Syed Hafeezuddin,1,Undirected,1,0,1,0,1,1,16,0,
+Syed Amin-ul-Haque,Syed Mustafa Kamal,1,Undirected,1,0,1,0,1,1,16,0,
+Syed Hafeezuddin,Syed Mustafa Kamal,1,Undirected,1,0,1,0,1,1,16,0,
+Muhammad Javed Hanif Khan,Syed Amin-ul-Haque,1,Undirected,1,0,1,0,1,1,16,0,
+Muhammad Javed Hanif Khan,Syed Hafeezuddin,1,Undirected,1,0,1,0,1,1,16,0,
+Muhammad Javed Hanif Khan,Syed Mustafa Kamal,1,Undirected,1,0,1,0,1,1,16,0,
+Dr. Shireen Mehrunnisa Mazari,Nafeesa Inayatullah Khan Khattak,1,Undirected,1,0,1,0,1,1,14,1,Parliamentary Affairs
+Qaisar Ahmad Sheikh,Salman Hanif,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Dr. Shireen Mehrunnisa Mazari,Ghulam Sarwar Khan,1,Undirected,1,0,1,0,1,1,14,1,Parliamentary Affairs
+Isphanyar M. Bhandara,Sanjay Perwani,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Isphanyar M. Bhandara,Ramesh Lal,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Isphanyar M. Bhandara,Syed Asif Hasnain,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Isphanyar M. Bhandara,Syed Ali Raza Abidi,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Isphanyar M. Bhandara,Shaikh Salahuddin,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Isphanyar M. Bhandara,S. A. Iqbal Qadri,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Dr. Shireen Mehrunnisa Mazari,Imran Zafar Leghari,1,Undirected,0,1,0,0,1,3,14,0,
+Isphanyar M. Bhandara,Kiran Haider,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Isphanyar M. Bhandara,Marvi Memon,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Isphanyar M. Bhandara,Leila Khan,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Mohammad Salman Khan Baloch,Tahira Asif,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Dr. Shireen Mehrunnisa Mazari,Murad Saeed,1,Undirected,1,0,1,0,1,3,14,0,
+Abdul Waseem,Tahira Asif,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Seema Mohiuddin Jameeli,Seema Mohiuddin Jameeli,1,Undirected,1,0,1,0,1,5,14,0,
+Hamid Ul Haq,Qaisar Ahmad Sheikh,1,Undirected,0,1,0,0,1,3,14,0,
+Amirullah,Amirullah,1,Undirected,1,0,1,0,1,2,14,0,
+Dr. Ramesh Kumar Vankwani,Saman Sultana Jafri,1,Undirected,0,1,0,0,1,4,14,0,
+Dr. Ramesh Kumar Vankwani,Muhammad Muzammil Qureshi,1,Undirected,0,1,0,0,1,4,14,0,
+Dr. Ramesh Kumar Vankwani,Mrs. Aliya Kamran,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Syed Asif Hasnain,Syed Asif Hasnain,1,Undirected,1,0,1,0,1,2,14,0,
+Amirullah,Qaisar Ahmad Sheikh,1,Undirected,0,1,0,0,1,3,14,0,
+Shehryar Afridi,Shehryar Afridi,1,Undirected,1,0,1,0,1,2,14,0,
+Imran Khattak,Sajid Khan,1,Undirected,1,0,1,0,1,2,15,0,
+Muhammad Rehan Hashmi,Tahira Asif,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Muhammad Rehan Hashmi,Syed Ali Raza Abidi,1,Undirected,1,0,1,0,1,1,14,1,"Law, Justice and Human Rights"
+Imran Khattak,Mehboob Shah,1,Undirected,1,0,1,0,1,2,15,0,
+Salman Hanif,Seema Mohiuddin Jameeli,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Salman Hanif,Shahab-ud-Din Khan,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Qaisar Ahmad Sheikh,Rai Hasan Nawaz Khan,1,Undirected,0,1,0,0,1,3,14,0,
+Qaisar Ahmad Sheikh,Seema Mohiuddin Jameeli,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Mussarat Ahmadzeb,Sher Akbar Khan,1,Undirected,0,1,0,0,1,4,14,0,
+Mussarat Ahmadzeb,Naeema Kishwar Khan,1,Undirected,0,1,0,0,1,5,14,0,
+Nafisa Shah,Nafisa Shah,1,Undirected,1,0,1,0,1,1,16,0,
+Imran Khattak,Rai Muhammad Murtaza Iqbal,1,Undirected,1,0,1,0,1,2,15,0,
+Muhammad Azam Khan Swati,Muhammad Farogh Nasim,1,Undirected,0,1,0,1,0,2,15,0,
+Muhammad Azam Khan Swati,Shahid Khaqan Abbasi,1,Undirected,0,1,0,0,1,2,15,0,
+Muhammad Azam Khan Swati,Rana Sana Ullah Khan,1,Undirected,0,1,0,0,1,2,15,0,
+Khawaja Sohail Mansoor,Sanjay Perwani,1,Undirected,1,0,1,0,1,3,14,0,
+Khawaja Sohail Mansoor,Saman Sultana Jafri,1,Undirected,1,0,1,0,1,5,14,0,
+Khawaja Sohail Mansoor,Tahira Asif,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Imran Khattak,Usman Khan Tarrakai,1,Undirected,1,0,1,0,1,3,15,0,
+Imran Khattak,Sher Ali Arbab,1,Undirected,1,0,1,0,1,3,15,0,
+Imran Khattak,Muhammad Ibrahim Khan,1,Undirected,1,0,1,0,1,3,15,0,
+Imran Khattak,Zulfiqar Ali Khan,1,Undirected,1,0,1,0,1,3,15,0,
+Imran Khattak,Syed Javed Hassnain,1,Undirected,0,1,0,0,1,3,15,0,
+Imran Khattak,Moulana Abdul Akbar Chitrali,1,Undirected,0,1,0,0,1,3,15,0,
+Qaisar Jamal,Qaisar Jamal,1,Undirected,1,0,1,0,1,2,14,0,
+Hamid Ul Haq,Qaisar Jamal,1,Undirected,1,0,1,0,1,3,14,0,
+Gul Dad Khan,Mujahid Ali,1,Undirected,1,0,1,0,1,3,15,0,
+Maulvi Asmatullah,Munir Khan Orakzai,1,Undirected,1,0,1,0,1,1,15,0,
+Maulvi Asmatullah,Mrs. Aliya Kamran,1,Undirected,1,0,1,0,1,1,15,0,
+Maulvi Asmatullah,Shahida Akhtar Ali,1,Undirected,1,0,0,0,1,1,15,0,
+Maulvi Asmatullah,Sardar Ayaz Sadiq,1,Undirected,0,1,0,0,1,3,15,0,
+Gul Dad Khan,Zulfiqar Ali Khan,1,Undirected,1,0,1,0,1,3,15,0,
+Gul Dad Khan,Syed Javed Hassnain,1,Undirected,0,1,0,0,1,3,15,0,
+Gul Dad Khan,Haider Ali,1,Undirected,1,0,1,0,1,3,15,0,
+Gul Dad Khan,Moulana Abdul Akbar Chitrali,1,Undirected,0,1,0,0,1,3,15,0,
+Imran Khattak,Shandana Gulzar Khan,1,Undirected,1,0,1,0,1,2,15,0,
+Imran Khattak,Shahid Ahmad,1,Undirected,1,0,1,0,1,2,15,0,
+Imran Khattak,Rana Muhammad Qasim Noon,1,Undirected,1,0,1,0,1,2,15,0,
+Mussarat Ahmadzeb,Sahib Zada Muhammad Yaqub,1,Undirected,0,1,0,0,1,4,14,0,
+Mussarat Ahmadzeb,Sahibzada Tariq Ullah,1,Undirected,0,1,0,0,1,4,14,0,
+Sher Akbar Khan,Sher Ali Arbab,1,Undirected,1,0,0,0,1,4,15,0,
+Imran Khattak,Raja Khurram Shahzad Nawaz,1,Undirected,1,0,1,0,1,2,15,0,
+Imran Khattak,Munaza Hassan,1,Undirected,1,0,1,0,1,1,14,1,Parliamentary Affairs
+Imran Khattak,Imran Zafar Leghari,1,Undirected,0,1,0,0,1,3,14,0,
+Abdul Shakoor,Abdul Shakoor,1,Undirected,1,0,1,1,0,5,15,0,
+Abdul Shakoor,Munir Khan Orakzai,1,Undirected,1,0,1,0,1,1,15,0,
+Abdul Shakoor,Afreen Khan,1,Undirected,1,0,1,0,1,1,15,0,
+Abdul Shakoor,Kamal Uddin,1,Undirected,1,0,1,0,1,1,15,0,
+Abdul Shakoor,Mrs. Aliya Kamran,1,Undirected,1,0,1,0,1,1,15,0,
+Abdul Shakoor,Shahida Akhtar Ali,1,Undirected,1,0,0,0,1,1,15,0,
+Abdul Shakoor,Sardar Ayaz Sadiq,1,Undirected,0,1,0,0,1,3,15,0,
+Imran Khattak,Makhdoom Shah Mahmood Qureshi,1,Undirected,1,0,1,0,1,3,14,0,
+Imran Khattak,Murad Saeed,1,Undirected,1,0,1,0,1,3,14,0,
+Imran Khattak,Jamshed Thomas,1,Undirected,1,0,1,0,1,2,15,0,
+Mujahid Ali,Zulfiqar Ali Khan,1,Undirected,1,0,1,0,1,3,15,0,
+Mujahid Ali,Syed Javed Hassnain,1,Undirected,0,1,0,0,1,3,15,0,
+Nooreen Farooq Khan,Samina Matloob,1,Undirected,0,1,0,0,1,2,15,0,
+Nooreen Farooq Khan,Rahat Aman Ullah Bhatti,1,Undirected,1,0,1,0,1,2,15,0,
+Nooreen Farooq Khan,Zahra Wadood Fatemi,1,Undirected,0,1,0,0,1,2,15,0,
+Nooreen Farooq Khan,Zille Huma,1,Undirected,1,0,1,0,1,2,15,0,
+Gul Zafar Khan,Usman Khan Tarrakai,1,Undirected,1,0,1,0,1,3,15,0,
+Gul Zafar Khan,Imran Khattak,1,Undirected,1,0,1,0,1,3,15,0,
+Gul Zafar Khan,Sher Ali Arbab,1,Undirected,1,0,1,0,1,3,15,0,
+Gul Zafar Khan,Muhammad Ibrahim Khan,1,Undirected,1,0,1,0,1,3,15,0,
+Gul Zafar Khan,Mujahid Ali,1,Undirected,1,0,1,0,1,3,15,0,
+Gul Zafar Khan,Zulfiqar Ali Khan,1,Undirected,1,0,1,0,1,3,15,0,
+Gul Zafar Khan,Syed Javed Hassnain,1,Undirected,0,1,0,0,1,3,15,0,
+Gul Zafar Khan,Haider Ali,1,Undirected,1,0,1,0,1,3,15,0,
+Gul Zafar Khan,Moulana Abdul Akbar Chitrali,1,Undirected,0,1,0,0,1,3,15,0,
+Gul Dad Khan,Usman Khan Tarrakai,1,Undirected,1,0,1,0,1,3,15,0,
+Gul Dad Khan,Imran Khattak,1,Undirected,1,0,1,0,1,3,15,0,
+Gul Dad Khan,Sher Ali Arbab,1,Undirected,1,0,1,0,1,3,15,0,
+Kiran Haider,Makhdoom Syed Ali Hassan Gillani,1,Undirected,1,0,1,0,1,1,14,1,"Law, Justice and Human Rights"
+Gul Dad Khan,Muhammad Ibrahim Khan,1,Undirected,1,0,1,0,1,3,15,0,
+Kiran Haider,Leila Khan,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Ahmad Hussain,Qadir Khan Mandokhail,1,Undirected,0,1,0,0,1,5,15,0,
+Mehnaz Akber Aziz,Syed Fakhar Imam,1,Undirected,0,1,0,0,1,2,15,0,
+Usman Khan Tarrakai,Zulfiqar Ali Khan,1,Undirected,1,0,1,0,1,3,15,0,
+Mehnaz Akber Aziz,Sher Ali Arbab,1,Undirected,0,1,0,0,1,4,15,0,
+Mehnaz Akber Aziz,Naz Baloch,1,Undirected,0,1,0,0,1,4,15,0,
+Sher Ali Arbab,Usman Khan Tarrakai,1,Undirected,1,0,1,0,1,3,15,0,
+Mehnaz Akber Aziz,Sher Akbar Khan,1,Undirected,0,1,0,0,1,4,15,0,
+Mehnaz Akber Aziz,Moulana Abdul Akbar Chitrali,1,Undirected,0,1,0,0,1,4,15,0,
+Sardar Akhter Jan Mengal,Sardar Akhter Jan Mengal,1,Undirected,1,0,1,0,1,3,15,0,
+Sher Ali Arbab,Zulfiqar Ali Khan,1,Undirected,1,0,1,0,1,3,15,0,
+Nooreen Farooq Khan,Shaheen Naz Saifullah,1,Undirected,1,0,1,0,1,2,15,0,
+Nooreen Farooq Khan,Shunila Ruth,1,Undirected,1,0,1,0,1,2,15,0,
+Nooreen Farooq Khan,Seema Mohiuddin Jameeli,1,Undirected,0,1,0,0,1,2,15,0,
+Mehnaz Akber Aziz,Zille Huma,1,Undirected,0,1,0,0,1,2,15,0,
+Sher Ali Arbab,Syed Javed Hassnain,1,Undirected,0,1,0,0,1,3,15,0,
+Mehnaz Akber Aziz,Sadaqat Ali Khan,1,Undirected,0,1,0,0,1,2,15,0,
+Mujahid Ali,Sajid Khan,1,Undirected,1,0,1,0,1,2,15,0,
+Isphanyar M. Bhandara,Seema Mohiuddin Jameeli,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Isphanyar M. Bhandara,Parveen Masood Bhatti,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Isphanyar M. Bhandara,Makhdoom Khusro Bakhtiar,1,Undirected,1,0,0,0,1,1,14,1,Interior and Narcotics Control
+Isphanyar M. Bhandara,Salman Hanif,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Isphanyar M. Bhandara,Qaisar Ahmad Sheikh,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Isphanyar M. Bhandara,Shahab-ud-Din Khan,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Isphanyar M. Bhandara,Muhammad Safdar,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Mujahid Ali,Zille Huma,1,Undirected,1,0,1,0,1,2,15,0,
+Mujahid Ali,Rai Muhammad Murtaza Iqbal,1,Undirected,1,0,1,0,1,2,15,0,
+Mujahid Ali,Sardar Ayaz Sadiq,1,Undirected,0,1,0,0,1,3,15,0,
+Mujahid Ali,Sher Ali Arbab,1,Undirected,1,0,1,0,1,3,15,0,
+Dr. Ramesh Kumar Vankwani,Reeta Ishwar,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Dr. Ramesh Kumar Vankwani,Romina Khurshid Alam,1,Undirected,1,0,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Asma Hadeed,Rai Muhammad Murtaza Iqbal,1,Undirected,1,0,1,0,1,2,15,0,
+Dr. Ramesh Kumar Vankwani,Sardar Kamal Khan Bangulzai,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Asma Hadeed,Sher Ali Arbab,1,Undirected,1,0,1,0,1,4,15,0,
+Asma Hadeed,Naz Baloch,1,Undirected,0,1,0,0,1,4,15,0,
+Dr. Ramesh Kumar Vankwani,Mohammad Khan Sherani,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Asma Hadeed,Riaz Fatyana,1,Undirected,1,0,1,0,1,4,15,0,
+Asma Hadeed,Sher Akbar Khan,1,Undirected,1,0,0,0,1,4,15,0,
+Mehnaz Akber Aziz,Shaheen Naz Saifullah,1,Undirected,0,1,0,0,1,2,15,0,
+Mehnaz Akber Aziz,Shunila Ruth,1,Undirected,0,1,0,0,1,2,15,0,
+Mehnaz Akber Aziz,Seema Mohiuddin Jameeli,1,Undirected,1,0,1,0,1,2,15,0,
+Mehnaz Akber Aziz,Uzma Riaz,1,Undirected,0,1,0,0,1,2,15,0,
+Mehnaz Akber Aziz,Samina Matloob,1,Undirected,1,0,1,0,1,2,15,0,
+Mehnaz Akber Aziz,Rahat Aman Ullah Bhatti,1,Undirected,0,1,0,0,1,2,15,0,
+Mehnaz Akber Aziz,Zahra Wadood Fatemi,1,Undirected,1,0,1,0,1,2,15,0,
+Mehnaz Akber Aziz,Muhammad Ibrahim Khan,1,Undirected,0,1,0,0,1,2,15,0,
+Dr. Ramesh Kumar Vankwani,Sahibzada Tariq Ullah,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Dr. Ramesh Kumar Vankwani,Sher Akbar Khan,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Asma Hadeed,Shunila Ruth,1,Undirected,1,0,1,0,1,2,15,0,
+Asma Hadeed,Seema Mohiuddin Jameeli,1,Undirected,0,1,0,0,1,2,15,0,
+Asma Hadeed,Uzma Riaz,1,Undirected,1,0,1,0,1,2,15,0,
+Asma Hadeed,Samina Matloob,1,Undirected,0,1,0,0,1,2,15,0,
+Asma Hadeed,Rahat Aman Ullah Bhatti,1,Undirected,1,0,1,0,1,2,15,0,
+Dr. Ramesh Kumar Vankwani,Qari Muhammad Yousaf,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Asma Hadeed,Zahra Wadood Fatemi,1,Undirected,0,1,0,0,1,2,15,0,
+Asma Hadeed,Muhammad Ibrahim Khan,1,Undirected,1,0,1,0,1,2,15,0,
+Dr. Ramesh Kumar Vankwani,Muhammad Gohar Shah,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Asma Hadeed,Jamshed Thomas,1,Undirected,1,0,1,0,1,2,15,0,
+Asma Hadeed,Sajid Khan,1,Undirected,1,0,1,0,1,2,15,0,
+Asma Hadeed,Mehboob Shah,1,Undirected,1,0,1,0,1,2,15,0,
+Dr. Nikhat Shakeel Khan,Tahira Asif,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Asma Hadeed,Mujahid Ali,1,Undirected,1,0,1,0,1,2,15,0,
+Asma Hadeed,Shahid Ahmad,1,Undirected,1,0,1,0,1,2,15,0,
+Asma Hadeed,Rana Muhammad Qasim Noon,1,Undirected,1,0,1,0,1,2,15,0,
+Asma Hadeed,Shaheen Naz Saifullah,1,Undirected,1,0,1,0,1,2,15,0,
+Kiran Haider,Parveen Masood Bhatti,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Mohammad Khan Sherani,Muhammad Gohar Shah,1,Undirected,1,0,1,0,1,1,14,1,"Law, Justice and Human Rights"
+Kiran Haider,Salman Hanif,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Nafeesa Inayatullah Khan Khattak,Syed Fakhar Imam,1,Undirected,1,0,1,0,1,2,15,0,
+Mohammad Khan Sherani,Mrs. Aliya Kamran,1,Undirected,1,0,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Mohammad Khan Sherani,Shahida Akhtar Ali,1,Undirected,1,0,1,0,1,1,14,1,"Law, Justice and Human Rights"
+Mohammad Khan Sherani,Reeta Ishwar,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Mohammad Khan Sherani,Phyllis Azeem,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Mohammad Khan Sherani,Romina Khurshid Alam,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Mohammad Khan Sherani,Sardar Kamal Khan Bangulzai,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Mohammad Khan Sherani,Sahibzada Tariq Ullah,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Mohammad Khan Sherani,Sher Akbar Khan,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Mohammad Khan Sherani,Qari Muhammad Yousaf,1,Undirected,1,0,1,0,1,1,14,1,"Law, Justice and Human Rights"
+Nafeesa Inayatullah Khan Khattak,Rai Muhammad Murtaza Iqbal,1,Undirected,1,0,1,0,1,3,15,0,
+Fauzia Behram,Shandana Gulzar Khan,1,Undirected,1,0,1,0,1,2,15,0,
+Fauzia Behram,Shahid Ahmad,1,Undirected,1,0,1,0,1,2,15,0,
+Fauzia Behram,Nafeesa Inayatullah Khan Khattak,1,Undirected,1,0,1,0,1,2,15,0,
+Fauzia Behram,Imran Khattak,1,Undirected,1,0,1,0,1,2,15,0,
+Fauzia Behram,Rana Muhammad Qasim Noon,1,Undirected,1,0,1,0,1,2,15,0,
+Fauzia Behram,Zille Huma,1,Undirected,1,0,1,0,1,2,15,0,
+Fauzia Behram,Raja Khurram Shahzad Nawaz,1,Undirected,1,0,1,0,1,2,15,0,
+Fauzia Behram,Fauzia Behram,1,Undirected,1,0,1,0,1,4,15,0,
+Nafeesa Inayatullah Khan Khattak,Shaheen Naz Saifullah,1,Undirected,1,0,1,0,1,2,15,0,
+Rao Muhammad Ajmal Khan,Rao Muhammad Ajmal Khan,1,Undirected,1,0,1,0,1,4,15,0,
+Nafeesa Inayatullah Khan Khattak,Shunila Ruth,1,Undirected,1,0,1,0,1,2,15,0,
+Naz Baloch,Sher Ali Arbab,1,Undirected,0,1,0,0,1,4,15,0,
+Naz Baloch,Riaz Fatyana,1,Undirected,0,1,0,0,1,4,15,0,
+Naz Baloch,Sher Akbar Khan,1,Undirected,0,1,0,0,1,4,15,0,
+Asma Hadeed,Shandana Gulzar Khan,1,Undirected,1,0,1,0,1,2,15,0,
+Dr. Seemin Abdul Rehman Bokhari,Dr. Seemin Abdul Rehman Bokhari,1,Undirected,1,0,1,0,1,4,15,0,
+Begum Tahira Bukhari,Khalid Hussain Magsi,1,Undirected,1,0,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Begum Tahira Bukhari,Makhdoom Syed Ali Hassan Gillani,1,Undirected,1,0,1,0,1,1,14,1,"Law, Justice and Human Rights"
+Begum Tahira Bukhari,Ibadullah,1,Undirected,1,0,1,0,1,1,14,1,"Law, Justice and Human Rights"
+Begum Tahira Bukhari,Isphanyar M. Bhandara,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Nafeesa Inayatullah Khan Khattak,Seema Mohiuddin Jameeli,1,Undirected,0,1,0,0,1,2,15,0,
+Begum Tahira Bukhari,Iffat Liaqat,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Nafeesa Inayatullah Khan Khattak,Samina Matloob,1,Undirected,0,1,0,0,1,2,15,0,
+Begum Tahira Bukhari,Leila Khan,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Nafeesa Inayatullah Khan Khattak,Rahat Aman Ullah Bhatti,1,Undirected,1,0,1,0,1,2,15,0,
+Begum Tahira Bukhari,Parveen Masood Bhatti,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Nafeesa Inayatullah Khan Khattak,Zahra Wadood Fatemi,1,Undirected,0,1,0,0,1,2,15,0,
+Begum Tahira Bukhari,Salman Hanif,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Nafeesa Inayatullah Khan Khattak,Siraj Muhammad Khan,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Nafeesa Inayatullah Khan Khattak,Sardar Riaz Mehmood Khan Mazari,1,Undirected,1,0,1,0,1,3,15,0,
+Kiran Imran,Kiran Imran,1,Undirected,1,0,1,0,1,4,15,0,
+Nafeesa Inayatullah Khan Khattak,Romina Khurshid Alam,1,Undirected,0,1,0,0,1,3,15,0,
+Jamshaid Ahmad Dasti,Jamshaid Ahmad Dasti,1,Undirected,1,0,1,0,1,2,14,0,
+Jamshaid Ahmad Dasti,Makhdoom Shah Mahmood Qureshi,1,Undirected,0,1,0,0,1,1,14,0,
+Dr. Seemin Abdul Rehman Bokhari,Shaheen Naz Saifullah,1,Undirected,1,0,1,0,1,2,15,0,
+Dr. Seemin Abdul Rehman Bokhari,Shunila Ruth,1,Undirected,1,0,1,0,1,2,15,0,
+Dr. Seemin Abdul Rehman Bokhari,Seema Mohiuddin Jameeli,1,Undirected,0,1,0,0,1,2,15,0,
+Dr. Seemin Abdul Rehman Bokhari,Uzma Riaz,1,Undirected,1,0,1,0,1,2,15,0,
+Dr. Seemin Abdul Rehman Bokhari,Samina Matloob,1,Undirected,0,1,0,0,1,2,15,0,
+Dr. Seemin Abdul Rehman Bokhari,Rahat Aman Ullah Bhatti,1,Undirected,1,0,1,0,1,2,15,0,
+Dr. Seemin Abdul Rehman Bokhari,Nafeesa Inayatullah Khan Khattak,1,Undirected,1,0,1,0,1,2,15,0,
+Dr. Seemin Abdul Rehman Bokhari,Zahra Wadood Fatemi,1,Undirected,0,1,0,0,1,2,15,0,
+Dr. Seemin Abdul Rehman Bokhari,Muhammad Ibrahim Khan,1,Undirected,1,0,1,0,1,2,15,0,
+Dr. Seemin Abdul Rehman Bokhari,Faheem Khan,1,Undirected,1,0,1,0,1,2,15,0,
+Dr. Seemin Abdul Rehman Bokhari,Mehnaz Akber Aziz,1,Undirected,0,1,0,0,1,2,15,0,
+Dr. Seemin Abdul Rehman Bokhari,Zille Huma,1,Undirected,1,0,1,0,1,2,15,0,
+Dr. Seemin Abdul Rehman Bokhari,Raja Khurram Shahzad Nawaz,1,Undirected,1,0,1,0,1,2,15,0,
+Zeb Jaffar,Zeb Jaffar,1,Undirected,1,0,1,0,1,1,16,0,
+Bilal Azhar Kayani,Sheikh Aftab Ahmed,1,Undirected,1,0,1,0,1,1,16,0,
+Bilal Azhar Kayani,Tariq Fazal Chaudhry,1,Undirected,1,0,1,0,1,1,16,0,
+Bilal Azhar Kayani,Raja Osama Sarwar,1,Undirected,1,0,1,0,1,1,16,0,
+Bilal Azhar Kayani,Syed Amin-ul-Haque,1,Undirected,0,1,0,0,1,1,16,0,
+Bilal Azhar Kayani,Syed Naveed Qamar,1,Undirected,0,1,0,0,1,1,16,0,
+Bilal Azhar Kayani,Syed Abrar Ali Shah,1,Undirected,0,1,0,0,1,1,16,0,
+Bilal Azhar Kayani,Bilal Azhar Kayani,1,Undirected,1,0,1,0,1,1,16,0,
+Engineer Mohammad Usman Badaini,Naeema Kishwar Khan,1,Undirected,0,1,0,0,1,5,14,0,
+Engineer Mohammad Usman Badaini,Qamar Ud Din,1,Undirected,0,1,0,0,1,5,14,0,
+Engineer Mohammad Usman Badaini,Muhammad Jamal Ud Din,1,Undirected,0,1,0,0,1,5,14,0,
+Engineer Mohammad Usman Badaini,Sahib Zada Muhammad Yaqub,1,Undirected,0,1,0,0,1,5,14,0,
+Engineer Mohammad Usman Badaini,Sahibzada Tariq Ullah,1,Undirected,0,1,0,0,1,5,14,0,
+Engineer Mohammad Usman Badaini,Sher Akbar Khan,1,Undirected,0,1,0,0,1,5,14,0,
+Engineer Mohammad Usman Badaini,Qari Muhammad Yousaf,1,Undirected,0,1,0,0,1,5,14,0,
+Engineer Mohammad Usman Badaini,Muhammad Gohar Shah,1,Undirected,0,1,0,0,1,5,14,0,
+Iffat Liaqat,Makhdoom Khusro Bakhtiar,1,Undirected,1,0,0,0,1,1,14,1,Interior and Narcotics Control
+Munir Khan Orakzai,Salah Ud Din Ayubi,1,Undirected,1,0,1,0,1,1,15,0,
+Munir Khan Orakzai,Shahida Akhtar Ali,1,Undirected,1,0,0,0,1,1,15,0,
+Munir Khan Orakzai,Sher Akbar Khan,1,Undirected,0,1,0,0,1,1,15,0,
+Kamal Uddin,Zahid Akram Durani,1,Undirected,1,0,1,0,1,1,15,0,
+Kamal Uddin,Munir Khan Orakzai,1,Undirected,1,0,1,0,1,1,15,0,
+Kamal Uddin,Syed Mehmood Shah,1,Undirected,1,0,1,0,1,1,15,0,
+Kamal Uddin,Salah Ud Din Ayubi,1,Undirected,1,0,1,0,1,1,15,0,
+Kamal Uddin,Mrs. Aliya Kamran,1,Undirected,1,0,1,0,1,1,15,0,
+Kamal Uddin,Shahida Akhtar Ali,1,Undirected,1,0,0,0,1,1,15,0,
+Kamal Uddin,Maulvi Asmatullah,1,Undirected,1,0,1,0,1,1,15,0,
+Kamal Uddin,Sher Akbar Khan,1,Undirected,0,1,0,0,1,1,15,0,
+Kamal Uddin,Moulana Abdul Akbar Chitrali,1,Undirected,1,0,1,0,1,1,15,0,
+Muhammad Abubakar,Qadir Khan Mandokhail,1,Undirected,0,1,0,0,1,5,15,0,
+Muhammad Abubakar,Salah-ud-Din,1,Undirected,0,1,0,0,1,5,15,0,
+Muhammad Abubakar,Tahira Aurangzeb,1,Undirected,0,1,0,0,1,5,15,0,
+Munir Khan Orakzai,Zahid Akram Durani,1,Undirected,1,0,1,0,1,1,15,0,
+Munir Khan Orakzai,Syed Mehmood Shah,1,Undirected,1,0,1,0,1,1,15,0,
+Dr. Nisar Ahmad,Jamshaid Ahmad Dasti,1,Undirected,0,1,0,0,1,1,14,0,
+Dr. Nisar Ahmad,Makhdoom Shah Mahmood Qureshi,1,Undirected,0,1,0,0,1,1,14,0,
+Marvi Memon,Seema Mohiuddin Jameeli,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Marvi Memon,Parveen Masood Bhatti,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Marvi Memon,Salman Hanif,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Maj. Retd. Tahir Iqbal,Nighat Parveen,1,Undirected,1,0,1,0,1,1,14,1,Religious Affairs and Inter-faith Harmony
+Maj. Retd. Tahir Iqbal,Malik Shakir Bashir Awan,1,Undirected,1,0,1,0,1,1,14,1,Religious Affairs and Inter-faith Harmony
+Nafeesa Inayatullah Khan Khattak,Shahid Ahmad,1,Undirected,1,0,1,0,1,2,15,0,
+Iffat Liaqat,Isphanyar M. Bhandara,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Iffat Liaqat,Kiran Haider,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Iffat Liaqat,Marvi Memon,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Iffat Liaqat,Leila Khan,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Iffat Liaqat,Seema Mohiuddin Jameeli,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Iffat Liaqat,Parveen Masood Bhatti,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Dr. Zulfiqar Ali Bhatti,Shakila Khalid Chaudhary,1,Undirected,1,0,1,0,1,5,15,0,
+Dr. Zulfiqar Ali Bhatti,James Iqbal,1,Undirected,0,1,0,0,1,5,15,0,
+Dr. Zulfiqar Ali Bhatti,Usama Qadri,1,Undirected,0,1,0,0,1,5,15,0,
+Samina Matloob,Shaheen Naz Saifullah,1,Undirected,0,1,0,0,1,2,15,0,
+Samina Matloob,Shunila Ruth,1,Undirected,0,1,0,0,1,2,15,0,
+Samina Matloob,Seema Mohiuddin Jameeli,1,Undirected,1,0,1,0,1,2,15,0,
+Samina Matloob,Uzma Riaz,1,Undirected,0,1,0,0,1,2,15,0,
+Samina Matloob,Zille Huma,1,Undirected,0,1,0,0,1,2,15,0,
+Samina Matloob,Samina Matloob,1,Undirected,1,0,1,0,1,5,15,0,
+Samina Matloob,Shakila Khalid Chaudhary,1,Undirected,1,0,1,0,1,5,15,0,
+Samina Matloob,Usama Qadri,1,Undirected,0,1,0,0,1,5,15,0,
+Abdul Shakoor Shad,Abdul Shakoor Shad,1,Undirected,1,0,1,1,0,2,15,0,
+Sheikh Aftab Ahmed,Usman Ibrahim,1,Undirected,1,0,1,1,0,3,14,0,
+Zahra Wadood Fatemi,Zille Huma,1,Undirected,0,1,0,0,1,2,15,0,
+Agha Muhammad,Mohammad Khan Sherani,1,Undirected,1,0,1,0,1,1,14,1,"Law, Justice and Human Rights"
+Ameer Zaman,Qamar Ud Din,1,Undirected,1,0,1,0,1,3,14,1,"Law, Justice and Human Rights"
+Ameer Zaman,Muhammad Jamal Ud Din,1,Undirected,1,0,0,0,1,3,14,1,"Law, Justice and Human Rights"
+Kanwar Naveed Jamil,Khawaja Sohail Mansoor,1,Undirected,1,0,1,0,1,5,14,0,
+Kanwar Naveed Jamil,Mohammad Salman Khan Baloch,1,Undirected,1,0,1,0,1,5,14,0,
+Ameer Zaman,Dr. Ramesh Kumar Vankwani,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Ameer Zaman,Reeta Ishwar,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Ameer Zaman,Phyllis Azeem,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Ameer Zaman,Romina Khurshid Alam,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Ameer Zaman,Sardar Kamal Khan Bangulzai,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Ameer Zaman,Mohammad Khan Sherani,1,Undirected,1,0,1,0,1,1,14,1,"Law, Justice and Human Rights"
+Ameer Zaman,Sahibzada Tariq Ullah,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Shakila Khalid Chaudhary,Usama Qadri,1,Undirected,0,1,0,0,1,5,15,0,
+Ameer Zaman,Sher Akbar Khan,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Muhammad Gohar Shah,Sardar Kamal Khan Bangulzai,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Agha Muhammad,Engineer Mohammad Usman Badaini,1,Undirected,0,1,0,0,1,5,14,0,
+Agha Muhammad,Aisha Syed,1,Undirected,0,1,0,0,1,5,14,0,
+Dr. Zulfiqar Ali Bhatti,Dr. Zulfiqar Ali Bhatti,1,Undirected,1,0,1,0,1,5,15,0,
+Aqibullah,Aqibullah,1,Undirected,1,0,1,0,1,2,14,0,
+Iffat Liaqat,Salman Hanif,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Iffat Liaqat,Qaisar Ahmad Sheikh,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Iffat Liaqat,Shahab-ud-Din Khan,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Iffat Liaqat,Muhammad Safdar,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Agha Muhammad,Qamar Ud Din,1,Undirected,1,0,1,0,1,5,14,0,
+Agha Muhammad,Sahib Zada Muhammad Yaqub,1,Undirected,0,1,0,0,1,5,14,0,
+Agha Muhammad,Dr. Ramesh Kumar Vankwani,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Agha Muhammad,Reeta Ishwar,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Agha Muhammad,Phyllis Azeem,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Agha Muhammad,Romina Khurshid Alam,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Farhana Qamar,Isphanyar M. Bhandara,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Agha Muhammad,Sardar Kamal Khan Bangulzai,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Farhana Qamar,Marvi Memon,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Farhana Qamar,Iffat Liaqat,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Farhana Qamar,Leila Khan,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Phyllis Azeem,Qari Muhammad Yousaf,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Qari Muhammad Yousaf,Sahib Zada Muhammad Yaqub,1,Undirected,0,1,0,0,1,5,14,0,
+Shahida Rehmani,Shahida Rehmani,1,Undirected,1,0,1,0,1,1,16,0,
+Syed Imran Ahmad Shah,Zulfiqar Ahmad,1,Undirected,1,0,1,0,1,5,15,0,
+Syed Imran Ahmad Shah,Syed Javed Hassnain,1,Undirected,1,0,1,0,1,5,15,0,
+Qari Muhammad Yousaf,Reeta Ishwar,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Qari Muhammad Yousaf,Romina Khurshid Alam,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Qari Muhammad Yousaf,Sardar Kamal Khan Bangulzai,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Muhammad Gohar Shah,Sahib Zada Muhammad Yaqub,1,Undirected,0,1,0,0,1,5,14,0,
+Ghulam Bibi Bharwana,Ghulam Bibi Bharwana,1,Undirected,1,0,1,0,1,2,15,0,
+Mr. Kamran Michael,Mr. Kamran Michael,1,Undirected,1,0,1,1,0,4,14,0,
+Rai Hasan Nawaz Khan,Rai Hasan Nawaz Khan,1,Undirected,1,0,1,0,1,2,14,0,
+Imran Khan,Nafeesa Inayatullah Khan Khattak,1,Undirected,1,0,1,0,1,2,15,0,
+Imran Khan,Noor Alam Khan,1,Undirected,1,0,1,0,1,2,15,0,
+Imran Khan,Sadaqat Ali Khan,1,Undirected,1,0,1,0,1,2,15,0,
+Imran Khan,Imran Khan,1,Undirected,1,0,1,0,1,2,14,0,
+Muhammad Gohar Shah,Reeta Ishwar,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Sadaqat Ali Khan,Syed Fakhar Imam,1,Undirected,1,0,1,0,1,2,15,0,
+Raja Khurram Shahzad Nawaz,Shandana Gulzar Khan,1,Undirected,1,0,1,0,1,2,15,0,
+Raja Khurram Shahzad Nawaz,Shahid Ahmad,1,Undirected,1,0,1,0,1,2,15,0,
+Raja Khurram Shahzad Nawaz,Rana Muhammad Qasim Noon,1,Undirected,1,0,1,0,1,2,15,0,
+Raja Khurram Shahzad Nawaz,Sher Akbar Khan,1,Undirected,1,0,0,0,1,3,15,0,
+Raja Khurram Shahzad Nawaz,Shaheen Naz Saifullah,1,Undirected,1,0,1,0,1,2,15,0,
+Raja Khurram Shahzad Nawaz,Shunila Ruth,1,Undirected,1,0,1,0,1,2,15,0,
+Raja Khurram Shahzad Nawaz,Seema Mohiuddin Jameeli,1,Undirected,0,1,0,0,1,2,15,0,
+Raja Khurram Shahzad Nawaz,Samina Matloob,1,Undirected,0,1,0,0,1,2,15,0,
+Raja Khurram Shahzad Nawaz,Zahra Wadood Fatemi,1,Undirected,0,1,0,0,1,2,15,0,
+Muhammad Gohar Shah,Phyllis Azeem,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Raja Khurram Shahzad Nawaz,Raja Khurram Shahzad Nawaz,1,Undirected,1,0,1,0,1,4,15,0,
+Raja Khurram Shahzad Nawaz,Sardar Riaz Mehmood Khan Mazari,1,Undirected,1,0,1,0,1,3,15,0,
+Muhammad Gohar Shah,Romina Khurshid Alam,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Raja Khurram Shahzad Nawaz,Sadaqat Ali Khan,1,Undirected,1,0,1,0,1,2,15,0,
+Ali Nawaz Awan,Zahra Wadood Fatemi,1,Undirected,0,1,0,0,1,2,15,0,
+Ali Nawaz Awan,Muhammad Ibrahim Khan,1,Undirected,1,0,1,0,1,2,15,0,
+Romina Khurshid Alam,Tariq Christopher Qaiser,1,Undirected,1,0,1,0,1,1,14,1,"Law, Justice and Human Rights"
+Romina Khurshid Alam,Shahida Akhtar Ali,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Ali Nawaz Awan,Ali Nawaz Awan,1,Undirected,1,0,1,0,1,4,15,0,
+Ali Nawaz Awan,Nusrat Wahid,1,Undirected,1,0,1,0,1,3,15,0,
+Ali Nawaz Awan,Mian Najibuddin Awaisi,1,Undirected,0,1,0,0,1,2,15,0,
+Romina Khurshid Alam,Sardar Kamal Khan Bangulzai,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Ali Nawaz Awan,Sardar Riaz Mehmood Khan Mazari,1,Undirected,1,0,1,0,1,3,15,0,
+Ali Nawaz Awan,Romina Khurshid Alam,1,Undirected,0,1,0,0,1,3,15,0,
+Romina Khurshid Alam,Sahibzada Tariq Ullah,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Romina Khurshid Alam,Sher Akbar Khan,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Sardar Kamal Khan Bangulzai,Shahida Akhtar Ali,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Ali Nawaz Awan,Sadaqat Ali Khan,1,Undirected,1,0,1,0,1,2,15,0,
+Ali Nawaz Awan,Amjid Ali Khan,1,Undirected,1,0,1,0,1,2,15,0,
+Sardar Kamal Khan Bangulzai,Sher Akbar Khan,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Aamer Mehmood Kiyani,Romina Khurshid Alam,1,Undirected,0,1,0,0,1,3,15,0,
+Aamer Mehmood Kiyani,Riaz Fatyana,1,Undirected,1,0,1,0,1,3,15,0,
+Saira Afzal Tarar,Saira Afzal Tarar,1,Undirected,1,0,1,1,0,5,14,0,
+Phyllis Azeem,Tariq Christopher Qaiser,1,Undirected,1,0,1,0,1,1,14,1,"Law, Justice and Human Rights"
+Ali Nawaz Awan,Shandana Gulzar Khan,1,Undirected,1,0,1,0,1,2,15,0,
+Ali Nawaz Awan,Shahid Ahmad,1,Undirected,1,0,1,0,1,2,15,0,
+Ali Nawaz Awan,Fauzia Behram,1,Undirected,1,0,1,0,1,2,15,0,
+Ali Nawaz Awan,Imran Khattak,1,Undirected,1,0,1,0,1,2,15,0,
+Ali Nawaz Awan,Rana Muhammad Qasim Noon,1,Undirected,1,0,1,0,1,2,15,0,
+Ali Nawaz Awan,Shaheen Naz Saifullah,1,Undirected,1,0,1,0,1,2,15,0,
+Ali Nawaz Awan,Shunila Ruth,1,Undirected,1,0,1,0,1,2,15,0,
+Ali Nawaz Awan,Dr. Seemin Abdul Rehman Bokhari,1,Undirected,1,0,1,0,1,2,15,0,
+Ali Nawaz Awan,Seema Mohiuddin Jameeli,1,Undirected,0,1,0,0,1,2,15,0,
+Ali Nawaz Awan,Samina Matloob,1,Undirected,0,1,0,0,1,2,15,0,
+Ali Nawaz Awan,Rahat Aman Ullah Bhatti,1,Undirected,1,0,1,0,1,2,15,0,
+Phyllis Azeem,Sardar Kamal Khan Bangulzai,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Mehboob Shah,Zille Huma,1,Undirected,1,0,1,0,1,2,15,0,
+Mehboob Shah,Rai Muhammad Murtaza Iqbal,1,Undirected,1,0,1,0,1,2,15,0,
+Phyllis Azeem,Sahibzada Tariq Ullah,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Phyllis Azeem,Sher Akbar Khan,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Dr. Khalid Maqbool Siddiqui,Mohammad Salman Khan Baloch,1,Undirected,1,0,1,0,1,5,14,0,
+Kishwer Zehra,Naveed Aamir,1,Undirected,0,1,0,0,1,1,15,0,
+Kishwer Zehra,Muhammad Abubakar,1,Undirected,0,1,0,0,1,5,15,0,
+Kishwer Zehra,Qadir Khan Mandokhail,1,Undirected,0,1,0,0,1,5,15,0,
+Muhammad Hammad Azhar,Zaheer-ud-Din Babar Awan,1,Undirected,1,0,1,1,0,3,15,0,
+Kishwer Zehra,Mrs. Aliya Kamran,1,Undirected,0,1,0,0,1,5,15,0,
+Mian Abdul Manan,Mian Abdul Manan,1,Undirected,1,0,1,0,1,2,14,0,
+Dr. Muhammad Azhar Khan Jadoon,Nafeesa Inayatullah Khan Khattak,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Dr. Muhammad Azhar Khan Jadoon,Siraj Muhammad Khan,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Kishwer Zehra,Malik Nawab Sher Waseer,1,Undirected,0,1,0,0,1,5,15,0,
+Aamer Mehmood Kiyani,Ali Nawaz Awan,1,Undirected,1,0,1,0,1,3,15,0,
+Aamer Mehmood Kiyani,Nafeesa Inayatullah Khan Khattak,1,Undirected,1,0,1,0,1,3,15,0,
+Asghar Ali Shah,Dr. Azra Fazal Pecheho,1,Undirected,1,0,1,0,1,1,14,1,Cabinet Secretariat
+Asghar Ali Shah,Khwaja Ghulam Rasool Koreja,1,Undirected,1,0,1,0,1,1,14,1,Cabinet Secretariat
+Dawar Khan Kundi,Dr. Shireen Mehrunnisa Mazari,1,Undirected,1,0,1,0,1,3,14,0,
+Dawar Khan Kundi,Dr. Arif Alvi,1,Undirected,1,0,1,0,1,3,14,0,
+Dawar Khan Kundi,Imran Zafar Leghari,1,Undirected,0,1,0,0,1,3,14,0,
+Dawar Khan Kundi,Makhdoom Shah Mahmood Qureshi,1,Undirected,1,0,1,0,1,3,14,0,
+Dawar Khan Kundi,Murad Saeed,1,Undirected,1,0,1,0,1,3,14,0,
+Dawar Khan Kundi,Imran Khattak,1,Undirected,1,0,1,0,1,3,14,0,
+Sajid Khan,Zille Huma,1,Undirected,1,0,1,0,1,2,15,0,
+Jamshed Thomas,Sajid Khan,1,Undirected,1,0,1,0,1,2,15,0,
+Jamshed Thomas,Mehboob Shah,1,Undirected,1,0,1,0,1,2,15,0,
+Jamshed Thomas,Mujahid Ali,1,Undirected,1,0,1,0,1,2,15,0,
+Jamshed Thomas,Zille Huma,1,Undirected,1,0,1,0,1,2,15,0,
+Jamshed Thomas,Rai Muhammad Murtaza Iqbal,1,Undirected,1,0,1,0,1,2,15,0,
+Mehboob Shah,Sajid Khan,1,Undirected,1,0,1,0,1,2,15,0,
+Mehboob Shah,Mujahid Ali,1,Undirected,1,0,1,0,1,2,15,0,
+Atta Ullah,Muhammad Ibrahim Khan,1,Undirected,1,0,1,0,1,2,15,0,
+Reeta Ishwar,Sardar Kamal Khan Bangulzai,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Atta Ullah,Mehnaz Akber Aziz,1,Undirected,0,1,0,0,1,2,15,0,
+Reeta Ishwar,Sahibzada Tariq Ullah,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Reeta Ishwar,Sher Akbar Khan,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Shazia Sobia Aslam Soomro,Syed Ali Qasim Gillani,1,Undirected,1,0,1,0,1,1,16,0,
+Mirza Ikhtiar Baig,Syed Ali Qasim Gillani,1,Undirected,1,0,1,0,1,1,16,0,
+Mirza Ikhtiar Baig,Naveed Amir,1,Undirected,1,0,1,0,1,1,16,0,
+Mirza Ikhtiar Baig,Ramesh Lal,1,Undirected,1,0,1,0,1,1,16,0,
+Mirza Ikhtiar Baig,Shazia Sobia Aslam Soomro,1,Undirected,1,0,1,0,1,1,16,0,
+Romina Khurshid Alam,Romina Khurshid Alam,1,Undirected,1,0,1,0,1,4,15,0,
+Dr. Darshan,Syed Asif Hasnain,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Syed Abrar Ali Shah,Syed Amin-ul-Haque,1,Undirected,0,1,0,0,1,1,16,0,
+Syed Abrar Ali Shah,Syed Naveed Qamar,1,Undirected,1,0,1,0,1,1,16,0,
+Khwaja Ghulam Rasool Koreja,Ms. Nafisa Shah,1,Undirected,1,0,1,0,1,1,14,1,Cabinet Secretariat
+Asghar Ali Shah,Ms. Nafisa Shah,1,Undirected,1,0,1,0,1,1,14,1,Cabinet Secretariat
+Atta Ullah,Atta Ullah,1,Undirected,1,0,1,0,1,3,15,0,
+Atta Ullah,Shandana Gulzar Khan,1,Undirected,1,0,1,0,1,2,15,0,
+Atta Ullah,Shahid Ahmad,1,Undirected,1,0,1,0,1,2,15,0,
+Atta Ullah,Fauzia Behram,1,Undirected,1,0,1,0,1,2,15,0,
+Atta Ullah,Imran Khattak,1,Undirected,1,0,1,0,1,2,15,0,
+Atta Ullah,Rana Muhammad Qasim Noon,1,Undirected,1,0,1,0,1,2,15,0,
+Atta Ullah,Shaheen Naz Saifullah,1,Undirected,1,0,1,0,1,2,15,0,
+Atta Ullah,Shunila Ruth,1,Undirected,1,0,1,0,1,2,15,0,
+Atta Ullah,Dr. Seemin Abdul Rehman Bokhari,1,Undirected,1,0,1,0,1,2,15,0,
+Atta Ullah,Seema Mohiuddin Jameeli,1,Undirected,0,1,0,0,1,2,15,0,
+Atta Ullah,Uzma Riaz,1,Undirected,1,0,1,0,1,2,15,0,
+Atta Ullah,Samina Matloob,1,Undirected,0,1,0,0,1,2,15,0,
+Atta Ullah,Rahat Aman Ullah Bhatti,1,Undirected,1,0,1,0,1,2,15,0,
+Atta Ullah,Nooreen Farooq Khan,1,Undirected,1,0,1,0,1,2,15,0,
+Dr. Darshan,Syed Ali Raza Abidi,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Atta Ullah,Zahra Wadood Fatemi,1,Undirected,0,1,0,0,1,2,15,0,
+Leila Khan,Shahab-ud-Din Khan,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Leila Khan,Muhammad Safdar,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Makhdoom Khusro Bakhtiar,Makhdoom Syed Ali Hassan Gillani,1,Undirected,1,0,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Makhdoom Khusro Bakhtiar,Makhdoom Khusro Bakhtiar,1,Undirected,1,0,1,1,0,2,15,0,
+Shaheen Naz Saifullah,Shunila Ruth,1,Undirected,1,0,1,0,1,2,15,0,
+Shaheen Naz Saifullah,Uzma Riaz,1,Undirected,1,0,1,0,1,2,15,0,
+Shaheen Naz Saifullah,Zahra Wadood Fatemi,1,Undirected,0,1,0,0,1,2,15,0,
+Shaheen Naz Saifullah,Zille Huma,1,Undirected,1,0,1,0,1,2,15,0,
+Rahat Aman Ullah Bhatti,Shaheen Naz Saifullah,1,Undirected,1,0,1,0,1,2,15,0,
+Rahat Aman Ullah Bhatti,Shunila Ruth,1,Undirected,1,0,1,0,1,2,15,0,
+Rahat Aman Ullah Bhatti,Seema Mohiuddin Jameeli,1,Undirected,0,1,0,0,1,2,15,0,
+Rahat Aman Ullah Bhatti,Uzma Riaz,1,Undirected,1,0,1,0,1,2,15,0,
+Rahat Aman Ullah Bhatti,Samina Matloob,1,Undirected,0,1,0,0,1,2,15,0,
+Rahat Aman Ullah Bhatti,Zahra Wadood Fatemi,1,Undirected,0,1,0,0,1,2,15,0,
+Rahat Aman Ullah Bhatti,Zille Huma,1,Undirected,1,0,1,0,1,2,15,0,
+Rahat Aman Ullah Bhatti,Raja Khurram Shahzad Nawaz,1,Undirected,1,0,1,0,1,2,15,0,
+Syed Ayaz Ali Shah Sheerazi,Syed Ayaz Ali Shah Sheerazi,1,Undirected,1,0,1,0,1,5,14,0,
+Raja Osama Sarwar,Zeb Jaffar,1,Undirected,1,0,1,0,1,1,16,0,
+Dr. Darshan,Shaikh Salahuddin,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Dr. Darshan,S. A. Iqbal Qadri,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Farhana Qamar,Parveen Masood Bhatti,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Farhana Qamar,Makhdoom Khusro Bakhtiar,1,Undirected,1,0,0,0,1,1,14,1,Interior and Narcotics Control
+Farhana Qamar,Salman Hanif,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Farhana Qamar,Qaisar Ahmad Sheikh,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Farhana Qamar,Shahab-ud-Din Khan,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+S. A. Iqbal Qadri,Tahira Asif,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Khalil George,Tariq Christopher Qaiser,1,Undirected,1,0,1,0,1,1,14,1,"Law, Justice and Human Rights"
+Leila Khan,Seema Mohiuddin Jameeli,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Leila Khan,Parveen Masood Bhatti,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Leila Khan,Makhdoom Khusro Bakhtiar,1,Undirected,1,0,0,0,1,1,14,1,Interior and Narcotics Control
+Leila Khan,Salman Hanif,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Leila Khan,Qaisar Ahmad Sheikh,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Khalil George,Reeta Ishwar,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Makhdoom Khusro Bakhtiar,Seema Mohiuddin Jameeli,1,Undirected,1,0,0,0,1,1,14,1,Interior and Narcotics Control
+Makhdoom Khusro Bakhtiar,Parveen Masood Bhatti,1,Undirected,1,0,0,0,1,1,14,1,Interior and Narcotics Control
+Makhdoom Khusro Bakhtiar,Salman Hanif,1,Undirected,1,0,0,0,1,1,14,1,Interior and Narcotics Control
+Khalil George,Phyllis Azeem,1,Undirected,1,0,1,0,1,1,14,1,"Law, Justice and Human Rights"
+Khalil George,Romina Khurshid Alam,1,Undirected,1,0,1,0,1,1,14,1,"Law, Justice and Human Rights"
+Reeta Ishwar,Tariq Christopher Qaiser,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Reeta Ishwar,Shahida Akhtar Ali,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Lal Chand Malhi,S. A. Iqbal Qadri,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Ramesh Lal,Syed Ali Qasim Gillani,1,Undirected,1,0,1,0,1,1,16,0,
+Ramesh Lal,Shazia Sobia Aslam Soomro,1,Undirected,1,0,1,0,1,1,16,0,
+Ramesh Lal,Ramesh Lal,1,Undirected,1,0,1,0,1,1,15,0,
+Muhammad Safdar,Parveen Masood Bhatti,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Muhammad Safdar,Salman Hanif,1,Undirected,1,0,1,0,1,1,14,1,Interior and Narcotics Control
+Ramesh Lal,Sanjay Perwani,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Ramesh Lal,Syed Asif Hasnain,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Muhammad Ali Rashid,Muhammad Ali Rashid,1,Undirected,1,0,1,0,1,5,14,0,
+Tariq Fazal Chaudhry,Tariq Fazal Chaudhry,1,Undirected,1,0,1,0,1,1,16,0,
+Ramesh Lal,Syed Ali Raza Abidi,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Syed Sajid Mehdi,Syed Sajid Mehdi,1,Undirected,1,0,1,0,1,4,15,0,
+Sahibzada Tariq Ullah,Shahida Akhtar Ali,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Farooq Hamid Naek,Mohammad Ayaz Soomro,1,Undirected,1,0,1,0,1,1,14,0,
+Ramesh Lal,Shaikh Salahuddin,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Zartaj Gull,Zartaj Gull,1,Undirected,1,0,1,1,0,4,15,0,
+Ramesh Lal,S. A. Iqbal Qadri,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
+Shandana Gulzar Khan,Zille Huma,1,Undirected,1,0,1,0,1,2,15,0,
+Dr. Darshan,Dr. Ramesh Kumar Vankwani,1,Undirected,1,0,0,0,1,1,14,0,
+Nawabzada Iftikhar Ahmed Khan Babar,Sahibzada Sibghatullah,1,Undirected,0,1,0,0,1,1,16,0,
+Mian Riaz Hussain Pirzada,Mian Riaz Hussain Pirzada,1,Undirected,1,0,1,1,0,1,16,0,
+Syed Shibli Faraz,Syed Shibli Faraz,1,Undirected,1,0,1,1,0,4,15,0,
+Siraj Muhammad Khan,Siraj Muhammad Khan,1,Undirected,1,0,1,0,1,5,14,0,
+Sahibzada Tariq Ullah,Sardar Kamal Khan Bangulzai,1,Undirected,0,1,0,0,1,1,14,1,"Law, Justice and Human Rights"
